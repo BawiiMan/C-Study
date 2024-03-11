@@ -1,0 +1,14 @@
+C:\ReC#\GenericPros\GenericPros\bin\Debug\net8.0\GenericPros.exe
+C:\ReC#\GenericPros\GenericPros\bin\Debug\net8.0\GenericPros.deps.json
+C:\ReC#\GenericPros\GenericPros\bin\Debug\net8.0\GenericPros.runtimeconfig.json
+C:\ReC#\GenericPros\GenericPros\bin\Debug\net8.0\GenericPros.dll
+C:\ReC#\GenericPros\GenericPros\bin\Debug\net8.0\GenericPros.pdb
+C:\ReC#\GenericPros\GenericPros\obj\Debug\net8.0\GenericPros.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\GenericPros\GenericPros\obj\Debug\net8.0\GenericPros.AssemblyInfoInputs.cache
+C:\ReC#\GenericPros\GenericPros\obj\Debug\net8.0\GenericPros.AssemblyInfo.cs
+C:\ReC#\GenericPros\GenericPros\obj\Debug\net8.0\GenericPros.csproj.CoreCompileInputs.cache
+C:\ReC#\GenericPros\GenericPros\obj\Debug\net8.0\GenericPros.dll
+C:\ReC#\GenericPros\GenericPros\obj\Debug\net8.0\refint\GenericPros.dll
+C:\ReC#\GenericPros\GenericPros\obj\Debug\net8.0\GenericPros.pdb
+C:\ReC#\GenericPros\GenericPros\obj\Debug\net8.0\GenericPros.genruntimeconfig.cache
+C:\ReC#\GenericPros\GenericPros\obj\Debug\net8.0\ref\GenericPros.dll

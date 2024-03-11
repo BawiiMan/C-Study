@@ -1,0 +1,14 @@
+C:\ReC#\Comment\Comment\bin\Debug\net8.0\Comment.exe
+C:\ReC#\Comment\Comment\bin\Debug\net8.0\Comment.deps.json
+C:\ReC#\Comment\Comment\bin\Debug\net8.0\Comment.runtimeconfig.json
+C:\ReC#\Comment\Comment\bin\Debug\net8.0\Comment.dll
+C:\ReC#\Comment\Comment\bin\Debug\net8.0\Comment.pdb
+C:\ReC#\Comment\Comment\obj\Debug\net8.0\Comment.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\Comment\Comment\obj\Debug\net8.0\Comment.AssemblyInfoInputs.cache
+C:\ReC#\Comment\Comment\obj\Debug\net8.0\Comment.AssemblyInfo.cs
+C:\ReC#\Comment\Comment\obj\Debug\net8.0\Comment.csproj.CoreCompileInputs.cache
+C:\ReC#\Comment\Comment\obj\Debug\net8.0\Comment.dll
+C:\ReC#\Comment\Comment\obj\Debug\net8.0\refint\Comment.dll
+C:\ReC#\Comment\Comment\obj\Debug\net8.0\Comment.pdb
+C:\ReC#\Comment\Comment\obj\Debug\net8.0\Comment.genruntimeconfig.cache
+C:\ReC#\Comment\Comment\obj\Debug\net8.0\ref\Comment.dll

@@ -1,0 +1,14 @@
+C:\ReC#\Var\Var\bin\Debug\net8.0\Var.exe
+C:\ReC#\Var\Var\bin\Debug\net8.0\Var.deps.json
+C:\ReC#\Var\Var\bin\Debug\net8.0\Var.runtimeconfig.json
+C:\ReC#\Var\Var\bin\Debug\net8.0\Var.dll
+C:\ReC#\Var\Var\bin\Debug\net8.0\Var.pdb
+C:\ReC#\Var\Var\obj\Debug\net8.0\Var.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\Var\Var\obj\Debug\net8.0\Var.AssemblyInfoInputs.cache
+C:\ReC#\Var\Var\obj\Debug\net8.0\Var.AssemblyInfo.cs
+C:\ReC#\Var\Var\obj\Debug\net8.0\Var.csproj.CoreCompileInputs.cache
+C:\ReC#\Var\Var\obj\Debug\net8.0\Var.dll
+C:\ReC#\Var\Var\obj\Debug\net8.0\refint\Var.dll
+C:\ReC#\Var\Var\obj\Debug\net8.0\Var.pdb
+C:\ReC#\Var\Var\obj\Debug\net8.0\Var.genruntimeconfig.cache
+C:\ReC#\Var\Var\obj\Debug\net8.0\ref\Var.dll

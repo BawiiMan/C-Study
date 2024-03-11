@@ -1,0 +1,14 @@
+C:\ReC#\Quotes\Quotes\bin\Debug\net8.0\Quotes.exe
+C:\ReC#\Quotes\Quotes\bin\Debug\net8.0\Quotes.deps.json
+C:\ReC#\Quotes\Quotes\bin\Debug\net8.0\Quotes.runtimeconfig.json
+C:\ReC#\Quotes\Quotes\bin\Debug\net8.0\Quotes.dll
+C:\ReC#\Quotes\Quotes\bin\Debug\net8.0\Quotes.pdb
+C:\ReC#\Quotes\Quotes\obj\Debug\net8.0\Quotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\Quotes\Quotes\obj\Debug\net8.0\Quotes.AssemblyInfoInputs.cache
+C:\ReC#\Quotes\Quotes\obj\Debug\net8.0\Quotes.AssemblyInfo.cs
+C:\ReC#\Quotes\Quotes\obj\Debug\net8.0\Quotes.csproj.CoreCompileInputs.cache
+C:\ReC#\Quotes\Quotes\obj\Debug\net8.0\Quotes.dll
+C:\ReC#\Quotes\Quotes\obj\Debug\net8.0\refint\Quotes.dll
+C:\ReC#\Quotes\Quotes\obj\Debug\net8.0\Quotes.pdb
+C:\ReC#\Quotes\Quotes\obj\Debug\net8.0\Quotes.genruntimeconfig.cache
+C:\ReC#\Quotes\Quotes\obj\Debug\net8.0\ref\Quotes.dll

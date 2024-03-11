@@ -1,0 +1,14 @@
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\bin\Debug\net8.0\ConstructorToDestructor.exe
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\bin\Debug\net8.0\ConstructorToDestructor.deps.json
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\bin\Debug\net8.0\ConstructorToDestructor.runtimeconfig.json
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\bin\Debug\net8.0\ConstructorToDestructor.dll
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\bin\Debug\net8.0\ConstructorToDestructor.pdb
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\obj\Debug\net8.0\ConstructorToDestructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\obj\Debug\net8.0\ConstructorToDestructor.AssemblyInfoInputs.cache
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\obj\Debug\net8.0\ConstructorToDestructor.AssemblyInfo.cs
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\obj\Debug\net8.0\ConstructorToDestructor.csproj.CoreCompileInputs.cache
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\obj\Debug\net8.0\ConstructorToDestructor.dll
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\obj\Debug\net8.0\refint\ConstructorToDestructor.dll
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\obj\Debug\net8.0\ConstructorToDestructor.pdb
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\obj\Debug\net8.0\ConstructorToDestructor.genruntimeconfig.cache
+C:\ReC#\ConstructorToDestructor\ConstructorToDestructor\obj\Debug\net8.0\ref\ConstructorToDestructor.dll

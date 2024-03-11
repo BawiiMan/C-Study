@@ -1,0 +1,14 @@
+C:\ReC#\DecimalDemo\DecimalDemo\bin\Debug\net8.0\DecimalDemo.exe
+C:\ReC#\DecimalDemo\DecimalDemo\bin\Debug\net8.0\DecimalDemo.deps.json
+C:\ReC#\DecimalDemo\DecimalDemo\bin\Debug\net8.0\DecimalDemo.runtimeconfig.json
+C:\ReC#\DecimalDemo\DecimalDemo\bin\Debug\net8.0\DecimalDemo.dll
+C:\ReC#\DecimalDemo\DecimalDemo\bin\Debug\net8.0\DecimalDemo.pdb
+C:\ReC#\DecimalDemo\DecimalDemo\obj\Debug\net8.0\DecimalDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DecimalDemo\DecimalDemo\obj\Debug\net8.0\DecimalDemo.AssemblyInfoInputs.cache
+C:\ReC#\DecimalDemo\DecimalDemo\obj\Debug\net8.0\DecimalDemo.AssemblyInfo.cs
+C:\ReC#\DecimalDemo\DecimalDemo\obj\Debug\net8.0\DecimalDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\DecimalDemo\DecimalDemo\obj\Debug\net8.0\DecimalDemo.dll
+C:\ReC#\DecimalDemo\DecimalDemo\obj\Debug\net8.0\refint\DecimalDemo.dll
+C:\ReC#\DecimalDemo\DecimalDemo\obj\Debug\net8.0\DecimalDemo.pdb
+C:\ReC#\DecimalDemo\DecimalDemo\obj\Debug\net8.0\DecimalDemo.genruntimeconfig.cache
+C:\ReC#\DecimalDemo\DecimalDemo\obj\Debug\net8.0\ref\DecimalDemo.dll

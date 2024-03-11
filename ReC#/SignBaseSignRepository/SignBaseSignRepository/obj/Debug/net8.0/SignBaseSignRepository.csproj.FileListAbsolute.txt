@@ -1,0 +1,14 @@
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\bin\Debug\net8.0\SignBaseSignRepository.exe
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\bin\Debug\net8.0\SignBaseSignRepository.deps.json
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\bin\Debug\net8.0\SignBaseSignRepository.runtimeconfig.json
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\bin\Debug\net8.0\SignBaseSignRepository.dll
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\bin\Debug\net8.0\SignBaseSignRepository.pdb
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\obj\Debug\net8.0\SignBaseSignRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\obj\Debug\net8.0\SignBaseSignRepository.AssemblyInfoInputs.cache
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\obj\Debug\net8.0\SignBaseSignRepository.AssemblyInfo.cs
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\obj\Debug\net8.0\SignBaseSignRepository.csproj.CoreCompileInputs.cache
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\obj\Debug\net8.0\SignBaseSignRepository.dll
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\obj\Debug\net8.0\refint\SignBaseSignRepository.dll
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\obj\Debug\net8.0\SignBaseSignRepository.pdb
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\obj\Debug\net8.0\SignBaseSignRepository.genruntimeconfig.cache
+C:\ReC#\SignBaseSignRepository\SignBaseSignRepository\obj\Debug\net8.0\ref\SignBaseSignRepository.dll

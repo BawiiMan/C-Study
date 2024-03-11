@@ -1,0 +1,14 @@
+C:\ReC#\PetDemo\PetDemo\bin\Debug\net8.0\PetDemo.exe
+C:\ReC#\PetDemo\PetDemo\bin\Debug\net8.0\PetDemo.deps.json
+C:\ReC#\PetDemo\PetDemo\bin\Debug\net8.0\PetDemo.runtimeconfig.json
+C:\ReC#\PetDemo\PetDemo\bin\Debug\net8.0\PetDemo.dll
+C:\ReC#\PetDemo\PetDemo\bin\Debug\net8.0\PetDemo.pdb
+C:\ReC#\PetDemo\PetDemo\obj\Debug\net8.0\PetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PetDemo\PetDemo\obj\Debug\net8.0\PetDemo.AssemblyInfoInputs.cache
+C:\ReC#\PetDemo\PetDemo\obj\Debug\net8.0\PetDemo.AssemblyInfo.cs
+C:\ReC#\PetDemo\PetDemo\obj\Debug\net8.0\PetDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\PetDemo\PetDemo\obj\Debug\net8.0\PetDemo.dll
+C:\ReC#\PetDemo\PetDemo\obj\Debug\net8.0\refint\PetDemo.dll
+C:\ReC#\PetDemo\PetDemo\obj\Debug\net8.0\PetDemo.pdb
+C:\ReC#\PetDemo\PetDemo\obj\Debug\net8.0\PetDemo.genruntimeconfig.cache
+C:\ReC#\PetDemo\PetDemo\obj\Debug\net8.0\ref\PetDemo.dll

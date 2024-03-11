@@ -1,0 +1,14 @@
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\bin\Debug\net8.0\AverageAlgorithm.exe
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\bin\Debug\net8.0\AverageAlgorithm.deps.json
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\bin\Debug\net8.0\AverageAlgorithm.runtimeconfig.json
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\bin\Debug\net8.0\AverageAlgorithm.dll
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\bin\Debug\net8.0\AverageAlgorithm.pdb
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\obj\Debug\net8.0\AverageAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\obj\Debug\net8.0\AverageAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\obj\Debug\net8.0\AverageAlgorithm.AssemblyInfo.cs
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\obj\Debug\net8.0\AverageAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\obj\Debug\net8.0\AverageAlgorithm.dll
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\obj\Debug\net8.0\refint\AverageAlgorithm.dll
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\obj\Debug\net8.0\AverageAlgorithm.pdb
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\obj\Debug\net8.0\AverageAlgorithm.genruntimeconfig.cache
+C:\ReC#\AverageAlgorithm\AverageAlgorithm\obj\Debug\net8.0\ref\AverageAlgorithm.dll

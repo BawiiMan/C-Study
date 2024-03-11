@@ -1,0 +1,14 @@
+C:\ReC#\FieldArray\FieldArray\bin\Debug\net8.0\FieldArray.exe
+C:\ReC#\FieldArray\FieldArray\bin\Debug\net8.0\FieldArray.deps.json
+C:\ReC#\FieldArray\FieldArray\bin\Debug\net8.0\FieldArray.runtimeconfig.json
+C:\ReC#\FieldArray\FieldArray\bin\Debug\net8.0\FieldArray.dll
+C:\ReC#\FieldArray\FieldArray\bin\Debug\net8.0\FieldArray.pdb
+C:\ReC#\FieldArray\FieldArray\obj\Debug\net8.0\FieldArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FieldArray\FieldArray\obj\Debug\net8.0\FieldArray.AssemblyInfoInputs.cache
+C:\ReC#\FieldArray\FieldArray\obj\Debug\net8.0\FieldArray.AssemblyInfo.cs
+C:\ReC#\FieldArray\FieldArray\obj\Debug\net8.0\FieldArray.csproj.CoreCompileInputs.cache
+C:\ReC#\FieldArray\FieldArray\obj\Debug\net8.0\FieldArray.dll
+C:\ReC#\FieldArray\FieldArray\obj\Debug\net8.0\refint\FieldArray.dll
+C:\ReC#\FieldArray\FieldArray\obj\Debug\net8.0\FieldArray.pdb
+C:\ReC#\FieldArray\FieldArray\obj\Debug\net8.0\FieldArray.genruntimeconfig.cache
+C:\ReC#\FieldArray\FieldArray\obj\Debug\net8.0\ref\FieldArray.dll

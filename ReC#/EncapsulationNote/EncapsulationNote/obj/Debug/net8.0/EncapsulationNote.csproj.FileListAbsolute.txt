@@ -1,0 +1,14 @@
+C:\ReC#\EncapsulationNote\EncapsulationNote\bin\Debug\net8.0\EncapsulationNote.exe
+C:\ReC#\EncapsulationNote\EncapsulationNote\bin\Debug\net8.0\EncapsulationNote.deps.json
+C:\ReC#\EncapsulationNote\EncapsulationNote\bin\Debug\net8.0\EncapsulationNote.runtimeconfig.json
+C:\ReC#\EncapsulationNote\EncapsulationNote\bin\Debug\net8.0\EncapsulationNote.dll
+C:\ReC#\EncapsulationNote\EncapsulationNote\bin\Debug\net8.0\EncapsulationNote.pdb
+C:\ReC#\EncapsulationNote\EncapsulationNote\obj\Debug\net8.0\EncapsulationNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\EncapsulationNote\EncapsulationNote\obj\Debug\net8.0\EncapsulationNote.AssemblyInfoInputs.cache
+C:\ReC#\EncapsulationNote\EncapsulationNote\obj\Debug\net8.0\EncapsulationNote.AssemblyInfo.cs
+C:\ReC#\EncapsulationNote\EncapsulationNote\obj\Debug\net8.0\EncapsulationNote.csproj.CoreCompileInputs.cache
+C:\ReC#\EncapsulationNote\EncapsulationNote\obj\Debug\net8.0\EncapsulationNote.dll
+C:\ReC#\EncapsulationNote\EncapsulationNote\obj\Debug\net8.0\refint\EncapsulationNote.dll
+C:\ReC#\EncapsulationNote\EncapsulationNote\obj\Debug\net8.0\EncapsulationNote.pdb
+C:\ReC#\EncapsulationNote\EncapsulationNote\obj\Debug\net8.0\EncapsulationNote.genruntimeconfig.cache
+C:\ReC#\EncapsulationNote\EncapsulationNote\obj\Debug\net8.0\ref\EncapsulationNote.dll

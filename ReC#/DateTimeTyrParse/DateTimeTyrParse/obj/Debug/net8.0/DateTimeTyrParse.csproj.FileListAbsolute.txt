@@ -1,0 +1,14 @@
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\bin\Debug\net8.0\DateTimeTyrParse.exe
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\bin\Debug\net8.0\DateTimeTyrParse.deps.json
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\bin\Debug\net8.0\DateTimeTyrParse.runtimeconfig.json
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\bin\Debug\net8.0\DateTimeTyrParse.dll
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\bin\Debug\net8.0\DateTimeTyrParse.pdb
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\obj\Debug\net8.0\DateTimeTyrParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\obj\Debug\net8.0\DateTimeTyrParse.AssemblyInfoInputs.cache
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\obj\Debug\net8.0\DateTimeTyrParse.AssemblyInfo.cs
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\obj\Debug\net8.0\DateTimeTyrParse.csproj.CoreCompileInputs.cache
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\obj\Debug\net8.0\DateTimeTyrParse.dll
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\obj\Debug\net8.0\refint\DateTimeTyrParse.dll
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\obj\Debug\net8.0\DateTimeTyrParse.pdb
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\obj\Debug\net8.0\DateTimeTyrParse.genruntimeconfig.cache
+C:\ReC#\DateTimeTyrParse\DateTimeTyrParse\obj\Debug\net8.0\ref\DateTimeTyrParse.dll

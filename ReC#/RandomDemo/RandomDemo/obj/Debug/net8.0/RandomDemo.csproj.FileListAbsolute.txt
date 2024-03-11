@@ -1,0 +1,14 @@
+C:\ReC#\RandomDemo\RandomDemo\bin\Debug\net8.0\RandomDemo.exe
+C:\ReC#\RandomDemo\RandomDemo\bin\Debug\net8.0\RandomDemo.deps.json
+C:\ReC#\RandomDemo\RandomDemo\bin\Debug\net8.0\RandomDemo.runtimeconfig.json
+C:\ReC#\RandomDemo\RandomDemo\bin\Debug\net8.0\RandomDemo.dll
+C:\ReC#\RandomDemo\RandomDemo\bin\Debug\net8.0\RandomDemo.pdb
+C:\ReC#\RandomDemo\RandomDemo\obj\Debug\net8.0\RandomDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\RandomDemo\RandomDemo\obj\Debug\net8.0\RandomDemo.AssemblyInfoInputs.cache
+C:\ReC#\RandomDemo\RandomDemo\obj\Debug\net8.0\RandomDemo.AssemblyInfo.cs
+C:\ReC#\RandomDemo\RandomDemo\obj\Debug\net8.0\RandomDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\RandomDemo\RandomDemo\obj\Debug\net8.0\RandomDemo.dll
+C:\ReC#\RandomDemo\RandomDemo\obj\Debug\net8.0\refint\RandomDemo.dll
+C:\ReC#\RandomDemo\RandomDemo\obj\Debug\net8.0\RandomDemo.pdb
+C:\ReC#\RandomDemo\RandomDemo\obj\Debug\net8.0\RandomDemo.genruntimeconfig.cache
+C:\ReC#\RandomDemo\RandomDemo\obj\Debug\net8.0\ref\RandomDemo.dll

@@ -1,0 +1,14 @@
+C:\ReC#\ConstantDemo\ConstantDemo\bin\Debug\net8.0\ConstantDemo.exe
+C:\ReC#\ConstantDemo\ConstantDemo\bin\Debug\net8.0\ConstantDemo.deps.json
+C:\ReC#\ConstantDemo\ConstantDemo\bin\Debug\net8.0\ConstantDemo.runtimeconfig.json
+C:\ReC#\ConstantDemo\ConstantDemo\bin\Debug\net8.0\ConstantDemo.dll
+C:\ReC#\ConstantDemo\ConstantDemo\bin\Debug\net8.0\ConstantDemo.pdb
+C:\ReC#\ConstantDemo\ConstantDemo\obj\Debug\net8.0\ConstantDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ConstantDemo\ConstantDemo\obj\Debug\net8.0\ConstantDemo.AssemblyInfoInputs.cache
+C:\ReC#\ConstantDemo\ConstantDemo\obj\Debug\net8.0\ConstantDemo.AssemblyInfo.cs
+C:\ReC#\ConstantDemo\ConstantDemo\obj\Debug\net8.0\ConstantDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\ConstantDemo\ConstantDemo\obj\Debug\net8.0\ConstantDemo.dll
+C:\ReC#\ConstantDemo\ConstantDemo\obj\Debug\net8.0\refint\ConstantDemo.dll
+C:\ReC#\ConstantDemo\ConstantDemo\obj\Debug\net8.0\ConstantDemo.pdb
+C:\ReC#\ConstantDemo\ConstantDemo\obj\Debug\net8.0\ConstantDemo.genruntimeconfig.cache
+C:\ReC#\ConstantDemo\ConstantDemo\obj\Debug\net8.0\ref\ConstantDemo.dll

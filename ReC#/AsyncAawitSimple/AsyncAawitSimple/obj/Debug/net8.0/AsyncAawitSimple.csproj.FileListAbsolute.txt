@@ -1,0 +1,14 @@
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\bin\Debug\net8.0\AsyncAawitSimple.exe
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\bin\Debug\net8.0\AsyncAawitSimple.deps.json
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\bin\Debug\net8.0\AsyncAawitSimple.runtimeconfig.json
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\bin\Debug\net8.0\AsyncAawitSimple.dll
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\bin\Debug\net8.0\AsyncAawitSimple.pdb
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\obj\Debug\net8.0\AsyncAawitSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\obj\Debug\net8.0\AsyncAawitSimple.AssemblyInfoInputs.cache
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\obj\Debug\net8.0\AsyncAawitSimple.AssemblyInfo.cs
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\obj\Debug\net8.0\AsyncAawitSimple.csproj.CoreCompileInputs.cache
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\obj\Debug\net8.0\AsyncAawitSimple.dll
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\obj\Debug\net8.0\refint\AsyncAawitSimple.dll
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\obj\Debug\net8.0\AsyncAawitSimple.pdb
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\obj\Debug\net8.0\AsyncAawitSimple.genruntimeconfig.cache
+C:\ReC#\AsyncAawitSimple\AsyncAawitSimple\obj\Debug\net8.0\ref\AsyncAawitSimple.dll

@@ -1,0 +1,14 @@
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\bin\Debug\net8.0\TupleDeconstructionDescription.exe
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\bin\Debug\net8.0\TupleDeconstructionDescription.deps.json
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\bin\Debug\net8.0\TupleDeconstructionDescription.runtimeconfig.json
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\bin\Debug\net8.0\TupleDeconstructionDescription.dll
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\bin\Debug\net8.0\TupleDeconstructionDescription.pdb
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\net8.0\TupleDeconstructionDescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\net8.0\TupleDeconstructionDescription.AssemblyInfoInputs.cache
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\net8.0\TupleDeconstructionDescription.AssemblyInfo.cs
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\net8.0\TupleDeconstructionDescription.csproj.CoreCompileInputs.cache
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\net8.0\TupleDeconstructionDescription.dll
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\net8.0\refint\TupleDeconstructionDescription.dll
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\net8.0\TupleDeconstructionDescription.pdb
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\net8.0\TupleDeconstructionDescription.genruntimeconfig.cache
+C:\ReC#\TupleDeconstructionDescription\TupleDeconstructionDescription\obj\Debug\net8.0\ref\TupleDeconstructionDescription.dll

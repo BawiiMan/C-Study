@@ -1,0 +1,14 @@
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\bin\Debug\net8.0\WriteLineDemo2.exe
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\bin\Debug\net8.0\WriteLineDemo2.deps.json
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\bin\Debug\net8.0\WriteLineDemo2.runtimeconfig.json
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\bin\Debug\net8.0\WriteLineDemo2.dll
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\bin\Debug\net8.0\WriteLineDemo2.pdb
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\obj\Debug\net8.0\WriteLineDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\obj\Debug\net8.0\WriteLineDemo2.AssemblyInfoInputs.cache
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\obj\Debug\net8.0\WriteLineDemo2.AssemblyInfo.cs
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\obj\Debug\net8.0\WriteLineDemo2.csproj.CoreCompileInputs.cache
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\obj\Debug\net8.0\WriteLineDemo2.dll
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\obj\Debug\net8.0\refint\WriteLineDemo2.dll
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\obj\Debug\net8.0\WriteLineDemo2.pdb
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\obj\Debug\net8.0\WriteLineDemo2.genruntimeconfig.cache
+C:\ReC#\WriteLineDemo2\WriteLineDemo2\obj\Debug\net8.0\ref\WriteLineDemo2.dll

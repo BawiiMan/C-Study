@@ -1,0 +1,14 @@
+C:\ReC#\EnumParse\EnumParse\bin\Debug\net8.0\EnumParse.exe
+C:\ReC#\EnumParse\EnumParse\bin\Debug\net8.0\EnumParse.deps.json
+C:\ReC#\EnumParse\EnumParse\bin\Debug\net8.0\EnumParse.runtimeconfig.json
+C:\ReC#\EnumParse\EnumParse\bin\Debug\net8.0\EnumParse.dll
+C:\ReC#\EnumParse\EnumParse\bin\Debug\net8.0\EnumParse.pdb
+C:\ReC#\EnumParse\EnumParse\obj\Debug\net8.0\EnumParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\EnumParse\EnumParse\obj\Debug\net8.0\EnumParse.AssemblyInfoInputs.cache
+C:\ReC#\EnumParse\EnumParse\obj\Debug\net8.0\EnumParse.AssemblyInfo.cs
+C:\ReC#\EnumParse\EnumParse\obj\Debug\net8.0\EnumParse.csproj.CoreCompileInputs.cache
+C:\ReC#\EnumParse\EnumParse\obj\Debug\net8.0\EnumParse.dll
+C:\ReC#\EnumParse\EnumParse\obj\Debug\net8.0\refint\EnumParse.dll
+C:\ReC#\EnumParse\EnumParse\obj\Debug\net8.0\EnumParse.pdb
+C:\ReC#\EnumParse\EnumParse\obj\Debug\net8.0\EnumParse.genruntimeconfig.cache
+C:\ReC#\EnumParse\EnumParse\obj\Debug\net8.0\ref\EnumParse.dll

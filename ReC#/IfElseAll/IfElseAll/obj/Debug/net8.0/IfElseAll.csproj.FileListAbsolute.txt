@@ -1,0 +1,14 @@
+C:\ReC#\IfElseAll\IfElseAll\bin\Debug\net8.0\IfElseAll.exe
+C:\ReC#\IfElseAll\IfElseAll\bin\Debug\net8.0\IfElseAll.deps.json
+C:\ReC#\IfElseAll\IfElseAll\bin\Debug\net8.0\IfElseAll.runtimeconfig.json
+C:\ReC#\IfElseAll\IfElseAll\bin\Debug\net8.0\IfElseAll.dll
+C:\ReC#\IfElseAll\IfElseAll\bin\Debug\net8.0\IfElseAll.pdb
+C:\ReC#\IfElseAll\IfElseAll\obj\Debug\net8.0\IfElseAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IfElseAll\IfElseAll\obj\Debug\net8.0\IfElseAll.AssemblyInfoInputs.cache
+C:\ReC#\IfElseAll\IfElseAll\obj\Debug\net8.0\IfElseAll.AssemblyInfo.cs
+C:\ReC#\IfElseAll\IfElseAll\obj\Debug\net8.0\IfElseAll.csproj.CoreCompileInputs.cache
+C:\ReC#\IfElseAll\IfElseAll\obj\Debug\net8.0\IfElseAll.dll
+C:\ReC#\IfElseAll\IfElseAll\obj\Debug\net8.0\refint\IfElseAll.dll
+C:\ReC#\IfElseAll\IfElseAll\obj\Debug\net8.0\IfElseAll.pdb
+C:\ReC#\IfElseAll\IfElseAll\obj\Debug\net8.0\IfElseAll.genruntimeconfig.cache
+C:\ReC#\IfElseAll\IfElseAll\obj\Debug\net8.0\ref\IfElseAll.dll

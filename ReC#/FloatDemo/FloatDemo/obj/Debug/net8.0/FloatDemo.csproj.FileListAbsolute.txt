@@ -1,0 +1,14 @@
+C:\ReC#\FloatDemo\FloatDemo\bin\Debug\net8.0\FloatDemo.exe
+C:\ReC#\FloatDemo\FloatDemo\bin\Debug\net8.0\FloatDemo.deps.json
+C:\ReC#\FloatDemo\FloatDemo\bin\Debug\net8.0\FloatDemo.runtimeconfig.json
+C:\ReC#\FloatDemo\FloatDemo\bin\Debug\net8.0\FloatDemo.dll
+C:\ReC#\FloatDemo\FloatDemo\bin\Debug\net8.0\FloatDemo.pdb
+C:\ReC#\FloatDemo\FloatDemo\obj\Debug\net8.0\FloatDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FloatDemo\FloatDemo\obj\Debug\net8.0\FloatDemo.AssemblyInfoInputs.cache
+C:\ReC#\FloatDemo\FloatDemo\obj\Debug\net8.0\FloatDemo.AssemblyInfo.cs
+C:\ReC#\FloatDemo\FloatDemo\obj\Debug\net8.0\FloatDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\FloatDemo\FloatDemo\obj\Debug\net8.0\FloatDemo.dll
+C:\ReC#\FloatDemo\FloatDemo\obj\Debug\net8.0\refint\FloatDemo.dll
+C:\ReC#\FloatDemo\FloatDemo\obj\Debug\net8.0\FloatDemo.pdb
+C:\ReC#\FloatDemo\FloatDemo\obj\Debug\net8.0\FloatDemo.genruntimeconfig.cache
+C:\ReC#\FloatDemo\FloatDemo\obj\Debug\net8.0\ref\FloatDemo.dll

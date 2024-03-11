@@ -1,0 +1,14 @@
+C:\ReC#\UnsignedInteger\UnsignedInteger\bin\Debug\net8.0\UnsignedInteger.exe
+C:\ReC#\UnsignedInteger\UnsignedInteger\bin\Debug\net8.0\UnsignedInteger.deps.json
+C:\ReC#\UnsignedInteger\UnsignedInteger\bin\Debug\net8.0\UnsignedInteger.runtimeconfig.json
+C:\ReC#\UnsignedInteger\UnsignedInteger\bin\Debug\net8.0\UnsignedInteger.dll
+C:\ReC#\UnsignedInteger\UnsignedInteger\bin\Debug\net8.0\UnsignedInteger.pdb
+C:\ReC#\UnsignedInteger\UnsignedInteger\obj\Debug\net8.0\UnsignedInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\UnsignedInteger\UnsignedInteger\obj\Debug\net8.0\UnsignedInteger.AssemblyInfoInputs.cache
+C:\ReC#\UnsignedInteger\UnsignedInteger\obj\Debug\net8.0\UnsignedInteger.AssemblyInfo.cs
+C:\ReC#\UnsignedInteger\UnsignedInteger\obj\Debug\net8.0\UnsignedInteger.csproj.CoreCompileInputs.cache
+C:\ReC#\UnsignedInteger\UnsignedInteger\obj\Debug\net8.0\UnsignedInteger.dll
+C:\ReC#\UnsignedInteger\UnsignedInteger\obj\Debug\net8.0\refint\UnsignedInteger.dll
+C:\ReC#\UnsignedInteger\UnsignedInteger\obj\Debug\net8.0\UnsignedInteger.pdb
+C:\ReC#\UnsignedInteger\UnsignedInteger\obj\Debug\net8.0\UnsignedInteger.genruntimeconfig.cache
+C:\ReC#\UnsignedInteger\UnsignedInteger\obj\Debug\net8.0\ref\UnsignedInteger.dll

@@ -1,0 +1,14 @@
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\bin\Debug\net8.0\GroupAlgorithm.exe
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\bin\Debug\net8.0\GroupAlgorithm.deps.json
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\bin\Debug\net8.0\GroupAlgorithm.runtimeconfig.json
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\bin\Debug\net8.0\GroupAlgorithm.dll
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\bin\Debug\net8.0\GroupAlgorithm.pdb
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\obj\Debug\net8.0\GroupAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\obj\Debug\net8.0\GroupAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\obj\Debug\net8.0\GroupAlgorithm.AssemblyInfo.cs
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\obj\Debug\net8.0\GroupAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\obj\Debug\net8.0\GroupAlgorithm.dll
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\obj\Debug\net8.0\refint\GroupAlgorithm.dll
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\obj\Debug\net8.0\GroupAlgorithm.pdb
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\obj\Debug\net8.0\GroupAlgorithm.genruntimeconfig.cache
+C:\ReC#\GroupAlgorithm\GroupAlgorithm\obj\Debug\net8.0\ref\GroupAlgorithm.dll

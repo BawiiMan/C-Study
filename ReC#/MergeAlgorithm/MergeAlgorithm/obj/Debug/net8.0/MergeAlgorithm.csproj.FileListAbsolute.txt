@@ -1,0 +1,14 @@
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\bin\Debug\net8.0\MergeAlgorithm.exe
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\bin\Debug\net8.0\MergeAlgorithm.deps.json
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\bin\Debug\net8.0\MergeAlgorithm.runtimeconfig.json
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\bin\Debug\net8.0\MergeAlgorithm.dll
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\bin\Debug\net8.0\MergeAlgorithm.pdb
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\obj\Debug\net8.0\MergeAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\obj\Debug\net8.0\MergeAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\obj\Debug\net8.0\MergeAlgorithm.AssemblyInfo.cs
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\obj\Debug\net8.0\MergeAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\obj\Debug\net8.0\MergeAlgorithm.dll
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\obj\Debug\net8.0\refint\MergeAlgorithm.dll
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\obj\Debug\net8.0\MergeAlgorithm.pdb
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\obj\Debug\net8.0\MergeAlgorithm.genruntimeconfig.cache
+C:\ReC#\MergeAlgorithm\MergeAlgorithm\obj\Debug\net8.0\ref\MergeAlgorithm.dll

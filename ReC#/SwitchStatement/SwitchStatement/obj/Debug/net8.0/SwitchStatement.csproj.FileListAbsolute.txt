@@ -1,0 +1,14 @@
+C:\ReC#\SwitchStatement\SwitchStatement\bin\Debug\net8.0\SwitchStatement.exe
+C:\ReC#\SwitchStatement\SwitchStatement\bin\Debug\net8.0\SwitchStatement.deps.json
+C:\ReC#\SwitchStatement\SwitchStatement\bin\Debug\net8.0\SwitchStatement.runtimeconfig.json
+C:\ReC#\SwitchStatement\SwitchStatement\bin\Debug\net8.0\SwitchStatement.dll
+C:\ReC#\SwitchStatement\SwitchStatement\bin\Debug\net8.0\SwitchStatement.pdb
+C:\ReC#\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\ReC#\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfo.cs
+C:\ReC#\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\ReC#\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.dll
+C:\ReC#\SwitchStatement\SwitchStatement\obj\Debug\net8.0\refint\SwitchStatement.dll
+C:\ReC#\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.pdb
+C:\ReC#\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.genruntimeconfig.cache
+C:\ReC#\SwitchStatement\SwitchStatement\obj\Debug\net8.0\ref\SwitchStatement.dll

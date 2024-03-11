@@ -1,0 +1,14 @@
+C:\ReC#\ReadLineDemo\ReadLineDemo\bin\Debug\net8.0\ReadLineDemo.exe
+C:\ReC#\ReadLineDemo\ReadLineDemo\bin\Debug\net8.0\ReadLineDemo.deps.json
+C:\ReC#\ReadLineDemo\ReadLineDemo\bin\Debug\net8.0\ReadLineDemo.runtimeconfig.json
+C:\ReC#\ReadLineDemo\ReadLineDemo\bin\Debug\net8.0\ReadLineDemo.dll
+C:\ReC#\ReadLineDemo\ReadLineDemo\bin\Debug\net8.0\ReadLineDemo.pdb
+C:\ReC#\ReadLineDemo\ReadLineDemo\obj\Debug\net8.0\ReadLineDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ReadLineDemo\ReadLineDemo\obj\Debug\net8.0\ReadLineDemo.AssemblyInfoInputs.cache
+C:\ReC#\ReadLineDemo\ReadLineDemo\obj\Debug\net8.0\ReadLineDemo.AssemblyInfo.cs
+C:\ReC#\ReadLineDemo\ReadLineDemo\obj\Debug\net8.0\ReadLineDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\ReadLineDemo\ReadLineDemo\obj\Debug\net8.0\ReadLineDemo.dll
+C:\ReC#\ReadLineDemo\ReadLineDemo\obj\Debug\net8.0\refint\ReadLineDemo.dll
+C:\ReC#\ReadLineDemo\ReadLineDemo\obj\Debug\net8.0\ReadLineDemo.pdb
+C:\ReC#\ReadLineDemo\ReadLineDemo\obj\Debug\net8.0\ReadLineDemo.genruntimeconfig.cache
+C:\ReC#\ReadLineDemo\ReadLineDemo\obj\Debug\net8.0\ref\ReadLineDemo.dll

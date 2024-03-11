@@ -1,0 +1,14 @@
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\bin\Debug\net8.0\TryCatchFinallyDemo.exe
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\bin\Debug\net8.0\TryCatchFinallyDemo.deps.json
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\bin\Debug\net8.0\TryCatchFinallyDemo.runtimeconfig.json
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\bin\Debug\net8.0\TryCatchFinallyDemo.dll
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\bin\Debug\net8.0\TryCatchFinallyDemo.pdb
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\obj\Debug\net8.0\TryCatchFinallyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\obj\Debug\net8.0\TryCatchFinallyDemo.AssemblyInfoInputs.cache
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\obj\Debug\net8.0\TryCatchFinallyDemo.AssemblyInfo.cs
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\obj\Debug\net8.0\TryCatchFinallyDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\obj\Debug\net8.0\TryCatchFinallyDemo.dll
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\obj\Debug\net8.0\refint\TryCatchFinallyDemo.dll
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\obj\Debug\net8.0\TryCatchFinallyDemo.pdb
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\obj\Debug\net8.0\TryCatchFinallyDemo.genruntimeconfig.cache
+C:\ReC#\TryCatchFinallyDemo\TryCatchFinallyDemo\obj\Debug\net8.0\ref\TryCatchFinallyDemo.dll

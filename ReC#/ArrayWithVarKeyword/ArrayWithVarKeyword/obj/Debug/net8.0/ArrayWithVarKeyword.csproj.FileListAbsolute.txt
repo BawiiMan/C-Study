@@ -1,0 +1,14 @@
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\bin\Debug\net8.0\ArrayWithVarKeyword.exe
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\bin\Debug\net8.0\ArrayWithVarKeyword.deps.json
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\bin\Debug\net8.0\ArrayWithVarKeyword.runtimeconfig.json
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\bin\Debug\net8.0\ArrayWithVarKeyword.dll
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\bin\Debug\net8.0\ArrayWithVarKeyword.pdb
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\obj\Debug\net8.0\ArrayWithVarKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\obj\Debug\net8.0\ArrayWithVarKeyword.AssemblyInfoInputs.cache
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\obj\Debug\net8.0\ArrayWithVarKeyword.AssemblyInfo.cs
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\obj\Debug\net8.0\ArrayWithVarKeyword.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\obj\Debug\net8.0\ArrayWithVarKeyword.dll
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\obj\Debug\net8.0\refint\ArrayWithVarKeyword.dll
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\obj\Debug\net8.0\ArrayWithVarKeyword.pdb
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\obj\Debug\net8.0\ArrayWithVarKeyword.genruntimeconfig.cache
+C:\ReC#\ArrayWithVarKeyword\ArrayWithVarKeyword\obj\Debug\net8.0\ref\ArrayWithVarKeyword.dll

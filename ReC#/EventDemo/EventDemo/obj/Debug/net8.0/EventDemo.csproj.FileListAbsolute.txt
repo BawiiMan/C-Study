@@ -1,0 +1,14 @@
+C:\ReC#\EventDemo\EventDemo\bin\Debug\net8.0\EventDemo.exe
+C:\ReC#\EventDemo\EventDemo\bin\Debug\net8.0\EventDemo.deps.json
+C:\ReC#\EventDemo\EventDemo\bin\Debug\net8.0\EventDemo.runtimeconfig.json
+C:\ReC#\EventDemo\EventDemo\bin\Debug\net8.0\EventDemo.dll
+C:\ReC#\EventDemo\EventDemo\bin\Debug\net8.0\EventDemo.pdb
+C:\ReC#\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.AssemblyInfoInputs.cache
+C:\ReC#\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.AssemblyInfo.cs
+C:\ReC#\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.dll
+C:\ReC#\EventDemo\EventDemo\obj\Debug\net8.0\refint\EventDemo.dll
+C:\ReC#\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.pdb
+C:\ReC#\EventDemo\EventDemo\obj\Debug\net8.0\EventDemo.genruntimeconfig.cache
+C:\ReC#\EventDemo\EventDemo\obj\Debug\net8.0\ref\EventDemo.dll

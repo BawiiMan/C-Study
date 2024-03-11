@@ -1,0 +1,14 @@
+C:\ReC#\FunctionOverlad\FunctionOverlad\bin\Debug\net8.0\FunctionOverlad.exe
+C:\ReC#\FunctionOverlad\FunctionOverlad\bin\Debug\net8.0\FunctionOverlad.deps.json
+C:\ReC#\FunctionOverlad\FunctionOverlad\bin\Debug\net8.0\FunctionOverlad.runtimeconfig.json
+C:\ReC#\FunctionOverlad\FunctionOverlad\bin\Debug\net8.0\FunctionOverlad.dll
+C:\ReC#\FunctionOverlad\FunctionOverlad\bin\Debug\net8.0\FunctionOverlad.pdb
+C:\ReC#\FunctionOverlad\FunctionOverlad\obj\Debug\net8.0\FunctionOverlad.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FunctionOverlad\FunctionOverlad\obj\Debug\net8.0\FunctionOverlad.AssemblyInfoInputs.cache
+C:\ReC#\FunctionOverlad\FunctionOverlad\obj\Debug\net8.0\FunctionOverlad.AssemblyInfo.cs
+C:\ReC#\FunctionOverlad\FunctionOverlad\obj\Debug\net8.0\FunctionOverlad.csproj.CoreCompileInputs.cache
+C:\ReC#\FunctionOverlad\FunctionOverlad\obj\Debug\net8.0\FunctionOverlad.dll
+C:\ReC#\FunctionOverlad\FunctionOverlad\obj\Debug\net8.0\refint\FunctionOverlad.dll
+C:\ReC#\FunctionOverlad\FunctionOverlad\obj\Debug\net8.0\FunctionOverlad.pdb
+C:\ReC#\FunctionOverlad\FunctionOverlad\obj\Debug\net8.0\FunctionOverlad.genruntimeconfig.cache
+C:\ReC#\FunctionOverlad\FunctionOverlad\obj\Debug\net8.0\ref\FunctionOverlad.dll

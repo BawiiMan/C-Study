@@ -1,0 +1,14 @@
+C:\ReC#\ForEven\ForEven\bin\Debug\net7.0\ForEven.exe
+C:\ReC#\ForEven\ForEven\bin\Debug\net7.0\ForEven.deps.json
+C:\ReC#\ForEven\ForEven\bin\Debug\net7.0\ForEven.runtimeconfig.json
+C:\ReC#\ForEven\ForEven\bin\Debug\net7.0\ForEven.dll
+C:\ReC#\ForEven\ForEven\bin\Debug\net7.0\ForEven.pdb
+C:\ReC#\ForEven\ForEven\obj\Debug\net7.0\ForEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ForEven\ForEven\obj\Debug\net7.0\ForEven.AssemblyInfoInputs.cache
+C:\ReC#\ForEven\ForEven\obj\Debug\net7.0\ForEven.AssemblyInfo.cs
+C:\ReC#\ForEven\ForEven\obj\Debug\net7.0\ForEven.csproj.CoreCompileInputs.cache
+C:\ReC#\ForEven\ForEven\obj\Debug\net7.0\ForEven.dll
+C:\ReC#\ForEven\ForEven\obj\Debug\net7.0\refint\ForEven.dll
+C:\ReC#\ForEven\ForEven\obj\Debug\net7.0\ForEven.pdb
+C:\ReC#\ForEven\ForEven\obj\Debug\net7.0\ForEven.genruntimeconfig.cache
+C:\ReC#\ForEven\ForEven\obj\Debug\net7.0\ref\ForEven.dll

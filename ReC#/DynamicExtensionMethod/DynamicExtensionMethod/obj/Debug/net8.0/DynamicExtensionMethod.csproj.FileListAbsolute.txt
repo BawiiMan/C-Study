@@ -1,0 +1,14 @@
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\bin\Debug\net8.0\DynamicExtensionMethod.exe
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\bin\Debug\net8.0\DynamicExtensionMethod.deps.json
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\bin\Debug\net8.0\DynamicExtensionMethod.runtimeconfig.json
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\bin\Debug\net8.0\DynamicExtensionMethod.dll
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\bin\Debug\net8.0\DynamicExtensionMethod.pdb
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\obj\Debug\net8.0\DynamicExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\obj\Debug\net8.0\DynamicExtensionMethod.AssemblyInfoInputs.cache
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\obj\Debug\net8.0\DynamicExtensionMethod.AssemblyInfo.cs
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\obj\Debug\net8.0\DynamicExtensionMethod.csproj.CoreCompileInputs.cache
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\obj\Debug\net8.0\DynamicExtensionMethod.dll
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\obj\Debug\net8.0\refint\DynamicExtensionMethod.dll
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\obj\Debug\net8.0\DynamicExtensionMethod.pdb
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\obj\Debug\net8.0\DynamicExtensionMethod.genruntimeconfig.cache
+C:\ReC#\DynamicExtensionMethod\DynamicExtensionMethod\obj\Debug\net8.0\ref\DynamicExtensionMethod.dll

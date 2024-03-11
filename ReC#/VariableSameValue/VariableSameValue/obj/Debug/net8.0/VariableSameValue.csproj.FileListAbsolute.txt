@@ -1,0 +1,14 @@
+C:\ReC#\VariableSameValue\VariableSameValue\bin\Debug\net8.0\VariableSameValue.exe
+C:\ReC#\VariableSameValue\VariableSameValue\bin\Debug\net8.0\VariableSameValue.deps.json
+C:\ReC#\VariableSameValue\VariableSameValue\bin\Debug\net8.0\VariableSameValue.runtimeconfig.json
+C:\ReC#\VariableSameValue\VariableSameValue\bin\Debug\net8.0\VariableSameValue.dll
+C:\ReC#\VariableSameValue\VariableSameValue\bin\Debug\net8.0\VariableSameValue.pdb
+C:\ReC#\VariableSameValue\VariableSameValue\obj\Debug\net8.0\VariableSameValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\VariableSameValue\VariableSameValue\obj\Debug\net8.0\VariableSameValue.AssemblyInfoInputs.cache
+C:\ReC#\VariableSameValue\VariableSameValue\obj\Debug\net8.0\VariableSameValue.AssemblyInfo.cs
+C:\ReC#\VariableSameValue\VariableSameValue\obj\Debug\net8.0\VariableSameValue.csproj.CoreCompileInputs.cache
+C:\ReC#\VariableSameValue\VariableSameValue\obj\Debug\net8.0\VariableSameValue.dll
+C:\ReC#\VariableSameValue\VariableSameValue\obj\Debug\net8.0\refint\VariableSameValue.dll
+C:\ReC#\VariableSameValue\VariableSameValue\obj\Debug\net8.0\VariableSameValue.pdb
+C:\ReC#\VariableSameValue\VariableSameValue\obj\Debug\net8.0\VariableSameValue.genruntimeconfig.cache
+C:\ReC#\VariableSameValue\VariableSameValue\obj\Debug\net8.0\ref\VariableSameValue.dll

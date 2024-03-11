@@ -1,0 +1,14 @@
+C:\ReC#\DelegateNote\DelegateNote\bin\Debug\net8.0\DelegateNote.exe
+C:\ReC#\DelegateNote\DelegateNote\bin\Debug\net8.0\DelegateNote.deps.json
+C:\ReC#\DelegateNote\DelegateNote\bin\Debug\net8.0\DelegateNote.runtimeconfig.json
+C:\ReC#\DelegateNote\DelegateNote\bin\Debug\net8.0\DelegateNote.dll
+C:\ReC#\DelegateNote\DelegateNote\bin\Debug\net8.0\DelegateNote.pdb
+C:\ReC#\DelegateNote\DelegateNote\obj\Debug\net8.0\DelegateNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DelegateNote\DelegateNote\obj\Debug\net8.0\DelegateNote.AssemblyInfoInputs.cache
+C:\ReC#\DelegateNote\DelegateNote\obj\Debug\net8.0\DelegateNote.AssemblyInfo.cs
+C:\ReC#\DelegateNote\DelegateNote\obj\Debug\net8.0\DelegateNote.csproj.CoreCompileInputs.cache
+C:\ReC#\DelegateNote\DelegateNote\obj\Debug\net8.0\DelegateNote.dll
+C:\ReC#\DelegateNote\DelegateNote\obj\Debug\net8.0\refint\DelegateNote.dll
+C:\ReC#\DelegateNote\DelegateNote\obj\Debug\net8.0\DelegateNote.pdb
+C:\ReC#\DelegateNote\DelegateNote\obj\Debug\net8.0\DelegateNote.genruntimeconfig.cache
+C:\ReC#\DelegateNote\DelegateNote\obj\Debug\net8.0\ref\DelegateNote.dll

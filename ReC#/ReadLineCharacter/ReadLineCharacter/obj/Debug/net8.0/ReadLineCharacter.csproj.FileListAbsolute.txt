@@ -1,0 +1,14 @@
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\bin\Debug\net8.0\ReadLineCharacter.exe
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\bin\Debug\net8.0\ReadLineCharacter.deps.json
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\bin\Debug\net8.0\ReadLineCharacter.runtimeconfig.json
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\bin\Debug\net8.0\ReadLineCharacter.dll
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\bin\Debug\net8.0\ReadLineCharacter.pdb
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\obj\Debug\net8.0\ReadLineCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\obj\Debug\net8.0\ReadLineCharacter.AssemblyInfoInputs.cache
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\obj\Debug\net8.0\ReadLineCharacter.AssemblyInfo.cs
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\obj\Debug\net8.0\ReadLineCharacter.csproj.CoreCompileInputs.cache
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\obj\Debug\net8.0\ReadLineCharacter.dll
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\obj\Debug\net8.0\refint\ReadLineCharacter.dll
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\obj\Debug\net8.0\ReadLineCharacter.pdb
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\obj\Debug\net8.0\ReadLineCharacter.genruntimeconfig.cache
+C:\ReC#\ReadLineCharacter\ReadLineCharacter\obj\Debug\net8.0\ref\ReadLineCharacter.dll

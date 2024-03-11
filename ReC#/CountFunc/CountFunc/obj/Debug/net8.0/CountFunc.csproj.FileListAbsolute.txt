@@ -1,0 +1,14 @@
+C:\ReC#\CountFunc\CountFunc\bin\Debug\net8.0\CountFunc.exe
+C:\ReC#\CountFunc\CountFunc\bin\Debug\net8.0\CountFunc.deps.json
+C:\ReC#\CountFunc\CountFunc\bin\Debug\net8.0\CountFunc.runtimeconfig.json
+C:\ReC#\CountFunc\CountFunc\bin\Debug\net8.0\CountFunc.dll
+C:\ReC#\CountFunc\CountFunc\bin\Debug\net8.0\CountFunc.pdb
+C:\ReC#\CountFunc\CountFunc\obj\Debug\net8.0\CountFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\CountFunc\CountFunc\obj\Debug\net8.0\CountFunc.AssemblyInfoInputs.cache
+C:\ReC#\CountFunc\CountFunc\obj\Debug\net8.0\CountFunc.AssemblyInfo.cs
+C:\ReC#\CountFunc\CountFunc\obj\Debug\net8.0\CountFunc.csproj.CoreCompileInputs.cache
+C:\ReC#\CountFunc\CountFunc\obj\Debug\net8.0\CountFunc.dll
+C:\ReC#\CountFunc\CountFunc\obj\Debug\net8.0\refint\CountFunc.dll
+C:\ReC#\CountFunc\CountFunc\obj\Debug\net8.0\CountFunc.pdb
+C:\ReC#\CountFunc\CountFunc\obj\Debug\net8.0\CountFunc.genruntimeconfig.cache
+C:\ReC#\CountFunc\CountFunc\obj\Debug\net8.0\ref\CountFunc.dll

@@ -1,0 +1,14 @@
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\bin\Debug\net8.0\ArrayTotalAvg.exe
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\bin\Debug\net8.0\ArrayTotalAvg.deps.json
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\bin\Debug\net8.0\ArrayTotalAvg.runtimeconfig.json
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\bin\Debug\net8.0\ArrayTotalAvg.dll
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\bin\Debug\net8.0\ArrayTotalAvg.pdb
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\obj\Debug\net8.0\ArrayTotalAvg.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\obj\Debug\net8.0\ArrayTotalAvg.AssemblyInfoInputs.cache
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\obj\Debug\net8.0\ArrayTotalAvg.AssemblyInfo.cs
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\obj\Debug\net8.0\ArrayTotalAvg.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\obj\Debug\net8.0\ArrayTotalAvg.dll
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\obj\Debug\net8.0\refint\ArrayTotalAvg.dll
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\obj\Debug\net8.0\ArrayTotalAvg.pdb
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\obj\Debug\net8.0\ArrayTotalAvg.genruntimeconfig.cache
+C:\ReC#\ArrayTotalAvg\ArrayTotalAvg\obj\Debug\net8.0\ref\ArrayTotalAvg.dll

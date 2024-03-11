@@ -1,0 +1,14 @@
+C:\ReC#\BitwiseOperator\BitwiseOperator\bin\Debug\net8.0\BitwiseOperator.exe
+C:\ReC#\BitwiseOperator\BitwiseOperator\bin\Debug\net8.0\BitwiseOperator.deps.json
+C:\ReC#\BitwiseOperator\BitwiseOperator\bin\Debug\net8.0\BitwiseOperator.runtimeconfig.json
+C:\ReC#\BitwiseOperator\BitwiseOperator\bin\Debug\net8.0\BitwiseOperator.dll
+C:\ReC#\BitwiseOperator\BitwiseOperator\bin\Debug\net8.0\BitwiseOperator.pdb
+C:\ReC#\BitwiseOperator\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\BitwiseOperator\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.AssemblyInfoInputs.cache
+C:\ReC#\BitwiseOperator\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.AssemblyInfo.cs
+C:\ReC#\BitwiseOperator\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.csproj.CoreCompileInputs.cache
+C:\ReC#\BitwiseOperator\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.dll
+C:\ReC#\BitwiseOperator\BitwiseOperator\obj\Debug\net8.0\refint\BitwiseOperator.dll
+C:\ReC#\BitwiseOperator\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.pdb
+C:\ReC#\BitwiseOperator\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.genruntimeconfig.cache
+C:\ReC#\BitwiseOperator\BitwiseOperator\obj\Debug\net8.0\ref\BitwiseOperator.dll

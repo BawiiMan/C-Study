@@ -1,0 +1,14 @@
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net8.0\LocalFunctionDemo.exe
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net8.0\LocalFunctionDemo.deps.json
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net8.0\LocalFunctionDemo.runtimeconfig.json
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net8.0\LocalFunctionDemo.dll
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net8.0\LocalFunctionDemo.pdb
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net8.0\LocalFunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net8.0\LocalFunctionDemo.AssemblyInfoInputs.cache
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net8.0\LocalFunctionDemo.AssemblyInfo.cs
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net8.0\LocalFunctionDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net8.0\LocalFunctionDemo.dll
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net8.0\refint\LocalFunctionDemo.dll
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net8.0\LocalFunctionDemo.pdb
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net8.0\LocalFunctionDemo.genruntimeconfig.cache
+C:\ReC#\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net8.0\ref\LocalFunctionDemo.dll

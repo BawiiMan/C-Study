@@ -1,0 +1,14 @@
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\bin\Debug\net8.0\LinqQuearySyntax.exe
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\bin\Debug\net8.0\LinqQuearySyntax.deps.json
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\bin\Debug\net8.0\LinqQuearySyntax.runtimeconfig.json
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\bin\Debug\net8.0\LinqQuearySyntax.dll
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\bin\Debug\net8.0\LinqQuearySyntax.pdb
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\obj\Debug\net8.0\LinqQuearySyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\obj\Debug\net8.0\LinqQuearySyntax.AssemblyInfoInputs.cache
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\obj\Debug\net8.0\LinqQuearySyntax.AssemblyInfo.cs
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\obj\Debug\net8.0\LinqQuearySyntax.csproj.CoreCompileInputs.cache
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\obj\Debug\net8.0\LinqQuearySyntax.dll
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\obj\Debug\net8.0\refint\LinqQuearySyntax.dll
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\obj\Debug\net8.0\LinqQuearySyntax.pdb
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\obj\Debug\net8.0\LinqQuearySyntax.genruntimeconfig.cache
+C:\ReC#\LinqQuearySyntax\LinqQuearySyntax\obj\Debug\net8.0\ref\LinqQuearySyntax.dll

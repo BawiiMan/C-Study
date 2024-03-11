@@ -1,0 +1,14 @@
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\bin\Debug\net8.0\OperatorArithmetic.exe
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\bin\Debug\net8.0\OperatorArithmetic.deps.json
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\bin\Debug\net8.0\OperatorArithmetic.runtimeconfig.json
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\bin\Debug\net8.0\OperatorArithmetic.dll
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\bin\Debug\net8.0\OperatorArithmetic.pdb
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\obj\Debug\net8.0\OperatorArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\obj\Debug\net8.0\OperatorArithmetic.AssemblyInfoInputs.cache
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\obj\Debug\net8.0\OperatorArithmetic.AssemblyInfo.cs
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\obj\Debug\net8.0\OperatorArithmetic.csproj.CoreCompileInputs.cache
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\obj\Debug\net8.0\OperatorArithmetic.dll
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\obj\Debug\net8.0\refint\OperatorArithmetic.dll
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\obj\Debug\net8.0\OperatorArithmetic.pdb
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\obj\Debug\net8.0\OperatorArithmetic.genruntimeconfig.cache
+C:\ReC#\OperatorArithmetic\OperatorArithmetic\obj\Debug\net8.0\ref\OperatorArithmetic.dll

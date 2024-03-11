@@ -1,0 +1,14 @@
+C:\ReC#\EnumerableDemo\EnumerableDemo\bin\Debug\net8.0\EnumerableDemo.exe
+C:\ReC#\EnumerableDemo\EnumerableDemo\bin\Debug\net8.0\EnumerableDemo.deps.json
+C:\ReC#\EnumerableDemo\EnumerableDemo\bin\Debug\net8.0\EnumerableDemo.runtimeconfig.json
+C:\ReC#\EnumerableDemo\EnumerableDemo\bin\Debug\net8.0\EnumerableDemo.dll
+C:\ReC#\EnumerableDemo\EnumerableDemo\bin\Debug\net8.0\EnumerableDemo.pdb
+C:\ReC#\EnumerableDemo\EnumerableDemo\obj\Debug\net8.0\EnumerableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\EnumerableDemo\EnumerableDemo\obj\Debug\net8.0\EnumerableDemo.AssemblyInfoInputs.cache
+C:\ReC#\EnumerableDemo\EnumerableDemo\obj\Debug\net8.0\EnumerableDemo.AssemblyInfo.cs
+C:\ReC#\EnumerableDemo\EnumerableDemo\obj\Debug\net8.0\EnumerableDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\EnumerableDemo\EnumerableDemo\obj\Debug\net8.0\EnumerableDemo.dll
+C:\ReC#\EnumerableDemo\EnumerableDemo\obj\Debug\net8.0\refint\EnumerableDemo.dll
+C:\ReC#\EnumerableDemo\EnumerableDemo\obj\Debug\net8.0\EnumerableDemo.pdb
+C:\ReC#\EnumerableDemo\EnumerableDemo\obj\Debug\net8.0\EnumerableDemo.genruntimeconfig.cache
+C:\ReC#\EnumerableDemo\EnumerableDemo\obj\Debug\net8.0\ref\EnumerableDemo.dll

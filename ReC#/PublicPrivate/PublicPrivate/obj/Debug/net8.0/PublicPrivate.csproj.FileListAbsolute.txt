@@ -1,0 +1,14 @@
+C:\ReC#\PublicPrivate\PublicPrivate\bin\Debug\net8.0\PublicPrivate.exe
+C:\ReC#\PublicPrivate\PublicPrivate\bin\Debug\net8.0\PublicPrivate.deps.json
+C:\ReC#\PublicPrivate\PublicPrivate\bin\Debug\net8.0\PublicPrivate.runtimeconfig.json
+C:\ReC#\PublicPrivate\PublicPrivate\bin\Debug\net8.0\PublicPrivate.dll
+C:\ReC#\PublicPrivate\PublicPrivate\bin\Debug\net8.0\PublicPrivate.pdb
+C:\ReC#\PublicPrivate\PublicPrivate\obj\Debug\net8.0\PublicPrivate.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PublicPrivate\PublicPrivate\obj\Debug\net8.0\PublicPrivate.AssemblyInfoInputs.cache
+C:\ReC#\PublicPrivate\PublicPrivate\obj\Debug\net8.0\PublicPrivate.AssemblyInfo.cs
+C:\ReC#\PublicPrivate\PublicPrivate\obj\Debug\net8.0\PublicPrivate.csproj.CoreCompileInputs.cache
+C:\ReC#\PublicPrivate\PublicPrivate\obj\Debug\net8.0\PublicPrivate.dll
+C:\ReC#\PublicPrivate\PublicPrivate\obj\Debug\net8.0\refint\PublicPrivate.dll
+C:\ReC#\PublicPrivate\PublicPrivate\obj\Debug\net8.0\PublicPrivate.pdb
+C:\ReC#\PublicPrivate\PublicPrivate\obj\Debug\net8.0\PublicPrivate.genruntimeconfig.cache
+C:\ReC#\PublicPrivate\PublicPrivate\obj\Debug\net8.0\ref\PublicPrivate.dll

@@ -1,0 +1,14 @@
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\bin\Debug\net8.0\AutoPropertyInitializers.exe
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\bin\Debug\net8.0\AutoPropertyInitializers.deps.json
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\bin\Debug\net8.0\AutoPropertyInitializers.runtimeconfig.json
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\bin\Debug\net8.0\AutoPropertyInitializers.dll
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\bin\Debug\net8.0\AutoPropertyInitializers.pdb
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\net8.0\AutoPropertyInitializers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\net8.0\AutoPropertyInitializers.AssemblyInfoInputs.cache
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\net8.0\AutoPropertyInitializers.AssemblyInfo.cs
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\net8.0\AutoPropertyInitializers.csproj.CoreCompileInputs.cache
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\net8.0\AutoPropertyInitializers.dll
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\net8.0\refint\AutoPropertyInitializers.dll
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\net8.0\AutoPropertyInitializers.pdb
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\net8.0\AutoPropertyInitializers.genruntimeconfig.cache
+C:\ReC#\AutoPropertyInitializers\AutoPropertyInitializers\obj\Debug\net8.0\ref\AutoPropertyInitializers.dll

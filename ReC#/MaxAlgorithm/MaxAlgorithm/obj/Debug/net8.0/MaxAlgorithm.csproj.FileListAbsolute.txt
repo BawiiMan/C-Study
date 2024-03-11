@@ -1,0 +1,14 @@
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\bin\Debug\net8.0\MaxAlgorithm.exe
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\bin\Debug\net8.0\MaxAlgorithm.deps.json
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\bin\Debug\net8.0\MaxAlgorithm.runtimeconfig.json
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\bin\Debug\net8.0\MaxAlgorithm.dll
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\bin\Debug\net8.0\MaxAlgorithm.pdb
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\obj\Debug\net8.0\MaxAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\obj\Debug\net8.0\MaxAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\obj\Debug\net8.0\MaxAlgorithm.AssemblyInfo.cs
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\obj\Debug\net8.0\MaxAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\obj\Debug\net8.0\MaxAlgorithm.dll
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\obj\Debug\net8.0\refint\MaxAlgorithm.dll
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\obj\Debug\net8.0\MaxAlgorithm.pdb
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\obj\Debug\net8.0\MaxAlgorithm.genruntimeconfig.cache
+C:\ReC#\MaxAlgorithm\MaxAlgorithm\obj\Debug\net8.0\ref\MaxAlgorithm.dll

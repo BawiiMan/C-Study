@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayThyreeDescription", "ArrayThyreeDescription\ArrayThyreeDescription.csproj", "{3CC48BAC-4FDC-4427-80BE-0EEC3A24455E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC48BAC-4FDC-4427-80BE-0EEC3A24455E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC48BAC-4FDC-4427-80BE-0EEC3A24455E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC48BAC-4FDC-4427-80BE-0EEC3A24455E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC48BAC-4FDC-4427-80BE-0EEC3A24455E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E99A1A41-6CDD-4A07-98F8-46DD8EC91462}
+	EndGlobalSection
+EndGlobal

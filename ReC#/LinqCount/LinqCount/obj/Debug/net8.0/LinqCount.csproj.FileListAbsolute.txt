@@ -1,0 +1,14 @@
+C:\ReC#\LinqCount\LinqCount\bin\Debug\net8.0\LinqCount.exe
+C:\ReC#\LinqCount\LinqCount\bin\Debug\net8.0\LinqCount.deps.json
+C:\ReC#\LinqCount\LinqCount\bin\Debug\net8.0\LinqCount.runtimeconfig.json
+C:\ReC#\LinqCount\LinqCount\bin\Debug\net8.0\LinqCount.dll
+C:\ReC#\LinqCount\LinqCount\bin\Debug\net8.0\LinqCount.pdb
+C:\ReC#\LinqCount\LinqCount\obj\Debug\net8.0\LinqCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LinqCount\LinqCount\obj\Debug\net8.0\LinqCount.AssemblyInfoInputs.cache
+C:\ReC#\LinqCount\LinqCount\obj\Debug\net8.0\LinqCount.AssemblyInfo.cs
+C:\ReC#\LinqCount\LinqCount\obj\Debug\net8.0\LinqCount.csproj.CoreCompileInputs.cache
+C:\ReC#\LinqCount\LinqCount\obj\Debug\net8.0\LinqCount.dll
+C:\ReC#\LinqCount\LinqCount\obj\Debug\net8.0\refint\LinqCount.dll
+C:\ReC#\LinqCount\LinqCount\obj\Debug\net8.0\LinqCount.pdb
+C:\ReC#\LinqCount\LinqCount\obj\Debug\net8.0\LinqCount.genruntimeconfig.cache
+C:\ReC#\LinqCount\LinqCount\obj\Debug\net8.0\ref\LinqCount.dll

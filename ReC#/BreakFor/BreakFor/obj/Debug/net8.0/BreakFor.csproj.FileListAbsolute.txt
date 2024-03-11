@@ -1,0 +1,14 @@
+C:\ReC#\BreakFor\BreakFor\bin\Debug\net8.0\BreakFor.exe
+C:\ReC#\BreakFor\BreakFor\bin\Debug\net8.0\BreakFor.deps.json
+C:\ReC#\BreakFor\BreakFor\bin\Debug\net8.0\BreakFor.runtimeconfig.json
+C:\ReC#\BreakFor\BreakFor\bin\Debug\net8.0\BreakFor.dll
+C:\ReC#\BreakFor\BreakFor\bin\Debug\net8.0\BreakFor.pdb
+C:\ReC#\BreakFor\BreakFor\obj\Debug\net8.0\BreakFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\BreakFor\BreakFor\obj\Debug\net8.0\BreakFor.AssemblyInfoInputs.cache
+C:\ReC#\BreakFor\BreakFor\obj\Debug\net8.0\BreakFor.AssemblyInfo.cs
+C:\ReC#\BreakFor\BreakFor\obj\Debug\net8.0\BreakFor.csproj.CoreCompileInputs.cache
+C:\ReC#\BreakFor\BreakFor\obj\Debug\net8.0\BreakFor.dll
+C:\ReC#\BreakFor\BreakFor\obj\Debug\net8.0\refint\BreakFor.dll
+C:\ReC#\BreakFor\BreakFor\obj\Debug\net8.0\BreakFor.pdb
+C:\ReC#\BreakFor\BreakFor\obj\Debug\net8.0\BreakFor.genruntimeconfig.cache
+C:\ReC#\BreakFor\BreakFor\obj\Debug\net8.0\ref\BreakFor.dll

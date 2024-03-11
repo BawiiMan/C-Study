@@ -1,0 +1,14 @@
+C:\ReC#\ArrayOne2\ArrayOne2\bin\Debug\net8.0\ArrayOne2.exe
+C:\ReC#\ArrayOne2\ArrayOne2\bin\Debug\net8.0\ArrayOne2.deps.json
+C:\ReC#\ArrayOne2\ArrayOne2\bin\Debug\net8.0\ArrayOne2.runtimeconfig.json
+C:\ReC#\ArrayOne2\ArrayOne2\bin\Debug\net8.0\ArrayOne2.dll
+C:\ReC#\ArrayOne2\ArrayOne2\bin\Debug\net8.0\ArrayOne2.pdb
+C:\ReC#\ArrayOne2\ArrayOne2\obj\Debug\net8.0\ArrayOne2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrayOne2\ArrayOne2\obj\Debug\net8.0\ArrayOne2.AssemblyInfoInputs.cache
+C:\ReC#\ArrayOne2\ArrayOne2\obj\Debug\net8.0\ArrayOne2.AssemblyInfo.cs
+C:\ReC#\ArrayOne2\ArrayOne2\obj\Debug\net8.0\ArrayOne2.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrayOne2\ArrayOne2\obj\Debug\net8.0\ArrayOne2.dll
+C:\ReC#\ArrayOne2\ArrayOne2\obj\Debug\net8.0\refint\ArrayOne2.dll
+C:\ReC#\ArrayOne2\ArrayOne2\obj\Debug\net8.0\ArrayOne2.pdb
+C:\ReC#\ArrayOne2\ArrayOne2\obj\Debug\net8.0\ArrayOne2.genruntimeconfig.cache
+C:\ReC#\ArrayOne2\ArrayOne2\obj\Debug\net8.0\ref\ArrayOne2.dll

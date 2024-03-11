@@ -1,0 +1,14 @@
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\bin\Debug\net8.0\ExtensionFunction2.exe
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\bin\Debug\net8.0\ExtensionFunction2.deps.json
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\bin\Debug\net8.0\ExtensionFunction2.runtimeconfig.json
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\bin\Debug\net8.0\ExtensionFunction2.dll
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\bin\Debug\net8.0\ExtensionFunction2.pdb
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\obj\Debug\net8.0\ExtensionFunction2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\obj\Debug\net8.0\ExtensionFunction2.AssemblyInfoInputs.cache
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\obj\Debug\net8.0\ExtensionFunction2.AssemblyInfo.cs
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\obj\Debug\net8.0\ExtensionFunction2.csproj.CoreCompileInputs.cache
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\obj\Debug\net8.0\ExtensionFunction2.dll
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\obj\Debug\net8.0\refint\ExtensionFunction2.dll
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\obj\Debug\net8.0\ExtensionFunction2.pdb
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\obj\Debug\net8.0\ExtensionFunction2.genruntimeconfig.cache
+C:\ReC#\ExtensionFunction2\ExtensionFunction2\obj\Debug\net8.0\ref\ExtensionFunction2.dll

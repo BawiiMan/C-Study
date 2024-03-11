@@ -1,0 +1,14 @@
+C:\ReC#\ClassArray\ClassArray\bin\Debug\net8.0\ClassArray.exe
+C:\ReC#\ClassArray\ClassArray\bin\Debug\net8.0\ClassArray.deps.json
+C:\ReC#\ClassArray\ClassArray\bin\Debug\net8.0\ClassArray.runtimeconfig.json
+C:\ReC#\ClassArray\ClassArray\bin\Debug\net8.0\ClassArray.dll
+C:\ReC#\ClassArray\ClassArray\bin\Debug\net8.0\ClassArray.pdb
+C:\ReC#\ClassArray\ClassArray\obj\Debug\net8.0\ClassArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ClassArray\ClassArray\obj\Debug\net8.0\ClassArray.AssemblyInfoInputs.cache
+C:\ReC#\ClassArray\ClassArray\obj\Debug\net8.0\ClassArray.AssemblyInfo.cs
+C:\ReC#\ClassArray\ClassArray\obj\Debug\net8.0\ClassArray.csproj.CoreCompileInputs.cache
+C:\ReC#\ClassArray\ClassArray\obj\Debug\net8.0\ClassArray.dll
+C:\ReC#\ClassArray\ClassArray\obj\Debug\net8.0\refint\ClassArray.dll
+C:\ReC#\ClassArray\ClassArray\obj\Debug\net8.0\ClassArray.pdb
+C:\ReC#\ClassArray\ClassArray\obj\Debug\net8.0\ClassArray.genruntimeconfig.cache
+C:\ReC#\ClassArray\ClassArray\obj\Debug\net8.0\ref\ClassArray.dll

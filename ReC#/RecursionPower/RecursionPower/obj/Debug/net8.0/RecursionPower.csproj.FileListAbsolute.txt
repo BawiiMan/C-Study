@@ -1,0 +1,14 @@
+C:\ReC#\RecursionPower\RecursionPower\bin\Debug\net8.0\RecursionPower.exe
+C:\ReC#\RecursionPower\RecursionPower\bin\Debug\net8.0\RecursionPower.deps.json
+C:\ReC#\RecursionPower\RecursionPower\bin\Debug\net8.0\RecursionPower.runtimeconfig.json
+C:\ReC#\RecursionPower\RecursionPower\bin\Debug\net8.0\RecursionPower.dll
+C:\ReC#\RecursionPower\RecursionPower\bin\Debug\net8.0\RecursionPower.pdb
+C:\ReC#\RecursionPower\RecursionPower\obj\Debug\net8.0\RecursionPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\RecursionPower\RecursionPower\obj\Debug\net8.0\RecursionPower.AssemblyInfoInputs.cache
+C:\ReC#\RecursionPower\RecursionPower\obj\Debug\net8.0\RecursionPower.AssemblyInfo.cs
+C:\ReC#\RecursionPower\RecursionPower\obj\Debug\net8.0\RecursionPower.csproj.CoreCompileInputs.cache
+C:\ReC#\RecursionPower\RecursionPower\obj\Debug\net8.0\RecursionPower.dll
+C:\ReC#\RecursionPower\RecursionPower\obj\Debug\net8.0\refint\RecursionPower.dll
+C:\ReC#\RecursionPower\RecursionPower\obj\Debug\net8.0\RecursionPower.pdb
+C:\ReC#\RecursionPower\RecursionPower\obj\Debug\net8.0\RecursionPower.genruntimeconfig.cache
+C:\ReC#\RecursionPower\RecursionPower\obj\Debug\net8.0\ref\RecursionPower.dll

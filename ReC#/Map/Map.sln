@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "Map\Map.csproj", "{172D6244-8E26-4AFA-B12F-5AB8B337761F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{172D6244-8E26-4AFA-B12F-5AB8B337761F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172D6244-8E26-4AFA-B12F-5AB8B337761F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172D6244-8E26-4AFA-B12F-5AB8B337761F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172D6244-8E26-4AFA-B12F-5AB8B337761F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77B7AA7F-0B9B-4D2B-8728-E4D2D8FE1B08}
+	EndGlobalSection
+EndGlobal

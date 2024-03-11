@@ -1,0 +1,14 @@
+C:\ReC#\MethodPrivate\MethodPrivate\bin\Debug\net8.0\MethodPrivate.exe
+C:\ReC#\MethodPrivate\MethodPrivate\bin\Debug\net8.0\MethodPrivate.deps.json
+C:\ReC#\MethodPrivate\MethodPrivate\bin\Debug\net8.0\MethodPrivate.runtimeconfig.json
+C:\ReC#\MethodPrivate\MethodPrivate\bin\Debug\net8.0\MethodPrivate.dll
+C:\ReC#\MethodPrivate\MethodPrivate\bin\Debug\net8.0\MethodPrivate.pdb
+C:\ReC#\MethodPrivate\MethodPrivate\obj\Debug\net8.0\MethodPrivate.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\MethodPrivate\MethodPrivate\obj\Debug\net8.0\MethodPrivate.AssemblyInfoInputs.cache
+C:\ReC#\MethodPrivate\MethodPrivate\obj\Debug\net8.0\MethodPrivate.AssemblyInfo.cs
+C:\ReC#\MethodPrivate\MethodPrivate\obj\Debug\net8.0\MethodPrivate.csproj.CoreCompileInputs.cache
+C:\ReC#\MethodPrivate\MethodPrivate\obj\Debug\net8.0\MethodPrivate.dll
+C:\ReC#\MethodPrivate\MethodPrivate\obj\Debug\net8.0\refint\MethodPrivate.dll
+C:\ReC#\MethodPrivate\MethodPrivate\obj\Debug\net8.0\MethodPrivate.pdb
+C:\ReC#\MethodPrivate\MethodPrivate\obj\Debug\net8.0\MethodPrivate.genruntimeconfig.cache
+C:\ReC#\MethodPrivate\MethodPrivate\obj\Debug\net8.0\ref\MethodPrivate.dll

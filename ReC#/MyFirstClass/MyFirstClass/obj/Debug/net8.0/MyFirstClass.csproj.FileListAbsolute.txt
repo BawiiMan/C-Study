@@ -1,0 +1,14 @@
+C:\ReC#\MyFirstClass\MyFirstClass\bin\Debug\net8.0\MyFirstClass.exe
+C:\ReC#\MyFirstClass\MyFirstClass\bin\Debug\net8.0\MyFirstClass.deps.json
+C:\ReC#\MyFirstClass\MyFirstClass\bin\Debug\net8.0\MyFirstClass.runtimeconfig.json
+C:\ReC#\MyFirstClass\MyFirstClass\bin\Debug\net8.0\MyFirstClass.dll
+C:\ReC#\MyFirstClass\MyFirstClass\bin\Debug\net8.0\MyFirstClass.pdb
+C:\ReC#\MyFirstClass\MyFirstClass\obj\Debug\net8.0\MyFirstClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\MyFirstClass\MyFirstClass\obj\Debug\net8.0\MyFirstClass.AssemblyInfoInputs.cache
+C:\ReC#\MyFirstClass\MyFirstClass\obj\Debug\net8.0\MyFirstClass.AssemblyInfo.cs
+C:\ReC#\MyFirstClass\MyFirstClass\obj\Debug\net8.0\MyFirstClass.csproj.CoreCompileInputs.cache
+C:\ReC#\MyFirstClass\MyFirstClass\obj\Debug\net8.0\MyFirstClass.dll
+C:\ReC#\MyFirstClass\MyFirstClass\obj\Debug\net8.0\refint\MyFirstClass.dll
+C:\ReC#\MyFirstClass\MyFirstClass\obj\Debug\net8.0\MyFirstClass.pdb
+C:\ReC#\MyFirstClass\MyFirstClass\obj\Debug\net8.0\MyFirstClass.genruntimeconfig.cache
+C:\ReC#\MyFirstClass\MyFirstClass\obj\Debug\net8.0\ref\MyFirstClass.dll

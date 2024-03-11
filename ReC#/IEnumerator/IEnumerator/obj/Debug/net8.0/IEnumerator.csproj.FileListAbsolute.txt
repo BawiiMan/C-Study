@@ -1,0 +1,14 @@
+C:\ReC#\IEnumerator\IEnumerator\bin\Debug\net8.0\IEnumerator.exe
+C:\ReC#\IEnumerator\IEnumerator\bin\Debug\net8.0\IEnumerator.deps.json
+C:\ReC#\IEnumerator\IEnumerator\bin\Debug\net8.0\IEnumerator.runtimeconfig.json
+C:\ReC#\IEnumerator\IEnumerator\bin\Debug\net8.0\IEnumerator.dll
+C:\ReC#\IEnumerator\IEnumerator\bin\Debug\net8.0\IEnumerator.pdb
+C:\ReC#\IEnumerator\IEnumerator\obj\Debug\net8.0\IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IEnumerator\IEnumerator\obj\Debug\net8.0\IEnumerator.AssemblyInfoInputs.cache
+C:\ReC#\IEnumerator\IEnumerator\obj\Debug\net8.0\IEnumerator.AssemblyInfo.cs
+C:\ReC#\IEnumerator\IEnumerator\obj\Debug\net8.0\IEnumerator.csproj.CoreCompileInputs.cache
+C:\ReC#\IEnumerator\IEnumerator\obj\Debug\net8.0\IEnumerator.dll
+C:\ReC#\IEnumerator\IEnumerator\obj\Debug\net8.0\refint\IEnumerator.dll
+C:\ReC#\IEnumerator\IEnumerator\obj\Debug\net8.0\IEnumerator.pdb
+C:\ReC#\IEnumerator\IEnumerator\obj\Debug\net8.0\IEnumerator.genruntimeconfig.cache
+C:\ReC#\IEnumerator\IEnumerator\obj\Debug\net8.0\ref\IEnumerator.dll

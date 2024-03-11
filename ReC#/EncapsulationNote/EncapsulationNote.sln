@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationNote", "EncapsulationNote\EncapsulationNote.csproj", "{EF3A4471-B32D-402D-B804-41908572020D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF3A4471-B32D-402D-B804-41908572020D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3A4471-B32D-402D-B804-41908572020D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3A4471-B32D-402D-B804-41908572020D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3A4471-B32D-402D-B804-41908572020D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69CEC15C-39D6-46E6-94FB-5C2B0FF9A679}
+	EndGlobalSection
+EndGlobal

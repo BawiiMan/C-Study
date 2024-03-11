@@ -1,0 +1,14 @@
+C:\ReC#\PropertyValidation\PropertyValidation\bin\Debug\net8.0\PropertyValidation.exe
+C:\ReC#\PropertyValidation\PropertyValidation\bin\Debug\net8.0\PropertyValidation.deps.json
+C:\ReC#\PropertyValidation\PropertyValidation\bin\Debug\net8.0\PropertyValidation.runtimeconfig.json
+C:\ReC#\PropertyValidation\PropertyValidation\bin\Debug\net8.0\PropertyValidation.dll
+C:\ReC#\PropertyValidation\PropertyValidation\bin\Debug\net8.0\PropertyValidation.pdb
+C:\ReC#\PropertyValidation\PropertyValidation\obj\Debug\net8.0\PropertyValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PropertyValidation\PropertyValidation\obj\Debug\net8.0\PropertyValidation.AssemblyInfoInputs.cache
+C:\ReC#\PropertyValidation\PropertyValidation\obj\Debug\net8.0\PropertyValidation.AssemblyInfo.cs
+C:\ReC#\PropertyValidation\PropertyValidation\obj\Debug\net8.0\PropertyValidation.csproj.CoreCompileInputs.cache
+C:\ReC#\PropertyValidation\PropertyValidation\obj\Debug\net8.0\PropertyValidation.dll
+C:\ReC#\PropertyValidation\PropertyValidation\obj\Debug\net8.0\refint\PropertyValidation.dll
+C:\ReC#\PropertyValidation\PropertyValidation\obj\Debug\net8.0\PropertyValidation.pdb
+C:\ReC#\PropertyValidation\PropertyValidation\obj\Debug\net8.0\PropertyValidation.genruntimeconfig.cache
+C:\ReC#\PropertyValidation\PropertyValidation\obj\Debug\net8.0\ref\PropertyValidation.dll

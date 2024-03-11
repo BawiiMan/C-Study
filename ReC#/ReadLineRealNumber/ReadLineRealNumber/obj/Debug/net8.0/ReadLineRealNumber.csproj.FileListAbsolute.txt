@@ -1,0 +1,14 @@
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\bin\Debug\net8.0\ReadLineRealNumber.exe
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\bin\Debug\net8.0\ReadLineRealNumber.deps.json
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\bin\Debug\net8.0\ReadLineRealNumber.runtimeconfig.json
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\bin\Debug\net8.0\ReadLineRealNumber.dll
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\bin\Debug\net8.0\ReadLineRealNumber.pdb
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\net8.0\ReadLineRealNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\net8.0\ReadLineRealNumber.AssemblyInfoInputs.cache
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\net8.0\ReadLineRealNumber.AssemblyInfo.cs
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\net8.0\ReadLineRealNumber.csproj.CoreCompileInputs.cache
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\net8.0\ReadLineRealNumber.dll
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\net8.0\refint\ReadLineRealNumber.dll
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\net8.0\ReadLineRealNumber.pdb
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\net8.0\ReadLineRealNumber.genruntimeconfig.cache
+C:\ReC#\ReadLineRealNumber\ReadLineRealNumber\obj\Debug\net8.0\ref\ReadLineRealNumber.dll

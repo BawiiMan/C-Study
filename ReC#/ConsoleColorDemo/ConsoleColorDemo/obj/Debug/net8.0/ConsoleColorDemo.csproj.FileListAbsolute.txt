@@ -1,0 +1,14 @@
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\bin\Debug\net8.0\ConsoleColorDemo.exe
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\bin\Debug\net8.0\ConsoleColorDemo.deps.json
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\bin\Debug\net8.0\ConsoleColorDemo.runtimeconfig.json
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\bin\Debug\net8.0\ConsoleColorDemo.dll
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\bin\Debug\net8.0\ConsoleColorDemo.pdb
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\net8.0\ConsoleColorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\net8.0\ConsoleColorDemo.AssemblyInfoInputs.cache
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\net8.0\ConsoleColorDemo.AssemblyInfo.cs
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\net8.0\ConsoleColorDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\net8.0\ConsoleColorDemo.dll
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\net8.0\refint\ConsoleColorDemo.dll
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\net8.0\ConsoleColorDemo.pdb
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\net8.0\ConsoleColorDemo.genruntimeconfig.cache
+C:\ReC#\ConsoleColorDemo\ConsoleColorDemo\obj\Debug\net8.0\ref\ConsoleColorDemo.dll

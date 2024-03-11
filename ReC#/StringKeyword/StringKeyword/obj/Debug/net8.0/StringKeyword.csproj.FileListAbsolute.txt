@@ -1,0 +1,14 @@
+C:\ReC#\StringKeyword\StringKeyword\bin\Debug\net8.0\StringKeyword.exe
+C:\ReC#\StringKeyword\StringKeyword\bin\Debug\net8.0\StringKeyword.deps.json
+C:\ReC#\StringKeyword\StringKeyword\bin\Debug\net8.0\StringKeyword.runtimeconfig.json
+C:\ReC#\StringKeyword\StringKeyword\bin\Debug\net8.0\StringKeyword.dll
+C:\ReC#\StringKeyword\StringKeyword\bin\Debug\net8.0\StringKeyword.pdb
+C:\ReC#\StringKeyword\StringKeyword\obj\Debug\net8.0\StringKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\StringKeyword\StringKeyword\obj\Debug\net8.0\StringKeyword.AssemblyInfoInputs.cache
+C:\ReC#\StringKeyword\StringKeyword\obj\Debug\net8.0\StringKeyword.AssemblyInfo.cs
+C:\ReC#\StringKeyword\StringKeyword\obj\Debug\net8.0\StringKeyword.csproj.CoreCompileInputs.cache
+C:\ReC#\StringKeyword\StringKeyword\obj\Debug\net8.0\StringKeyword.dll
+C:\ReC#\StringKeyword\StringKeyword\obj\Debug\net8.0\refint\StringKeyword.dll
+C:\ReC#\StringKeyword\StringKeyword\obj\Debug\net8.0\StringKeyword.pdb
+C:\ReC#\StringKeyword\StringKeyword\obj\Debug\net8.0\StringKeyword.genruntimeconfig.cache
+C:\ReC#\StringKeyword\StringKeyword\obj\Debug\net8.0\ref\StringKeyword.dll

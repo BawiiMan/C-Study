@@ -1,0 +1,14 @@
+C:\ReC#\AdditionOperator\AdditionOperator\bin\Debug\net8.0\AdditionOperator.exe
+C:\ReC#\AdditionOperator\AdditionOperator\bin\Debug\net8.0\AdditionOperator.deps.json
+C:\ReC#\AdditionOperator\AdditionOperator\bin\Debug\net8.0\AdditionOperator.runtimeconfig.json
+C:\ReC#\AdditionOperator\AdditionOperator\bin\Debug\net8.0\AdditionOperator.dll
+C:\ReC#\AdditionOperator\AdditionOperator\bin\Debug\net8.0\AdditionOperator.pdb
+C:\ReC#\AdditionOperator\AdditionOperator\obj\Debug\net8.0\AdditionOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\AdditionOperator\AdditionOperator\obj\Debug\net8.0\AdditionOperator.AssemblyInfoInputs.cache
+C:\ReC#\AdditionOperator\AdditionOperator\obj\Debug\net8.0\AdditionOperator.AssemblyInfo.cs
+C:\ReC#\AdditionOperator\AdditionOperator\obj\Debug\net8.0\AdditionOperator.csproj.CoreCompileInputs.cache
+C:\ReC#\AdditionOperator\AdditionOperator\obj\Debug\net8.0\AdditionOperator.dll
+C:\ReC#\AdditionOperator\AdditionOperator\obj\Debug\net8.0\refint\AdditionOperator.dll
+C:\ReC#\AdditionOperator\AdditionOperator\obj\Debug\net8.0\AdditionOperator.pdb
+C:\ReC#\AdditionOperator\AdditionOperator\obj\Debug\net8.0\AdditionOperator.genruntimeconfig.cache
+C:\ReC#\AdditionOperator\AdditionOperator\obj\Debug\net8.0\ref\AdditionOperator.dll

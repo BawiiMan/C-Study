@@ -1,0 +1,14 @@
+C:\ReC#\ElseNested\ElseNested\bin\Debug\net8.0\ElseNested.exe
+C:\ReC#\ElseNested\ElseNested\bin\Debug\net8.0\ElseNested.deps.json
+C:\ReC#\ElseNested\ElseNested\bin\Debug\net8.0\ElseNested.runtimeconfig.json
+C:\ReC#\ElseNested\ElseNested\bin\Debug\net8.0\ElseNested.dll
+C:\ReC#\ElseNested\ElseNested\bin\Debug\net8.0\ElseNested.pdb
+C:\ReC#\ElseNested\ElseNested\obj\Debug\net8.0\ElseNested.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ElseNested\ElseNested\obj\Debug\net8.0\ElseNested.AssemblyInfoInputs.cache
+C:\ReC#\ElseNested\ElseNested\obj\Debug\net8.0\ElseNested.AssemblyInfo.cs
+C:\ReC#\ElseNested\ElseNested\obj\Debug\net8.0\ElseNested.csproj.CoreCompileInputs.cache
+C:\ReC#\ElseNested\ElseNested\obj\Debug\net8.0\ElseNested.dll
+C:\ReC#\ElseNested\ElseNested\obj\Debug\net8.0\refint\ElseNested.dll
+C:\ReC#\ElseNested\ElseNested\obj\Debug\net8.0\ElseNested.pdb
+C:\ReC#\ElseNested\ElseNested\obj\Debug\net8.0\ElseNested.genruntimeconfig.cache
+C:\ReC#\ElseNested\ElseNested\obj\Debug\net8.0\ref\ElseNested.dll

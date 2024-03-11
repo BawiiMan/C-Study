@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InMemoryDatebase/1.0.0": {
+        "dependencies": {
+          "Dul.Data": "1.0.0"
+        },
+        "runtime": {
+          "InMemoryDatebase.dll": {}
+        }
+      },
+      "Dul.Data/1.0.0": {
+        "runtime": {
+          "Dul.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InMemoryDatebase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dul.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

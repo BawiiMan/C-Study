@@ -1,0 +1,14 @@
+C:\ReC#\SwitchExpression\SwitchExpression\bin\Debug\net8.0\SwitchExpression.exe
+C:\ReC#\SwitchExpression\SwitchExpression\bin\Debug\net8.0\SwitchExpression.deps.json
+C:\ReC#\SwitchExpression\SwitchExpression\bin\Debug\net8.0\SwitchExpression.runtimeconfig.json
+C:\ReC#\SwitchExpression\SwitchExpression\bin\Debug\net8.0\SwitchExpression.dll
+C:\ReC#\SwitchExpression\SwitchExpression\bin\Debug\net8.0\SwitchExpression.pdb
+C:\ReC#\SwitchExpression\SwitchExpression\obj\Debug\net8.0\SwitchExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\SwitchExpression\SwitchExpression\obj\Debug\net8.0\SwitchExpression.AssemblyInfoInputs.cache
+C:\ReC#\SwitchExpression\SwitchExpression\obj\Debug\net8.0\SwitchExpression.AssemblyInfo.cs
+C:\ReC#\SwitchExpression\SwitchExpression\obj\Debug\net8.0\SwitchExpression.csproj.CoreCompileInputs.cache
+C:\ReC#\SwitchExpression\SwitchExpression\obj\Debug\net8.0\SwitchExpression.dll
+C:\ReC#\SwitchExpression\SwitchExpression\obj\Debug\net8.0\refint\SwitchExpression.dll
+C:\ReC#\SwitchExpression\SwitchExpression\obj\Debug\net8.0\SwitchExpression.pdb
+C:\ReC#\SwitchExpression\SwitchExpression\obj\Debug\net8.0\SwitchExpression.genruntimeconfig.cache
+C:\ReC#\SwitchExpression\SwitchExpression\obj\Debug\net8.0\ref\SwitchExpression.dll

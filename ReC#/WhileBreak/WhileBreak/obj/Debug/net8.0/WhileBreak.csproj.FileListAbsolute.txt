@@ -1,0 +1,14 @@
+C:\ReC#\WhileBreak\WhileBreak\bin\Debug\net8.0\WhileBreak.exe
+C:\ReC#\WhileBreak\WhileBreak\bin\Debug\net8.0\WhileBreak.deps.json
+C:\ReC#\WhileBreak\WhileBreak\bin\Debug\net8.0\WhileBreak.runtimeconfig.json
+C:\ReC#\WhileBreak\WhileBreak\bin\Debug\net8.0\WhileBreak.dll
+C:\ReC#\WhileBreak\WhileBreak\bin\Debug\net8.0\WhileBreak.pdb
+C:\ReC#\WhileBreak\WhileBreak\obj\Debug\net8.0\WhileBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\WhileBreak\WhileBreak\obj\Debug\net8.0\WhileBreak.AssemblyInfoInputs.cache
+C:\ReC#\WhileBreak\WhileBreak\obj\Debug\net8.0\WhileBreak.AssemblyInfo.cs
+C:\ReC#\WhileBreak\WhileBreak\obj\Debug\net8.0\WhileBreak.csproj.CoreCompileInputs.cache
+C:\ReC#\WhileBreak\WhileBreak\obj\Debug\net8.0\WhileBreak.dll
+C:\ReC#\WhileBreak\WhileBreak\obj\Debug\net8.0\refint\WhileBreak.dll
+C:\ReC#\WhileBreak\WhileBreak\obj\Debug\net8.0\WhileBreak.pdb
+C:\ReC#\WhileBreak\WhileBreak\obj\Debug\net8.0\WhileBreak.genruntimeconfig.cache
+C:\ReC#\WhileBreak\WhileBreak\obj\Debug\net8.0\ref\WhileBreak.dll

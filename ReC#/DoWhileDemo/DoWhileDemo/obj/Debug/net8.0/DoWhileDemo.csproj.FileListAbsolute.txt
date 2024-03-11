@@ -1,0 +1,14 @@
+C:\ReC#\DoWhileDemo\DoWhileDemo\bin\Debug\net8.0\DoWhileDemo.exe
+C:\ReC#\DoWhileDemo\DoWhileDemo\bin\Debug\net8.0\DoWhileDemo.deps.json
+C:\ReC#\DoWhileDemo\DoWhileDemo\bin\Debug\net8.0\DoWhileDemo.runtimeconfig.json
+C:\ReC#\DoWhileDemo\DoWhileDemo\bin\Debug\net8.0\DoWhileDemo.dll
+C:\ReC#\DoWhileDemo\DoWhileDemo\bin\Debug\net8.0\DoWhileDemo.pdb
+C:\ReC#\DoWhileDemo\DoWhileDemo\obj\Debug\net8.0\DoWhileDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DoWhileDemo\DoWhileDemo\obj\Debug\net8.0\DoWhileDemo.AssemblyInfoInputs.cache
+C:\ReC#\DoWhileDemo\DoWhileDemo\obj\Debug\net8.0\DoWhileDemo.AssemblyInfo.cs
+C:\ReC#\DoWhileDemo\DoWhileDemo\obj\Debug\net8.0\DoWhileDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\DoWhileDemo\DoWhileDemo\obj\Debug\net8.0\DoWhileDemo.dll
+C:\ReC#\DoWhileDemo\DoWhileDemo\obj\Debug\net8.0\refint\DoWhileDemo.dll
+C:\ReC#\DoWhileDemo\DoWhileDemo\obj\Debug\net8.0\DoWhileDemo.pdb
+C:\ReC#\DoWhileDemo\DoWhileDemo\obj\Debug\net8.0\DoWhileDemo.genruntimeconfig.cache
+C:\ReC#\DoWhileDemo\DoWhileDemo\obj\Debug\net8.0\ref\DoWhileDemo.dll

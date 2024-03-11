@@ -1,0 +1,14 @@
+C:\ReC#\NullWithObject\NullWithObject\bin\Debug\net8.0\NullWithObject.exe
+C:\ReC#\NullWithObject\NullWithObject\bin\Debug\net8.0\NullWithObject.deps.json
+C:\ReC#\NullWithObject\NullWithObject\bin\Debug\net8.0\NullWithObject.runtimeconfig.json
+C:\ReC#\NullWithObject\NullWithObject\bin\Debug\net8.0\NullWithObject.dll
+C:\ReC#\NullWithObject\NullWithObject\bin\Debug\net8.0\NullWithObject.pdb
+C:\ReC#\NullWithObject\NullWithObject\obj\Debug\net8.0\NullWithObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\NullWithObject\NullWithObject\obj\Debug\net8.0\NullWithObject.AssemblyInfoInputs.cache
+C:\ReC#\NullWithObject\NullWithObject\obj\Debug\net8.0\NullWithObject.AssemblyInfo.cs
+C:\ReC#\NullWithObject\NullWithObject\obj\Debug\net8.0\NullWithObject.csproj.CoreCompileInputs.cache
+C:\ReC#\NullWithObject\NullWithObject\obj\Debug\net8.0\NullWithObject.dll
+C:\ReC#\NullWithObject\NullWithObject\obj\Debug\net8.0\refint\NullWithObject.dll
+C:\ReC#\NullWithObject\NullWithObject\obj\Debug\net8.0\NullWithObject.pdb
+C:\ReC#\NullWithObject\NullWithObject\obj\Debug\net8.0\NullWithObject.genruntimeconfig.cache
+C:\ReC#\NullWithObject\NullWithObject\obj\Debug\net8.0\ref\NullWithObject.dll

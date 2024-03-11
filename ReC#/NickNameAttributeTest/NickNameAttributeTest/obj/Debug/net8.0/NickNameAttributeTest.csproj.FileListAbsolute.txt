@@ -1,0 +1,14 @@
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\bin\Debug\net8.0\NickNameAttributeTest.exe
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\bin\Debug\net8.0\NickNameAttributeTest.deps.json
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\bin\Debug\net8.0\NickNameAttributeTest.runtimeconfig.json
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\bin\Debug\net8.0\NickNameAttributeTest.dll
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\bin\Debug\net8.0\NickNameAttributeTest.pdb
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\net8.0\NickNameAttributeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\net8.0\NickNameAttributeTest.AssemblyInfoInputs.cache
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\net8.0\NickNameAttributeTest.AssemblyInfo.cs
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\net8.0\NickNameAttributeTest.csproj.CoreCompileInputs.cache
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\net8.0\NickNameAttributeTest.dll
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\net8.0\refint\NickNameAttributeTest.dll
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\net8.0\NickNameAttributeTest.pdb
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\net8.0\NickNameAttributeTest.genruntimeconfig.cache
+C:\ReC#\NickNameAttributeTest\NickNameAttributeTest\obj\Debug\net8.0\ref\NickNameAttributeTest.dll

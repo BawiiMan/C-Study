@@ -1,0 +1,14 @@
+C:\ReC#\WhileSum\WhileSum\bin\Debug\net8.0\WhileSum.exe
+C:\ReC#\WhileSum\WhileSum\bin\Debug\net8.0\WhileSum.deps.json
+C:\ReC#\WhileSum\WhileSum\bin\Debug\net8.0\WhileSum.runtimeconfig.json
+C:\ReC#\WhileSum\WhileSum\bin\Debug\net8.0\WhileSum.dll
+C:\ReC#\WhileSum\WhileSum\bin\Debug\net8.0\WhileSum.pdb
+C:\ReC#\WhileSum\WhileSum\obj\Debug\net8.0\WhileSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\WhileSum\WhileSum\obj\Debug\net8.0\WhileSum.AssemblyInfoInputs.cache
+C:\ReC#\WhileSum\WhileSum\obj\Debug\net8.0\WhileSum.AssemblyInfo.cs
+C:\ReC#\WhileSum\WhileSum\obj\Debug\net8.0\WhileSum.csproj.CoreCompileInputs.cache
+C:\ReC#\WhileSum\WhileSum\obj\Debug\net8.0\WhileSum.dll
+C:\ReC#\WhileSum\WhileSum\obj\Debug\net8.0\refint\WhileSum.dll
+C:\ReC#\WhileSum\WhileSum\obj\Debug\net8.0\WhileSum.pdb
+C:\ReC#\WhileSum\WhileSum\obj\Debug\net8.0\WhileSum.genruntimeconfig.cache
+C:\ReC#\WhileSum\WhileSum\obj\Debug\net8.0\ref\WhileSum.dll

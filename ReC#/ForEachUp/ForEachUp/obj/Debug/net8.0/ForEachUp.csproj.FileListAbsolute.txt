@@ -1,0 +1,14 @@
+C:\ReC#\ForEachUp\ForEachUp\bin\Debug\net8.0\ForEachUp.exe
+C:\ReC#\ForEachUp\ForEachUp\bin\Debug\net8.0\ForEachUp.deps.json
+C:\ReC#\ForEachUp\ForEachUp\bin\Debug\net8.0\ForEachUp.runtimeconfig.json
+C:\ReC#\ForEachUp\ForEachUp\bin\Debug\net8.0\ForEachUp.dll
+C:\ReC#\ForEachUp\ForEachUp\bin\Debug\net8.0\ForEachUp.pdb
+C:\ReC#\ForEachUp\ForEachUp\obj\Debug\net8.0\ForEachUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ForEachUp\ForEachUp\obj\Debug\net8.0\ForEachUp.AssemblyInfoInputs.cache
+C:\ReC#\ForEachUp\ForEachUp\obj\Debug\net8.0\ForEachUp.AssemblyInfo.cs
+C:\ReC#\ForEachUp\ForEachUp\obj\Debug\net8.0\ForEachUp.csproj.CoreCompileInputs.cache
+C:\ReC#\ForEachUp\ForEachUp\obj\Debug\net8.0\ForEachUp.dll
+C:\ReC#\ForEachUp\ForEachUp\obj\Debug\net8.0\refint\ForEachUp.dll
+C:\ReC#\ForEachUp\ForEachUp\obj\Debug\net8.0\ForEachUp.pdb
+C:\ReC#\ForEachUp\ForEachUp\obj\Debug\net8.0\ForEachUp.genruntimeconfig.cache
+C:\ReC#\ForEachUp\ForEachUp\obj\Debug\net8.0\ref\ForEachUp.dll

@@ -1,0 +1,14 @@
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\bin\Debug\net8.0\ReflectionGetProperty.exe
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\bin\Debug\net8.0\ReflectionGetProperty.deps.json
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\bin\Debug\net8.0\ReflectionGetProperty.runtimeconfig.json
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\bin\Debug\net8.0\ReflectionGetProperty.dll
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\bin\Debug\net8.0\ReflectionGetProperty.pdb
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\net8.0\ReflectionGetProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\net8.0\ReflectionGetProperty.AssemblyInfoInputs.cache
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\net8.0\ReflectionGetProperty.AssemblyInfo.cs
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\net8.0\ReflectionGetProperty.csproj.CoreCompileInputs.cache
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\net8.0\ReflectionGetProperty.dll
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\net8.0\refint\ReflectionGetProperty.dll
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\net8.0\ReflectionGetProperty.pdb
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\net8.0\ReflectionGetProperty.genruntimeconfig.cache
+C:\ReC#\ReflectionGetProperty\ReflectionGetProperty\obj\Debug\net8.0\ref\ReflectionGetProperty.dll

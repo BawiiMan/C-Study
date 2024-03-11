@@ -1,0 +1,14 @@
+C:\ReC#\ParameterRef\ParameterRef\bin\Debug\net8.0\ParameterRef.exe
+C:\ReC#\ParameterRef\ParameterRef\bin\Debug\net8.0\ParameterRef.deps.json
+C:\ReC#\ParameterRef\ParameterRef\bin\Debug\net8.0\ParameterRef.runtimeconfig.json
+C:\ReC#\ParameterRef\ParameterRef\bin\Debug\net8.0\ParameterRef.dll
+C:\ReC#\ParameterRef\ParameterRef\bin\Debug\net8.0\ParameterRef.pdb
+C:\ReC#\ParameterRef\ParameterRef\obj\Debug\net8.0\ParameterRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ParameterRef\ParameterRef\obj\Debug\net8.0\ParameterRef.AssemblyInfoInputs.cache
+C:\ReC#\ParameterRef\ParameterRef\obj\Debug\net8.0\ParameterRef.AssemblyInfo.cs
+C:\ReC#\ParameterRef\ParameterRef\obj\Debug\net8.0\ParameterRef.csproj.CoreCompileInputs.cache
+C:\ReC#\ParameterRef\ParameterRef\obj\Debug\net8.0\ParameterRef.dll
+C:\ReC#\ParameterRef\ParameterRef\obj\Debug\net8.0\refint\ParameterRef.dll
+C:\ReC#\ParameterRef\ParameterRef\obj\Debug\net8.0\ParameterRef.pdb
+C:\ReC#\ParameterRef\ParameterRef\obj\Debug\net8.0\ParameterRef.genruntimeconfig.cache
+C:\ReC#\ParameterRef\ParameterRef\obj\Debug\net8.0\ref\ParameterRef.dll

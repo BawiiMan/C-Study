@@ -1,0 +1,14 @@
+C:\ReC#\BooleanDemo\BooleanDemo\bin\Debug\net8.0\BooleanDemo.exe
+C:\ReC#\BooleanDemo\BooleanDemo\bin\Debug\net8.0\BooleanDemo.deps.json
+C:\ReC#\BooleanDemo\BooleanDemo\bin\Debug\net8.0\BooleanDemo.runtimeconfig.json
+C:\ReC#\BooleanDemo\BooleanDemo\bin\Debug\net8.0\BooleanDemo.dll
+C:\ReC#\BooleanDemo\BooleanDemo\bin\Debug\net8.0\BooleanDemo.pdb
+C:\ReC#\BooleanDemo\BooleanDemo\obj\Debug\net8.0\BooleanDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\BooleanDemo\BooleanDemo\obj\Debug\net8.0\BooleanDemo.AssemblyInfoInputs.cache
+C:\ReC#\BooleanDemo\BooleanDemo\obj\Debug\net8.0\BooleanDemo.AssemblyInfo.cs
+C:\ReC#\BooleanDemo\BooleanDemo\obj\Debug\net8.0\BooleanDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\BooleanDemo\BooleanDemo\obj\Debug\net8.0\BooleanDemo.dll
+C:\ReC#\BooleanDemo\BooleanDemo\obj\Debug\net8.0\refint\BooleanDemo.dll
+C:\ReC#\BooleanDemo\BooleanDemo\obj\Debug\net8.0\BooleanDemo.pdb
+C:\ReC#\BooleanDemo\BooleanDemo\obj\Debug\net8.0\BooleanDemo.genruntimeconfig.cache
+C:\ReC#\BooleanDemo\BooleanDemo\obj\Debug\net8.0\ref\BooleanDemo.dll

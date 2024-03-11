@@ -1,0 +1,14 @@
+C:\ReC#\OutVariableDemo\OutVariableDemo\bin\Debug\net8.0\OutVariableDemo.exe
+C:\ReC#\OutVariableDemo\OutVariableDemo\bin\Debug\net8.0\OutVariableDemo.deps.json
+C:\ReC#\OutVariableDemo\OutVariableDemo\bin\Debug\net8.0\OutVariableDemo.runtimeconfig.json
+C:\ReC#\OutVariableDemo\OutVariableDemo\bin\Debug\net8.0\OutVariableDemo.dll
+C:\ReC#\OutVariableDemo\OutVariableDemo\bin\Debug\net8.0\OutVariableDemo.pdb
+C:\ReC#\OutVariableDemo\OutVariableDemo\obj\Debug\net8.0\OutVariableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\OutVariableDemo\OutVariableDemo\obj\Debug\net8.0\OutVariableDemo.AssemblyInfoInputs.cache
+C:\ReC#\OutVariableDemo\OutVariableDemo\obj\Debug\net8.0\OutVariableDemo.AssemblyInfo.cs
+C:\ReC#\OutVariableDemo\OutVariableDemo\obj\Debug\net8.0\OutVariableDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\OutVariableDemo\OutVariableDemo\obj\Debug\net8.0\OutVariableDemo.dll
+C:\ReC#\OutVariableDemo\OutVariableDemo\obj\Debug\net8.0\refint\OutVariableDemo.dll
+C:\ReC#\OutVariableDemo\OutVariableDemo\obj\Debug\net8.0\OutVariableDemo.pdb
+C:\ReC#\OutVariableDemo\OutVariableDemo\obj\Debug\net8.0\OutVariableDemo.genruntimeconfig.cache
+C:\ReC#\OutVariableDemo\OutVariableDemo\obj\Debug\net8.0\ref\OutVariableDemo.dll

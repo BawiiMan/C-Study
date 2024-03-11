@@ -1,0 +1,14 @@
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\bin\Debug\net8.0\ArrayGetLengthDemo.exe
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\bin\Debug\net8.0\ArrayGetLengthDemo.deps.json
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\bin\Debug\net8.0\ArrayGetLengthDemo.runtimeconfig.json
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\bin\Debug\net8.0\ArrayGetLengthDemo.dll
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\bin\Debug\net8.0\ArrayGetLengthDemo.pdb
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\obj\Debug\net8.0\ArrayGetLengthDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\obj\Debug\net8.0\ArrayGetLengthDemo.AssemblyInfoInputs.cache
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\obj\Debug\net8.0\ArrayGetLengthDemo.AssemblyInfo.cs
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\obj\Debug\net8.0\ArrayGetLengthDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\obj\Debug\net8.0\ArrayGetLengthDemo.dll
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\obj\Debug\net8.0\refint\ArrayGetLengthDemo.dll
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\obj\Debug\net8.0\ArrayGetLengthDemo.pdb
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\obj\Debug\net8.0\ArrayGetLengthDemo.genruntimeconfig.cache
+C:\ReC#\ArrayGetLengthDemo\ArrayGetLengthDemo\obj\Debug\net8.0\ref\ArrayGetLengthDemo.dll

@@ -1,0 +1,14 @@
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\bin\Debug\net8.0\IfElseScoreGrade.exe
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\bin\Debug\net8.0\IfElseScoreGrade.deps.json
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\bin\Debug\net8.0\IfElseScoreGrade.runtimeconfig.json
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\bin\Debug\net8.0\IfElseScoreGrade.dll
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\bin\Debug\net8.0\IfElseScoreGrade.pdb
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\obj\Debug\net8.0\IfElseScoreGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\obj\Debug\net8.0\IfElseScoreGrade.AssemblyInfoInputs.cache
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\obj\Debug\net8.0\IfElseScoreGrade.AssemblyInfo.cs
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\obj\Debug\net8.0\IfElseScoreGrade.csproj.CoreCompileInputs.cache
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\obj\Debug\net8.0\IfElseScoreGrade.dll
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\obj\Debug\net8.0\refint\IfElseScoreGrade.dll
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\obj\Debug\net8.0\IfElseScoreGrade.pdb
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\obj\Debug\net8.0\IfElseScoreGrade.genruntimeconfig.cache
+C:\ReC#\IfElseScoreGrade\IfElseScoreGrade\obj\Debug\net8.0\ref\IfElseScoreGrade.dll

@@ -1,0 +1,14 @@
+C:\ReC#\RegexReplace\RegexReplace\bin\Debug\net8.0\RegexReplace.exe
+C:\ReC#\RegexReplace\RegexReplace\bin\Debug\net8.0\RegexReplace.deps.json
+C:\ReC#\RegexReplace\RegexReplace\bin\Debug\net8.0\RegexReplace.runtimeconfig.json
+C:\ReC#\RegexReplace\RegexReplace\bin\Debug\net8.0\RegexReplace.dll
+C:\ReC#\RegexReplace\RegexReplace\bin\Debug\net8.0\RegexReplace.pdb
+C:\ReC#\RegexReplace\RegexReplace\obj\Debug\net8.0\RegexReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\RegexReplace\RegexReplace\obj\Debug\net8.0\RegexReplace.AssemblyInfoInputs.cache
+C:\ReC#\RegexReplace\RegexReplace\obj\Debug\net8.0\RegexReplace.AssemblyInfo.cs
+C:\ReC#\RegexReplace\RegexReplace\obj\Debug\net8.0\RegexReplace.csproj.CoreCompileInputs.cache
+C:\ReC#\RegexReplace\RegexReplace\obj\Debug\net8.0\RegexReplace.dll
+C:\ReC#\RegexReplace\RegexReplace\obj\Debug\net8.0\refint\RegexReplace.dll
+C:\ReC#\RegexReplace\RegexReplace\obj\Debug\net8.0\RegexReplace.pdb
+C:\ReC#\RegexReplace\RegexReplace\obj\Debug\net8.0\RegexReplace.genruntimeconfig.cache
+C:\ReC#\RegexReplace\RegexReplace\obj\Debug\net8.0\ref\RegexReplace.dll

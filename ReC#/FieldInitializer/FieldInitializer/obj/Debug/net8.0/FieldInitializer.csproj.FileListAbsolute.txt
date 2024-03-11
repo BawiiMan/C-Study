@@ -1,0 +1,14 @@
+C:\ReC#\FieldInitializer\FieldInitializer\bin\Debug\net8.0\FieldInitializer.exe
+C:\ReC#\FieldInitializer\FieldInitializer\bin\Debug\net8.0\FieldInitializer.deps.json
+C:\ReC#\FieldInitializer\FieldInitializer\bin\Debug\net8.0\FieldInitializer.runtimeconfig.json
+C:\ReC#\FieldInitializer\FieldInitializer\bin\Debug\net8.0\FieldInitializer.dll
+C:\ReC#\FieldInitializer\FieldInitializer\bin\Debug\net8.0\FieldInitializer.pdb
+C:\ReC#\FieldInitializer\FieldInitializer\obj\Debug\net8.0\FieldInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FieldInitializer\FieldInitializer\obj\Debug\net8.0\FieldInitializer.AssemblyInfoInputs.cache
+C:\ReC#\FieldInitializer\FieldInitializer\obj\Debug\net8.0\FieldInitializer.AssemblyInfo.cs
+C:\ReC#\FieldInitializer\FieldInitializer\obj\Debug\net8.0\FieldInitializer.csproj.CoreCompileInputs.cache
+C:\ReC#\FieldInitializer\FieldInitializer\obj\Debug\net8.0\FieldInitializer.dll
+C:\ReC#\FieldInitializer\FieldInitializer\obj\Debug\net8.0\refint\FieldInitializer.dll
+C:\ReC#\FieldInitializer\FieldInitializer\obj\Debug\net8.0\FieldInitializer.pdb
+C:\ReC#\FieldInitializer\FieldInitializer\obj\Debug\net8.0\FieldInitializer.genruntimeconfig.cache
+C:\ReC#\FieldInitializer\FieldInitializer\obj\Debug\net8.0\ref\FieldInitializer.dll

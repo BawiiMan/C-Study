@@ -1,0 +1,14 @@
+C:\ReC#\RecursionDemo\RecursionDemo\bin\Debug\net8.0\RecursionDemo.exe
+C:\ReC#\RecursionDemo\RecursionDemo\bin\Debug\net8.0\RecursionDemo.deps.json
+C:\ReC#\RecursionDemo\RecursionDemo\bin\Debug\net8.0\RecursionDemo.runtimeconfig.json
+C:\ReC#\RecursionDemo\RecursionDemo\bin\Debug\net8.0\RecursionDemo.dll
+C:\ReC#\RecursionDemo\RecursionDemo\bin\Debug\net8.0\RecursionDemo.pdb
+C:\ReC#\RecursionDemo\RecursionDemo\obj\Debug\net8.0\RecursionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\RecursionDemo\RecursionDemo\obj\Debug\net8.0\RecursionDemo.AssemblyInfoInputs.cache
+C:\ReC#\RecursionDemo\RecursionDemo\obj\Debug\net8.0\RecursionDemo.AssemblyInfo.cs
+C:\ReC#\RecursionDemo\RecursionDemo\obj\Debug\net8.0\RecursionDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\RecursionDemo\RecursionDemo\obj\Debug\net8.0\RecursionDemo.dll
+C:\ReC#\RecursionDemo\RecursionDemo\obj\Debug\net8.0\refint\RecursionDemo.dll
+C:\ReC#\RecursionDemo\RecursionDemo\obj\Debug\net8.0\RecursionDemo.pdb
+C:\ReC#\RecursionDemo\RecursionDemo\obj\Debug\net8.0\RecursionDemo.genruntimeconfig.cache
+C:\ReC#\RecursionDemo\RecursionDemo\obj\Debug\net8.0\ref\RecursionDemo.dll

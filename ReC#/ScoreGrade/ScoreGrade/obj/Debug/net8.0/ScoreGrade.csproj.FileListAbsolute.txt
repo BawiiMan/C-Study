@@ -1,0 +1,14 @@
+C:\ReC#\ScoreGrade\ScoreGrade\bin\Debug\net8.0\ScoreGrade.exe
+C:\ReC#\ScoreGrade\ScoreGrade\bin\Debug\net8.0\ScoreGrade.deps.json
+C:\ReC#\ScoreGrade\ScoreGrade\bin\Debug\net8.0\ScoreGrade.runtimeconfig.json
+C:\ReC#\ScoreGrade\ScoreGrade\bin\Debug\net8.0\ScoreGrade.dll
+C:\ReC#\ScoreGrade\ScoreGrade\bin\Debug\net8.0\ScoreGrade.pdb
+C:\ReC#\ScoreGrade\ScoreGrade\obj\Debug\net8.0\ScoreGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ScoreGrade\ScoreGrade\obj\Debug\net8.0\ScoreGrade.AssemblyInfoInputs.cache
+C:\ReC#\ScoreGrade\ScoreGrade\obj\Debug\net8.0\ScoreGrade.AssemblyInfo.cs
+C:\ReC#\ScoreGrade\ScoreGrade\obj\Debug\net8.0\ScoreGrade.csproj.CoreCompileInputs.cache
+C:\ReC#\ScoreGrade\ScoreGrade\obj\Debug\net8.0\ScoreGrade.dll
+C:\ReC#\ScoreGrade\ScoreGrade\obj\Debug\net8.0\refint\ScoreGrade.dll
+C:\ReC#\ScoreGrade\ScoreGrade\obj\Debug\net8.0\ScoreGrade.pdb
+C:\ReC#\ScoreGrade\ScoreGrade\obj\Debug\net8.0\ScoreGrade.genruntimeconfig.cache
+C:\ReC#\ScoreGrade\ScoreGrade\obj\Debug\net8.0\ref\ScoreGrade.dll

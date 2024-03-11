@@ -1,0 +1,14 @@
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\bin\Debug\net8.0\AnonoymousMethod.exe
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\bin\Debug\net8.0\AnonoymousMethod.deps.json
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\bin\Debug\net8.0\AnonoymousMethod.runtimeconfig.json
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\bin\Debug\net8.0\AnonoymousMethod.dll
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\bin\Debug\net8.0\AnonoymousMethod.pdb
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\obj\Debug\net8.0\AnonoymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\obj\Debug\net8.0\AnonoymousMethod.AssemblyInfoInputs.cache
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\obj\Debug\net8.0\AnonoymousMethod.AssemblyInfo.cs
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\obj\Debug\net8.0\AnonoymousMethod.csproj.CoreCompileInputs.cache
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\obj\Debug\net8.0\AnonoymousMethod.dll
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\obj\Debug\net8.0\refint\AnonoymousMethod.dll
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\obj\Debug\net8.0\AnonoymousMethod.pdb
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\obj\Debug\net8.0\AnonoymousMethod.genruntimeconfig.cache
+C:\ReC#\AnonoymousMethod\AnonoymousMethod\obj\Debug\net8.0\ref\AnonoymousMethod.dll

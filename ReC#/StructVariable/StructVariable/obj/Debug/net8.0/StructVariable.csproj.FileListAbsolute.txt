@@ -1,0 +1,14 @@
+C:\ReC#\StructVariable\StructVariable\bin\Debug\net8.0\StructVariable.exe
+C:\ReC#\StructVariable\StructVariable\bin\Debug\net8.0\StructVariable.deps.json
+C:\ReC#\StructVariable\StructVariable\bin\Debug\net8.0\StructVariable.runtimeconfig.json
+C:\ReC#\StructVariable\StructVariable\bin\Debug\net8.0\StructVariable.dll
+C:\ReC#\StructVariable\StructVariable\bin\Debug\net8.0\StructVariable.pdb
+C:\ReC#\StructVariable\StructVariable\obj\Debug\net8.0\StructVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\StructVariable\StructVariable\obj\Debug\net8.0\StructVariable.AssemblyInfoInputs.cache
+C:\ReC#\StructVariable\StructVariable\obj\Debug\net8.0\StructVariable.AssemblyInfo.cs
+C:\ReC#\StructVariable\StructVariable\obj\Debug\net8.0\StructVariable.csproj.CoreCompileInputs.cache
+C:\ReC#\StructVariable\StructVariable\obj\Debug\net8.0\StructVariable.dll
+C:\ReC#\StructVariable\StructVariable\obj\Debug\net8.0\refint\StructVariable.dll
+C:\ReC#\StructVariable\StructVariable\obj\Debug\net8.0\StructVariable.pdb
+C:\ReC#\StructVariable\StructVariable\obj\Debug\net8.0\StructVariable.genruntimeconfig.cache
+C:\ReC#\StructVariable\StructVariable\obj\Debug\net8.0\ref\StructVariable.dll

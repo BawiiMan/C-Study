@@ -1,0 +1,14 @@
+C:\ReC#\CommandLineDemo\CommandLineDemo\bin\Debug\net8.0\CommandLineDemo.exe
+C:\ReC#\CommandLineDemo\CommandLineDemo\bin\Debug\net8.0\CommandLineDemo.deps.json
+C:\ReC#\CommandLineDemo\CommandLineDemo\bin\Debug\net8.0\CommandLineDemo.runtimeconfig.json
+C:\ReC#\CommandLineDemo\CommandLineDemo\bin\Debug\net8.0\CommandLineDemo.dll
+C:\ReC#\CommandLineDemo\CommandLineDemo\bin\Debug\net8.0\CommandLineDemo.pdb
+C:\ReC#\CommandLineDemo\CommandLineDemo\obj\Debug\net8.0\CommandLineDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\CommandLineDemo\CommandLineDemo\obj\Debug\net8.0\CommandLineDemo.AssemblyInfoInputs.cache
+C:\ReC#\CommandLineDemo\CommandLineDemo\obj\Debug\net8.0\CommandLineDemo.AssemblyInfo.cs
+C:\ReC#\CommandLineDemo\CommandLineDemo\obj\Debug\net8.0\CommandLineDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\CommandLineDemo\CommandLineDemo\obj\Debug\net8.0\CommandLineDemo.dll
+C:\ReC#\CommandLineDemo\CommandLineDemo\obj\Debug\net8.0\refint\CommandLineDemo.dll
+C:\ReC#\CommandLineDemo\CommandLineDemo\obj\Debug\net8.0\CommandLineDemo.pdb
+C:\ReC#\CommandLineDemo\CommandLineDemo\obj\Debug\net8.0\CommandLineDemo.genruntimeconfig.cache
+C:\ReC#\CommandLineDemo\CommandLineDemo\obj\Debug\net8.0\ref\CommandLineDemo.dll

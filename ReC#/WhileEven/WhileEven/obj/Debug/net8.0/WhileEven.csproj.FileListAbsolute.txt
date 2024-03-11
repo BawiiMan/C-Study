@@ -1,0 +1,14 @@
+C:\ReC#\WhileEven\WhileEven\bin\Debug\net8.0\WhileEven.exe
+C:\ReC#\WhileEven\WhileEven\bin\Debug\net8.0\WhileEven.deps.json
+C:\ReC#\WhileEven\WhileEven\bin\Debug\net8.0\WhileEven.runtimeconfig.json
+C:\ReC#\WhileEven\WhileEven\bin\Debug\net8.0\WhileEven.dll
+C:\ReC#\WhileEven\WhileEven\bin\Debug\net8.0\WhileEven.pdb
+C:\ReC#\WhileEven\WhileEven\obj\Debug\net8.0\WhileEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\WhileEven\WhileEven\obj\Debug\net8.0\WhileEven.AssemblyInfoInputs.cache
+C:\ReC#\WhileEven\WhileEven\obj\Debug\net8.0\WhileEven.AssemblyInfo.cs
+C:\ReC#\WhileEven\WhileEven\obj\Debug\net8.0\WhileEven.csproj.CoreCompileInputs.cache
+C:\ReC#\WhileEven\WhileEven\obj\Debug\net8.0\WhileEven.dll
+C:\ReC#\WhileEven\WhileEven\obj\Debug\net8.0\refint\WhileEven.dll
+C:\ReC#\WhileEven\WhileEven\obj\Debug\net8.0\WhileEven.pdb
+C:\ReC#\WhileEven\WhileEven\obj\Debug\net8.0\WhileEven.genruntimeconfig.cache
+C:\ReC#\WhileEven\WhileEven\obj\Debug\net8.0\ref\WhileEven.dll

@@ -1,0 +1,14 @@
+C:\ReC#\NearAll\NearAll\bin\Debug\net8.0\NearAll.exe
+C:\ReC#\NearAll\NearAll\bin\Debug\net8.0\NearAll.deps.json
+C:\ReC#\NearAll\NearAll\bin\Debug\net8.0\NearAll.runtimeconfig.json
+C:\ReC#\NearAll\NearAll\bin\Debug\net8.0\NearAll.dll
+C:\ReC#\NearAll\NearAll\bin\Debug\net8.0\NearAll.pdb
+C:\ReC#\NearAll\NearAll\obj\Debug\net8.0\NearAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\NearAll\NearAll\obj\Debug\net8.0\NearAll.AssemblyInfoInputs.cache
+C:\ReC#\NearAll\NearAll\obj\Debug\net8.0\NearAll.AssemblyInfo.cs
+C:\ReC#\NearAll\NearAll\obj\Debug\net8.0\NearAll.csproj.CoreCompileInputs.cache
+C:\ReC#\NearAll\NearAll\obj\Debug\net8.0\NearAll.dll
+C:\ReC#\NearAll\NearAll\obj\Debug\net8.0\refint\NearAll.dll
+C:\ReC#\NearAll\NearAll\obj\Debug\net8.0\NearAll.pdb
+C:\ReC#\NearAll\NearAll\obj\Debug\net8.0\NearAll.genruntimeconfig.cache
+C:\ReC#\NearAll\NearAll\obj\Debug\net8.0\ref\NearAll.dll

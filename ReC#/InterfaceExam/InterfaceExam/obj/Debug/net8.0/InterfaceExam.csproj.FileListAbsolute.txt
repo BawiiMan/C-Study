@@ -1,0 +1,14 @@
+C:\ReC#\InterfaceExam\InterfaceExam\bin\Debug\net8.0\InterfaceExam.exe
+C:\ReC#\InterfaceExam\InterfaceExam\bin\Debug\net8.0\InterfaceExam.deps.json
+C:\ReC#\InterfaceExam\InterfaceExam\bin\Debug\net8.0\InterfaceExam.runtimeconfig.json
+C:\ReC#\InterfaceExam\InterfaceExam\bin\Debug\net8.0\InterfaceExam.dll
+C:\ReC#\InterfaceExam\InterfaceExam\bin\Debug\net8.0\InterfaceExam.pdb
+C:\ReC#\InterfaceExam\InterfaceExam\obj\Debug\net8.0\InterfaceExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\InterfaceExam\InterfaceExam\obj\Debug\net8.0\InterfaceExam.AssemblyInfoInputs.cache
+C:\ReC#\InterfaceExam\InterfaceExam\obj\Debug\net8.0\InterfaceExam.AssemblyInfo.cs
+C:\ReC#\InterfaceExam\InterfaceExam\obj\Debug\net8.0\InterfaceExam.csproj.CoreCompileInputs.cache
+C:\ReC#\InterfaceExam\InterfaceExam\obj\Debug\net8.0\InterfaceExam.dll
+C:\ReC#\InterfaceExam\InterfaceExam\obj\Debug\net8.0\refint\InterfaceExam.dll
+C:\ReC#\InterfaceExam\InterfaceExam\obj\Debug\net8.0\InterfaceExam.pdb
+C:\ReC#\InterfaceExam\InterfaceExam\obj\Debug\net8.0\InterfaceExam.genruntimeconfig.cache
+C:\ReC#\InterfaceExam\InterfaceExam\obj\Debug\net8.0\ref\InterfaceExam.dll

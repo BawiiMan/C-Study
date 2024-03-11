@@ -1,0 +1,14 @@
+C:\ReC#\NamespaceDescription\NamespaceDescription\bin\Debug\net8.0\NamespaceDescription.exe
+C:\ReC#\NamespaceDescription\NamespaceDescription\bin\Debug\net8.0\NamespaceDescription.deps.json
+C:\ReC#\NamespaceDescription\NamespaceDescription\bin\Debug\net8.0\NamespaceDescription.runtimeconfig.json
+C:\ReC#\NamespaceDescription\NamespaceDescription\bin\Debug\net8.0\NamespaceDescription.dll
+C:\ReC#\NamespaceDescription\NamespaceDescription\bin\Debug\net8.0\NamespaceDescription.pdb
+C:\ReC#\NamespaceDescription\NamespaceDescription\obj\Debug\net8.0\NamespaceDescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\NamespaceDescription\NamespaceDescription\obj\Debug\net8.0\NamespaceDescription.AssemblyInfoInputs.cache
+C:\ReC#\NamespaceDescription\NamespaceDescription\obj\Debug\net8.0\NamespaceDescription.AssemblyInfo.cs
+C:\ReC#\NamespaceDescription\NamespaceDescription\obj\Debug\net8.0\NamespaceDescription.csproj.CoreCompileInputs.cache
+C:\ReC#\NamespaceDescription\NamespaceDescription\obj\Debug\net8.0\NamespaceDescription.dll
+C:\ReC#\NamespaceDescription\NamespaceDescription\obj\Debug\net8.0\refint\NamespaceDescription.dll
+C:\ReC#\NamespaceDescription\NamespaceDescription\obj\Debug\net8.0\NamespaceDescription.pdb
+C:\ReC#\NamespaceDescription\NamespaceDescription\obj\Debug\net8.0\NamespaceDescription.genruntimeconfig.cache
+C:\ReC#\NamespaceDescription\NamespaceDescription\obj\Debug\net8.0\ref\NamespaceDescription.dll

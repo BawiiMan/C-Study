@@ -1,0 +1,14 @@
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\bin\Debug\net8.0\MethodOverrideParactice.exe
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\bin\Debug\net8.0\MethodOverrideParactice.deps.json
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\bin\Debug\net8.0\MethodOverrideParactice.runtimeconfig.json
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\bin\Debug\net8.0\MethodOverrideParactice.dll
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\bin\Debug\net8.0\MethodOverrideParactice.pdb
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\obj\Debug\net8.0\MethodOverrideParactice.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\obj\Debug\net8.0\MethodOverrideParactice.AssemblyInfoInputs.cache
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\obj\Debug\net8.0\MethodOverrideParactice.AssemblyInfo.cs
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\obj\Debug\net8.0\MethodOverrideParactice.csproj.CoreCompileInputs.cache
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\obj\Debug\net8.0\MethodOverrideParactice.dll
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\obj\Debug\net8.0\refint\MethodOverrideParactice.dll
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\obj\Debug\net8.0\MethodOverrideParactice.pdb
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\obj\Debug\net8.0\MethodOverrideParactice.genruntimeconfig.cache
+C:\ReC#\MethodOverrideParactice\MethodOverrideParactice\obj\Debug\net8.0\ref\MethodOverrideParactice.dll

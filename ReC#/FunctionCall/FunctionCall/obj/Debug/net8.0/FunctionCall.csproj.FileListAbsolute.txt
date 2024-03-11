@@ -1,0 +1,14 @@
+C:\ReC#\FunctionCall\FunctionCall\bin\Debug\net8.0\FunctionCall.exe
+C:\ReC#\FunctionCall\FunctionCall\bin\Debug\net8.0\FunctionCall.deps.json
+C:\ReC#\FunctionCall\FunctionCall\bin\Debug\net8.0\FunctionCall.runtimeconfig.json
+C:\ReC#\FunctionCall\FunctionCall\bin\Debug\net8.0\FunctionCall.dll
+C:\ReC#\FunctionCall\FunctionCall\bin\Debug\net8.0\FunctionCall.pdb
+C:\ReC#\FunctionCall\FunctionCall\obj\Debug\net8.0\FunctionCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FunctionCall\FunctionCall\obj\Debug\net8.0\FunctionCall.AssemblyInfoInputs.cache
+C:\ReC#\FunctionCall\FunctionCall\obj\Debug\net8.0\FunctionCall.AssemblyInfo.cs
+C:\ReC#\FunctionCall\FunctionCall\obj\Debug\net8.0\FunctionCall.csproj.CoreCompileInputs.cache
+C:\ReC#\FunctionCall\FunctionCall\obj\Debug\net8.0\FunctionCall.dll
+C:\ReC#\FunctionCall\FunctionCall\obj\Debug\net8.0\refint\FunctionCall.dll
+C:\ReC#\FunctionCall\FunctionCall\obj\Debug\net8.0\FunctionCall.pdb
+C:\ReC#\FunctionCall\FunctionCall\obj\Debug\net8.0\FunctionCall.genruntimeconfig.cache
+C:\ReC#\FunctionCall\FunctionCall\obj\Debug\net8.0\ref\FunctionCall.dll

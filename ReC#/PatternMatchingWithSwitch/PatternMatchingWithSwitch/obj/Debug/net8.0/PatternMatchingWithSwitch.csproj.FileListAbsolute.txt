@@ -1,0 +1,14 @@
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net8.0\PatternMatchingWithSwitch.exe
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net8.0\PatternMatchingWithSwitch.deps.json
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net8.0\PatternMatchingWithSwitch.runtimeconfig.json
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net8.0\PatternMatchingWithSwitch.dll
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net8.0\PatternMatchingWithSwitch.pdb
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net8.0\PatternMatchingWithSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net8.0\PatternMatchingWithSwitch.AssemblyInfoInputs.cache
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net8.0\PatternMatchingWithSwitch.AssemblyInfo.cs
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net8.0\PatternMatchingWithSwitch.csproj.CoreCompileInputs.cache
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net8.0\PatternMatchingWithSwitch.dll
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net8.0\refint\PatternMatchingWithSwitch.dll
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net8.0\PatternMatchingWithSwitch.pdb
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net8.0\PatternMatchingWithSwitch.genruntimeconfig.cache
+C:\ReC#\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net8.0\ref\PatternMatchingWithSwitch.dll

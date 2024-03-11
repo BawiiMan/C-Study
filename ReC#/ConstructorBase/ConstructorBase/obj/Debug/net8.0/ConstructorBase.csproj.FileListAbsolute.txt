@@ -1,0 +1,14 @@
+C:\ReC#\ConstructorBase\ConstructorBase\bin\Debug\net8.0\ConstructorBase.exe
+C:\ReC#\ConstructorBase\ConstructorBase\bin\Debug\net8.0\ConstructorBase.deps.json
+C:\ReC#\ConstructorBase\ConstructorBase\bin\Debug\net8.0\ConstructorBase.runtimeconfig.json
+C:\ReC#\ConstructorBase\ConstructorBase\bin\Debug\net8.0\ConstructorBase.dll
+C:\ReC#\ConstructorBase\ConstructorBase\bin\Debug\net8.0\ConstructorBase.pdb
+C:\ReC#\ConstructorBase\ConstructorBase\obj\Debug\net8.0\ConstructorBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ConstructorBase\ConstructorBase\obj\Debug\net8.0\ConstructorBase.AssemblyInfoInputs.cache
+C:\ReC#\ConstructorBase\ConstructorBase\obj\Debug\net8.0\ConstructorBase.AssemblyInfo.cs
+C:\ReC#\ConstructorBase\ConstructorBase\obj\Debug\net8.0\ConstructorBase.csproj.CoreCompileInputs.cache
+C:\ReC#\ConstructorBase\ConstructorBase\obj\Debug\net8.0\ConstructorBase.dll
+C:\ReC#\ConstructorBase\ConstructorBase\obj\Debug\net8.0\refint\ConstructorBase.dll
+C:\ReC#\ConstructorBase\ConstructorBase\obj\Debug\net8.0\ConstructorBase.pdb
+C:\ReC#\ConstructorBase\ConstructorBase\obj\Debug\net8.0\ConstructorBase.genruntimeconfig.cache
+C:\ReC#\ConstructorBase\ConstructorBase\obj\Debug\net8.0\ref\ConstructorBase.dll

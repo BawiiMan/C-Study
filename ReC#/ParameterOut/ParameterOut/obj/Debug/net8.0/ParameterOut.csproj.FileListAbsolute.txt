@@ -1,0 +1,14 @@
+C:\ReC#\ParameterOut\ParameterOut\bin\Debug\net8.0\ParameterOut.exe
+C:\ReC#\ParameterOut\ParameterOut\bin\Debug\net8.0\ParameterOut.deps.json
+C:\ReC#\ParameterOut\ParameterOut\bin\Debug\net8.0\ParameterOut.runtimeconfig.json
+C:\ReC#\ParameterOut\ParameterOut\bin\Debug\net8.0\ParameterOut.dll
+C:\ReC#\ParameterOut\ParameterOut\bin\Debug\net8.0\ParameterOut.pdb
+C:\ReC#\ParameterOut\ParameterOut\obj\Debug\net8.0\ParameterOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ParameterOut\ParameterOut\obj\Debug\net8.0\ParameterOut.AssemblyInfoInputs.cache
+C:\ReC#\ParameterOut\ParameterOut\obj\Debug\net8.0\ParameterOut.AssemblyInfo.cs
+C:\ReC#\ParameterOut\ParameterOut\obj\Debug\net8.0\ParameterOut.csproj.CoreCompileInputs.cache
+C:\ReC#\ParameterOut\ParameterOut\obj\Debug\net8.0\ParameterOut.dll
+C:\ReC#\ParameterOut\ParameterOut\obj\Debug\net8.0\refint\ParameterOut.dll
+C:\ReC#\ParameterOut\ParameterOut\obj\Debug\net8.0\ParameterOut.pdb
+C:\ReC#\ParameterOut\ParameterOut\obj\Debug\net8.0\ParameterOut.genruntimeconfig.cache
+C:\ReC#\ParameterOut\ParameterOut\obj\Debug\net8.0\ref\ParameterOut.dll

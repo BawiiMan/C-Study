@@ -1,0 +1,14 @@
+C:\ReC#\CharTest\CharTest\bin\Debug\net8.0\CharTest.exe
+C:\ReC#\CharTest\CharTest\bin\Debug\net8.0\CharTest.deps.json
+C:\ReC#\CharTest\CharTest\bin\Debug\net8.0\CharTest.runtimeconfig.json
+C:\ReC#\CharTest\CharTest\bin\Debug\net8.0\CharTest.dll
+C:\ReC#\CharTest\CharTest\bin\Debug\net8.0\CharTest.pdb
+C:\ReC#\CharTest\CharTest\obj\Debug\net8.0\CharTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\CharTest\CharTest\obj\Debug\net8.0\CharTest.AssemblyInfoInputs.cache
+C:\ReC#\CharTest\CharTest\obj\Debug\net8.0\CharTest.AssemblyInfo.cs
+C:\ReC#\CharTest\CharTest\obj\Debug\net8.0\CharTest.csproj.CoreCompileInputs.cache
+C:\ReC#\CharTest\CharTest\obj\Debug\net8.0\CharTest.dll
+C:\ReC#\CharTest\CharTest\obj\Debug\net8.0\refint\CharTest.dll
+C:\ReC#\CharTest\CharTest\obj\Debug\net8.0\CharTest.pdb
+C:\ReC#\CharTest\CharTest\obj\Debug\net8.0\CharTest.genruntimeconfig.cache
+C:\ReC#\CharTest\CharTest\obj\Debug\net8.0\ref\CharTest.dll

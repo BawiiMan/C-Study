@@ -1,0 +1,7 @@
+C:\ReC#\CarWorld2\CarWorld2\obj\Debug\CarWorld2.csproj.AssemblyReference.cache
+C:\ReC#\CarWorld2\CarWorld2\obj\Debug\CarWorld2.csproj.CoreCompileInputs.cache
+C:\ReC#\CarWorld2\CarWorld2\bin\Debug\CarWorld2.exe.config
+C:\ReC#\CarWorld2\CarWorld2\bin\Debug\CarWorld2.exe
+C:\ReC#\CarWorld2\CarWorld2\bin\Debug\CarWorld2.pdb
+C:\ReC#\CarWorld2\CarWorld2\obj\Debug\CarWorld2.exe
+C:\ReC#\CarWorld2\CarWorld2\obj\Debug\CarWorld2.pdb

@@ -1,0 +1,14 @@
+C:\ReC#\ArrowDemo\ArrowDemo\bin\Debug\net8.0\ArrowDemo.exe
+C:\ReC#\ArrowDemo\ArrowDemo\bin\Debug\net8.0\ArrowDemo.deps.json
+C:\ReC#\ArrowDemo\ArrowDemo\bin\Debug\net8.0\ArrowDemo.runtimeconfig.json
+C:\ReC#\ArrowDemo\ArrowDemo\bin\Debug\net8.0\ArrowDemo.dll
+C:\ReC#\ArrowDemo\ArrowDemo\bin\Debug\net8.0\ArrowDemo.pdb
+C:\ReC#\ArrowDemo\ArrowDemo\obj\Debug\net8.0\ArrowDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrowDemo\ArrowDemo\obj\Debug\net8.0\ArrowDemo.AssemblyInfoInputs.cache
+C:\ReC#\ArrowDemo\ArrowDemo\obj\Debug\net8.0\ArrowDemo.AssemblyInfo.cs
+C:\ReC#\ArrowDemo\ArrowDemo\obj\Debug\net8.0\ArrowDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrowDemo\ArrowDemo\obj\Debug\net8.0\ArrowDemo.dll
+C:\ReC#\ArrowDemo\ArrowDemo\obj\Debug\net8.0\refint\ArrowDemo.dll
+C:\ReC#\ArrowDemo\ArrowDemo\obj\Debug\net8.0\ArrowDemo.pdb
+C:\ReC#\ArrowDemo\ArrowDemo\obj\Debug\net8.0\ArrowDemo.genruntimeconfig.cache
+C:\ReC#\ArrowDemo\ArrowDemo\obj\Debug\net8.0\ref\ArrowDemo.dll

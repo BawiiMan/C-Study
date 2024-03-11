@@ -1,0 +1,7 @@
+C:\ReC#\ConstructorToDestructor2\ConstructorToDestructor2\bin\Debug\ConstructorToDestructor2.exe.config
+C:\ReC#\ConstructorToDestructor2\ConstructorToDestructor2\bin\Debug\ConstructorToDestructor2.exe
+C:\ReC#\ConstructorToDestructor2\ConstructorToDestructor2\bin\Debug\ConstructorToDestructor2.pdb
+C:\ReC#\ConstructorToDestructor2\ConstructorToDestructor2\obj\Debug\ConstructorToDestructor2.csproj.AssemblyReference.cache
+C:\ReC#\ConstructorToDestructor2\ConstructorToDestructor2\obj\Debug\ConstructorToDestructor2.csproj.CoreCompileInputs.cache
+C:\ReC#\ConstructorToDestructor2\ConstructorToDestructor2\obj\Debug\ConstructorToDestructor2.exe
+C:\ReC#\ConstructorToDestructor2\ConstructorToDestructor2\obj\Debug\ConstructorToDestructor2.pdb

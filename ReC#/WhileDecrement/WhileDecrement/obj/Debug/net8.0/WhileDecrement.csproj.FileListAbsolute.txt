@@ -1,0 +1,14 @@
+C:\ReC#\WhileDecrement\WhileDecrement\bin\Debug\net8.0\WhileDecrement.exe
+C:\ReC#\WhileDecrement\WhileDecrement\bin\Debug\net8.0\WhileDecrement.deps.json
+C:\ReC#\WhileDecrement\WhileDecrement\bin\Debug\net8.0\WhileDecrement.runtimeconfig.json
+C:\ReC#\WhileDecrement\WhileDecrement\bin\Debug\net8.0\WhileDecrement.dll
+C:\ReC#\WhileDecrement\WhileDecrement\bin\Debug\net8.0\WhileDecrement.pdb
+C:\ReC#\WhileDecrement\WhileDecrement\obj\Debug\net8.0\WhileDecrement.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\WhileDecrement\WhileDecrement\obj\Debug\net8.0\WhileDecrement.AssemblyInfoInputs.cache
+C:\ReC#\WhileDecrement\WhileDecrement\obj\Debug\net8.0\WhileDecrement.AssemblyInfo.cs
+C:\ReC#\WhileDecrement\WhileDecrement\obj\Debug\net8.0\WhileDecrement.csproj.CoreCompileInputs.cache
+C:\ReC#\WhileDecrement\WhileDecrement\obj\Debug\net8.0\WhileDecrement.dll
+C:\ReC#\WhileDecrement\WhileDecrement\obj\Debug\net8.0\refint\WhileDecrement.dll
+C:\ReC#\WhileDecrement\WhileDecrement\obj\Debug\net8.0\WhileDecrement.pdb
+C:\ReC#\WhileDecrement\WhileDecrement\obj\Debug\net8.0\WhileDecrement.genruntimeconfig.cache
+C:\ReC#\WhileDecrement\WhileDecrement\obj\Debug\net8.0\ref\WhileDecrement.dll

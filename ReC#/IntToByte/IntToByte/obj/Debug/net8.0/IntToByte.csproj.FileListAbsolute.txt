@@ -1,0 +1,14 @@
+C:\ReC#\IntToByte\IntToByte\bin\Debug\net8.0\IntToByte.exe
+C:\ReC#\IntToByte\IntToByte\bin\Debug\net8.0\IntToByte.deps.json
+C:\ReC#\IntToByte\IntToByte\bin\Debug\net8.0\IntToByte.runtimeconfig.json
+C:\ReC#\IntToByte\IntToByte\bin\Debug\net8.0\IntToByte.dll
+C:\ReC#\IntToByte\IntToByte\bin\Debug\net8.0\IntToByte.pdb
+C:\ReC#\IntToByte\IntToByte\obj\Debug\net8.0\IntToByte.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IntToByte\IntToByte\obj\Debug\net8.0\IntToByte.AssemblyInfoInputs.cache
+C:\ReC#\IntToByte\IntToByte\obj\Debug\net8.0\IntToByte.AssemblyInfo.cs
+C:\ReC#\IntToByte\IntToByte\obj\Debug\net8.0\IntToByte.csproj.CoreCompileInputs.cache
+C:\ReC#\IntToByte\IntToByte\obj\Debug\net8.0\IntToByte.dll
+C:\ReC#\IntToByte\IntToByte\obj\Debug\net8.0\refint\IntToByte.dll
+C:\ReC#\IntToByte\IntToByte\obj\Debug\net8.0\IntToByte.pdb
+C:\ReC#\IntToByte\IntToByte\obj\Debug\net8.0\IntToByte.genruntimeconfig.cache
+C:\ReC#\IntToByte\IntToByte\obj\Debug\net8.0\ref\IntToByte.dll

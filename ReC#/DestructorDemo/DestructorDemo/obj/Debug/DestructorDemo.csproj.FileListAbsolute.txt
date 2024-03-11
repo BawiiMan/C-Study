@@ -1,0 +1,7 @@
+C:\ReC#\DestructorDemo\DestructorDemo\bin\Debug\DestructorDemo.exe.config
+C:\ReC#\DestructorDemo\DestructorDemo\bin\Debug\DestructorDemo.exe
+C:\ReC#\DestructorDemo\DestructorDemo\bin\Debug\DestructorDemo.pdb
+C:\ReC#\DestructorDemo\DestructorDemo\obj\Debug\DestructorDemo.csproj.AssemblyReference.cache
+C:\ReC#\DestructorDemo\DestructorDemo\obj\Debug\DestructorDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\DestructorDemo\DestructorDemo\obj\Debug\DestructorDemo.exe
+C:\ReC#\DestructorDemo\DestructorDemo\obj\Debug\DestructorDemo.pdb

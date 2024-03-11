@@ -1,0 +1,14 @@
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\bin\Debug\net8.0\FormatExceptionDemo.exe
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\bin\Debug\net8.0\FormatExceptionDemo.deps.json
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\bin\Debug\net8.0\FormatExceptionDemo.runtimeconfig.json
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\bin\Debug\net8.0\FormatExceptionDemo.dll
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\bin\Debug\net8.0\FormatExceptionDemo.pdb
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\net8.0\FormatExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\net8.0\FormatExceptionDemo.AssemblyInfoInputs.cache
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\net8.0\FormatExceptionDemo.AssemblyInfo.cs
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\net8.0\FormatExceptionDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\net8.0\FormatExceptionDemo.dll
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\net8.0\refint\FormatExceptionDemo.dll
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\net8.0\FormatExceptionDemo.pdb
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\net8.0\FormatExceptionDemo.genruntimeconfig.cache
+C:\ReC#\FormatExceptionDemo\FormatExceptionDemo\obj\Debug\net8.0\ref\FormatExceptionDemo.dll

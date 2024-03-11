@@ -1,0 +1,14 @@
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\bin\Debug\net8.0\SearcgAlgorithm.exe
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\bin\Debug\net8.0\SearcgAlgorithm.deps.json
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\bin\Debug\net8.0\SearcgAlgorithm.runtimeconfig.json
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\bin\Debug\net8.0\SearcgAlgorithm.dll
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\bin\Debug\net8.0\SearcgAlgorithm.pdb
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\obj\Debug\net8.0\SearcgAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\obj\Debug\net8.0\SearcgAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\obj\Debug\net8.0\SearcgAlgorithm.AssemblyInfo.cs
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\obj\Debug\net8.0\SearcgAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\obj\Debug\net8.0\SearcgAlgorithm.dll
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\obj\Debug\net8.0\refint\SearcgAlgorithm.dll
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\obj\Debug\net8.0\SearcgAlgorithm.pdb
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\obj\Debug\net8.0\SearcgAlgorithm.genruntimeconfig.cache
+C:\ReC#\SearcgAlgorithm\SearcgAlgorithm\obj\Debug\net8.0\ref\SearcgAlgorithm.dll

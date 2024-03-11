@@ -1,0 +1,14 @@
+C:\ReC#\ConstructorAll\ConstructorAll\bin\Debug\net8.0\ConstructorAll.exe
+C:\ReC#\ConstructorAll\ConstructorAll\bin\Debug\net8.0\ConstructorAll.deps.json
+C:\ReC#\ConstructorAll\ConstructorAll\bin\Debug\net8.0\ConstructorAll.runtimeconfig.json
+C:\ReC#\ConstructorAll\ConstructorAll\bin\Debug\net8.0\ConstructorAll.dll
+C:\ReC#\ConstructorAll\ConstructorAll\bin\Debug\net8.0\ConstructorAll.pdb
+C:\ReC#\ConstructorAll\ConstructorAll\obj\Debug\net8.0\ConstructorAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ConstructorAll\ConstructorAll\obj\Debug\net8.0\ConstructorAll.AssemblyInfoInputs.cache
+C:\ReC#\ConstructorAll\ConstructorAll\obj\Debug\net8.0\ConstructorAll.AssemblyInfo.cs
+C:\ReC#\ConstructorAll\ConstructorAll\obj\Debug\net8.0\ConstructorAll.csproj.CoreCompileInputs.cache
+C:\ReC#\ConstructorAll\ConstructorAll\obj\Debug\net8.0\ConstructorAll.dll
+C:\ReC#\ConstructorAll\ConstructorAll\obj\Debug\net8.0\refint\ConstructorAll.dll
+C:\ReC#\ConstructorAll\ConstructorAll\obj\Debug\net8.0\ConstructorAll.pdb
+C:\ReC#\ConstructorAll\ConstructorAll\obj\Debug\net8.0\ConstructorAll.genruntimeconfig.cache
+C:\ReC#\ConstructorAll\ConstructorAll\obj\Debug\net8.0\ref\ConstructorAll.dll

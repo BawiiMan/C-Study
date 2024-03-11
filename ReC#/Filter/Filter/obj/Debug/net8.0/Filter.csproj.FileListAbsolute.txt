@@ -1,0 +1,14 @@
+C:\ReC#\Filter\Filter\bin\Debug\net8.0\Filter.exe
+C:\ReC#\Filter\Filter\bin\Debug\net8.0\Filter.deps.json
+C:\ReC#\Filter\Filter\bin\Debug\net8.0\Filter.runtimeconfig.json
+C:\ReC#\Filter\Filter\bin\Debug\net8.0\Filter.dll
+C:\ReC#\Filter\Filter\bin\Debug\net8.0\Filter.pdb
+C:\ReC#\Filter\Filter\obj\Debug\net8.0\Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\Filter\Filter\obj\Debug\net8.0\Filter.AssemblyInfoInputs.cache
+C:\ReC#\Filter\Filter\obj\Debug\net8.0\Filter.AssemblyInfo.cs
+C:\ReC#\Filter\Filter\obj\Debug\net8.0\Filter.csproj.CoreCompileInputs.cache
+C:\ReC#\Filter\Filter\obj\Debug\net8.0\Filter.dll
+C:\ReC#\Filter\Filter\obj\Debug\net8.0\refint\Filter.dll
+C:\ReC#\Filter\Filter\obj\Debug\net8.0\Filter.pdb
+C:\ReC#\Filter\Filter\obj\Debug\net8.0\Filter.genruntimeconfig.cache
+C:\ReC#\Filter\Filter\obj\Debug\net8.0\ref\Filter.dll

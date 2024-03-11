@@ -1,0 +1,14 @@
+C:\ReC#\NameOfOoperator\NameOfOoperator\obj\Debug\net8.0\NameOfOoperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\NameOfOoperator\NameOfOoperator\obj\Debug\net8.0\NameOfOoperator.AssemblyInfoInputs.cache
+C:\ReC#\NameOfOoperator\NameOfOoperator\obj\Debug\net8.0\NameOfOoperator.AssemblyInfo.cs
+C:\ReC#\NameOfOoperator\NameOfOoperator\obj\Debug\net8.0\NameOfOoperator.csproj.CoreCompileInputs.cache
+C:\ReC#\NameOfOoperator\NameOfOoperator\bin\Debug\net8.0\NameOfOoperator.exe
+C:\ReC#\NameOfOoperator\NameOfOoperator\bin\Debug\net8.0\NameOfOoperator.deps.json
+C:\ReC#\NameOfOoperator\NameOfOoperator\bin\Debug\net8.0\NameOfOoperator.runtimeconfig.json
+C:\ReC#\NameOfOoperator\NameOfOoperator\bin\Debug\net8.0\NameOfOoperator.dll
+C:\ReC#\NameOfOoperator\NameOfOoperator\bin\Debug\net8.0\NameOfOoperator.pdb
+C:\ReC#\NameOfOoperator\NameOfOoperator\obj\Debug\net8.0\NameOfOoperator.dll
+C:\ReC#\NameOfOoperator\NameOfOoperator\obj\Debug\net8.0\refint\NameOfOoperator.dll
+C:\ReC#\NameOfOoperator\NameOfOoperator\obj\Debug\net8.0\NameOfOoperator.pdb
+C:\ReC#\NameOfOoperator\NameOfOoperator\obj\Debug\net8.0\NameOfOoperator.genruntimeconfig.cache
+C:\ReC#\NameOfOoperator\NameOfOoperator\obj\Debug\net8.0\ref\NameOfOoperator.dll

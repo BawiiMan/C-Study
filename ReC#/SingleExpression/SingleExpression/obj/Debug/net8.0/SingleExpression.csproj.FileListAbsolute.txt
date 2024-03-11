@@ -1,0 +1,14 @@
+C:\ReC#\SingleExpression\SingleExpression\bin\Debug\net8.0\SingleExpression.exe
+C:\ReC#\SingleExpression\SingleExpression\bin\Debug\net8.0\SingleExpression.deps.json
+C:\ReC#\SingleExpression\SingleExpression\bin\Debug\net8.0\SingleExpression.runtimeconfig.json
+C:\ReC#\SingleExpression\SingleExpression\bin\Debug\net8.0\SingleExpression.dll
+C:\ReC#\SingleExpression\SingleExpression\bin\Debug\net8.0\SingleExpression.pdb
+C:\ReC#\SingleExpression\SingleExpression\obj\Debug\net8.0\SingleExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\SingleExpression\SingleExpression\obj\Debug\net8.0\SingleExpression.AssemblyInfoInputs.cache
+C:\ReC#\SingleExpression\SingleExpression\obj\Debug\net8.0\SingleExpression.AssemblyInfo.cs
+C:\ReC#\SingleExpression\SingleExpression\obj\Debug\net8.0\SingleExpression.csproj.CoreCompileInputs.cache
+C:\ReC#\SingleExpression\SingleExpression\obj\Debug\net8.0\SingleExpression.dll
+C:\ReC#\SingleExpression\SingleExpression\obj\Debug\net8.0\refint\SingleExpression.dll
+C:\ReC#\SingleExpression\SingleExpression\obj\Debug\net8.0\SingleExpression.pdb
+C:\ReC#\SingleExpression\SingleExpression\obj\Debug\net8.0\SingleExpression.genruntimeconfig.cache
+C:\ReC#\SingleExpression\SingleExpression\obj\Debug\net8.0\ref\SingleExpression.dll

@@ -1,0 +1,14 @@
+C:\ReC#\If\If\obj\Debug\net8.0\If.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\If\If\obj\Debug\net8.0\If.AssemblyInfoInputs.cache
+C:\ReC#\If\If\obj\Debug\net8.0\If.AssemblyInfo.cs
+C:\ReC#\If\If\obj\Debug\net8.0\If.csproj.CoreCompileInputs.cache
+C:\ReC#\If\If\bin\Debug\net8.0\If.exe
+C:\ReC#\If\If\bin\Debug\net8.0\If.deps.json
+C:\ReC#\If\If\bin\Debug\net8.0\If.runtimeconfig.json
+C:\ReC#\If\If\bin\Debug\net8.0\If.dll
+C:\ReC#\If\If\bin\Debug\net8.0\If.pdb
+C:\ReC#\If\If\obj\Debug\net8.0\If.dll
+C:\ReC#\If\If\obj\Debug\net8.0\refint\If.dll
+C:\ReC#\If\If\obj\Debug\net8.0\If.pdb
+C:\ReC#\If\If\obj\Debug\net8.0\If.genruntimeconfig.cache
+C:\ReC#\If\If\obj\Debug\net8.0\ref\If.dll

@@ -1,0 +1,14 @@
+C:\ReC#\IfNested\IfNested\bin\Debug\net8.0\IfNested.exe
+C:\ReC#\IfNested\IfNested\bin\Debug\net8.0\IfNested.deps.json
+C:\ReC#\IfNested\IfNested\bin\Debug\net8.0\IfNested.runtimeconfig.json
+C:\ReC#\IfNested\IfNested\bin\Debug\net8.0\IfNested.dll
+C:\ReC#\IfNested\IfNested\bin\Debug\net8.0\IfNested.pdb
+C:\ReC#\IfNested\IfNested\obj\Debug\net8.0\IfNested.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IfNested\IfNested\obj\Debug\net8.0\IfNested.AssemblyInfoInputs.cache
+C:\ReC#\IfNested\IfNested\obj\Debug\net8.0\IfNested.AssemblyInfo.cs
+C:\ReC#\IfNested\IfNested\obj\Debug\net8.0\IfNested.csproj.CoreCompileInputs.cache
+C:\ReC#\IfNested\IfNested\obj\Debug\net8.0\IfNested.dll
+C:\ReC#\IfNested\IfNested\obj\Debug\net8.0\refint\IfNested.dll
+C:\ReC#\IfNested\IfNested\obj\Debug\net8.0\IfNested.pdb
+C:\ReC#\IfNested\IfNested\obj\Debug\net8.0\IfNested.genruntimeconfig.cache
+C:\ReC#\IfNested\IfNested\obj\Debug\net8.0\ref\IfNested.dll

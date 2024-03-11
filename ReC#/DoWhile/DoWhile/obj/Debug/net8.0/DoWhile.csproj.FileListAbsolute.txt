@@ -1,0 +1,14 @@
+C:\ReC#\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.exe
+C:\ReC#\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+C:\ReC#\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+C:\ReC#\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.dll
+C:\ReC#\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+C:\ReC#\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+C:\ReC#\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+C:\ReC#\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\ReC#\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.dll
+C:\ReC#\DoWhile\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+C:\ReC#\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+C:\ReC#\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+C:\ReC#\DoWhile\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll

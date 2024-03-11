@@ -1,0 +1,14 @@
+C:\ReC#\XElementDemo\XElementDemo\bin\Debug\net8.0\XElementDemo.exe
+C:\ReC#\XElementDemo\XElementDemo\bin\Debug\net8.0\XElementDemo.deps.json
+C:\ReC#\XElementDemo\XElementDemo\bin\Debug\net8.0\XElementDemo.runtimeconfig.json
+C:\ReC#\XElementDemo\XElementDemo\bin\Debug\net8.0\XElementDemo.dll
+C:\ReC#\XElementDemo\XElementDemo\bin\Debug\net8.0\XElementDemo.pdb
+C:\ReC#\XElementDemo\XElementDemo\obj\Debug\net8.0\XElementDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\XElementDemo\XElementDemo\obj\Debug\net8.0\XElementDemo.AssemblyInfoInputs.cache
+C:\ReC#\XElementDemo\XElementDemo\obj\Debug\net8.0\XElementDemo.AssemblyInfo.cs
+C:\ReC#\XElementDemo\XElementDemo\obj\Debug\net8.0\XElementDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\XElementDemo\XElementDemo\obj\Debug\net8.0\XElementDemo.dll
+C:\ReC#\XElementDemo\XElementDemo\obj\Debug\net8.0\refint\XElementDemo.dll
+C:\ReC#\XElementDemo\XElementDemo\obj\Debug\net8.0\XElementDemo.pdb
+C:\ReC#\XElementDemo\XElementDemo\obj\Debug\net8.0\XElementDemo.genruntimeconfig.cache
+C:\ReC#\XElementDemo\XElementDemo\obj\Debug\net8.0\ref\XElementDemo.dll

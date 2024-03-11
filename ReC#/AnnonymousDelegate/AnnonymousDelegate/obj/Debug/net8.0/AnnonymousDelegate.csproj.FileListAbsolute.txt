@@ -1,0 +1,14 @@
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\obj\Debug\net8.0\AnnonymousDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\obj\Debug\net8.0\AnnonymousDelegate.AssemblyInfoInputs.cache
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\obj\Debug\net8.0\AnnonymousDelegate.AssemblyInfo.cs
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\obj\Debug\net8.0\AnnonymousDelegate.csproj.CoreCompileInputs.cache
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\bin\Debug\net8.0\AnnonymousDelegate.exe
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\bin\Debug\net8.0\AnnonymousDelegate.deps.json
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\bin\Debug\net8.0\AnnonymousDelegate.runtimeconfig.json
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\bin\Debug\net8.0\AnnonymousDelegate.dll
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\bin\Debug\net8.0\AnnonymousDelegate.pdb
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\obj\Debug\net8.0\AnnonymousDelegate.dll
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\obj\Debug\net8.0\refint\AnnonymousDelegate.dll
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\obj\Debug\net8.0\AnnonymousDelegate.pdb
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\obj\Debug\net8.0\AnnonymousDelegate.genruntimeconfig.cache
+C:\ReC#\AnnonymousDelegate\AnnonymousDelegate\obj\Debug\net8.0\ref\AnnonymousDelegate.dll

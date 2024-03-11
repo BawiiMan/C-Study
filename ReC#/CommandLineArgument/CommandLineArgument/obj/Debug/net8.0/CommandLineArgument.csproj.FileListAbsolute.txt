@@ -1,0 +1,14 @@
+C:\ReC#\CommandLineArgument\CommandLineArgument\bin\Debug\net8.0\CommandLineArgument.exe
+C:\ReC#\CommandLineArgument\CommandLineArgument\bin\Debug\net8.0\CommandLineArgument.deps.json
+C:\ReC#\CommandLineArgument\CommandLineArgument\bin\Debug\net8.0\CommandLineArgument.runtimeconfig.json
+C:\ReC#\CommandLineArgument\CommandLineArgument\bin\Debug\net8.0\CommandLineArgument.dll
+C:\ReC#\CommandLineArgument\CommandLineArgument\bin\Debug\net8.0\CommandLineArgument.pdb
+C:\ReC#\CommandLineArgument\CommandLineArgument\obj\Debug\net8.0\CommandLineArgument.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\CommandLineArgument\CommandLineArgument\obj\Debug\net8.0\CommandLineArgument.AssemblyInfoInputs.cache
+C:\ReC#\CommandLineArgument\CommandLineArgument\obj\Debug\net8.0\CommandLineArgument.AssemblyInfo.cs
+C:\ReC#\CommandLineArgument\CommandLineArgument\obj\Debug\net8.0\CommandLineArgument.csproj.CoreCompileInputs.cache
+C:\ReC#\CommandLineArgument\CommandLineArgument\obj\Debug\net8.0\CommandLineArgument.dll
+C:\ReC#\CommandLineArgument\CommandLineArgument\obj\Debug\net8.0\refint\CommandLineArgument.dll
+C:\ReC#\CommandLineArgument\CommandLineArgument\obj\Debug\net8.0\CommandLineArgument.pdb
+C:\ReC#\CommandLineArgument\CommandLineArgument\obj\Debug\net8.0\CommandLineArgument.genruntimeconfig.cache
+C:\ReC#\CommandLineArgument\CommandLineArgument\obj\Debug\net8.0\ref\CommandLineArgument.dll

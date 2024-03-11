@@ -1,0 +1,14 @@
+C:\ReC#\NamespaceNote\NamespaceNote\bin\Debug\net8.0\NamespaceNote.exe
+C:\ReC#\NamespaceNote\NamespaceNote\bin\Debug\net8.0\NamespaceNote.deps.json
+C:\ReC#\NamespaceNote\NamespaceNote\bin\Debug\net8.0\NamespaceNote.runtimeconfig.json
+C:\ReC#\NamespaceNote\NamespaceNote\bin\Debug\net8.0\NamespaceNote.dll
+C:\ReC#\NamespaceNote\NamespaceNote\bin\Debug\net8.0\NamespaceNote.pdb
+C:\ReC#\NamespaceNote\NamespaceNote\obj\Debug\net8.0\NamespaceNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\NamespaceNote\NamespaceNote\obj\Debug\net8.0\NamespaceNote.AssemblyInfoInputs.cache
+C:\ReC#\NamespaceNote\NamespaceNote\obj\Debug\net8.0\NamespaceNote.AssemblyInfo.cs
+C:\ReC#\NamespaceNote\NamespaceNote\obj\Debug\net8.0\NamespaceNote.csproj.CoreCompileInputs.cache
+C:\ReC#\NamespaceNote\NamespaceNote\obj\Debug\net8.0\NamespaceNote.dll
+C:\ReC#\NamespaceNote\NamespaceNote\obj\Debug\net8.0\refint\NamespaceNote.dll
+C:\ReC#\NamespaceNote\NamespaceNote\obj\Debug\net8.0\NamespaceNote.pdb
+C:\ReC#\NamespaceNote\NamespaceNote\obj\Debug\net8.0\NamespaceNote.genruntimeconfig.cache
+C:\ReC#\NamespaceNote\NamespaceNote\obj\Debug\net8.0\ref\NamespaceNote.dll

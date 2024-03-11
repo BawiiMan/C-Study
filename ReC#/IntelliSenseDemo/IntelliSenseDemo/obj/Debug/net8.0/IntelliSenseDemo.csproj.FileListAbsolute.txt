@@ -1,0 +1,14 @@
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\bin\Debug\net8.0\IntelliSenseDemo.exe
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\bin\Debug\net8.0\IntelliSenseDemo.deps.json
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\bin\Debug\net8.0\IntelliSenseDemo.runtimeconfig.json
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\bin\Debug\net8.0\IntelliSenseDemo.dll
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\bin\Debug\net8.0\IntelliSenseDemo.pdb
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\obj\Debug\net8.0\IntelliSenseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\obj\Debug\net8.0\IntelliSenseDemo.AssemblyInfoInputs.cache
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\obj\Debug\net8.0\IntelliSenseDemo.AssemblyInfo.cs
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\obj\Debug\net8.0\IntelliSenseDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\obj\Debug\net8.0\IntelliSenseDemo.dll
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\obj\Debug\net8.0\refint\IntelliSenseDemo.dll
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\obj\Debug\net8.0\IntelliSenseDemo.pdb
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\obj\Debug\net8.0\IntelliSenseDemo.genruntimeconfig.cache
+C:\ReC#\IntelliSenseDemo\IntelliSenseDemo\obj\Debug\net8.0\ref\IntelliSenseDemo.dll

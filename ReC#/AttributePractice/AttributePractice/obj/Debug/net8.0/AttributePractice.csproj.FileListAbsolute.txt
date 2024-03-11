@@ -1,0 +1,14 @@
+C:\ReC#\AttributePractice\AttributePractice\bin\Debug\net8.0\AttributePractice.exe
+C:\ReC#\AttributePractice\AttributePractice\bin\Debug\net8.0\AttributePractice.deps.json
+C:\ReC#\AttributePractice\AttributePractice\bin\Debug\net8.0\AttributePractice.runtimeconfig.json
+C:\ReC#\AttributePractice\AttributePractice\bin\Debug\net8.0\AttributePractice.dll
+C:\ReC#\AttributePractice\AttributePractice\bin\Debug\net8.0\AttributePractice.pdb
+C:\ReC#\AttributePractice\AttributePractice\obj\Debug\net8.0\AttributePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\AttributePractice\AttributePractice\obj\Debug\net8.0\AttributePractice.AssemblyInfoInputs.cache
+C:\ReC#\AttributePractice\AttributePractice\obj\Debug\net8.0\AttributePractice.AssemblyInfo.cs
+C:\ReC#\AttributePractice\AttributePractice\obj\Debug\net8.0\AttributePractice.csproj.CoreCompileInputs.cache
+C:\ReC#\AttributePractice\AttributePractice\obj\Debug\net8.0\AttributePractice.dll
+C:\ReC#\AttributePractice\AttributePractice\obj\Debug\net8.0\refint\AttributePractice.dll
+C:\ReC#\AttributePractice\AttributePractice\obj\Debug\net8.0\AttributePractice.pdb
+C:\ReC#\AttributePractice\AttributePractice\obj\Debug\net8.0\AttributePractice.genruntimeconfig.cache
+C:\ReC#\AttributePractice\AttributePractice\obj\Debug\net8.0\ref\AttributePractice.dll

@@ -1,0 +1,14 @@
+C:\ReC#\TextToCollection\TextToCollection\obj\Debug\net8.0\TextToCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\TextToCollection\TextToCollection\obj\Debug\net8.0\TextToCollection.AssemblyInfoInputs.cache
+C:\ReC#\TextToCollection\TextToCollection\obj\Debug\net8.0\TextToCollection.AssemblyInfo.cs
+C:\ReC#\TextToCollection\TextToCollection\obj\Debug\net8.0\TextToCollection.csproj.CoreCompileInputs.cache
+C:\ReC#\TextToCollection\TextToCollection\bin\Debug\net8.0\TextToCollection.exe
+C:\ReC#\TextToCollection\TextToCollection\bin\Debug\net8.0\TextToCollection.deps.json
+C:\ReC#\TextToCollection\TextToCollection\bin\Debug\net8.0\TextToCollection.runtimeconfig.json
+C:\ReC#\TextToCollection\TextToCollection\bin\Debug\net8.0\TextToCollection.dll
+C:\ReC#\TextToCollection\TextToCollection\bin\Debug\net8.0\TextToCollection.pdb
+C:\ReC#\TextToCollection\TextToCollection\obj\Debug\net8.0\TextToCollection.dll
+C:\ReC#\TextToCollection\TextToCollection\obj\Debug\net8.0\refint\TextToCollection.dll
+C:\ReC#\TextToCollection\TextToCollection\obj\Debug\net8.0\TextToCollection.pdb
+C:\ReC#\TextToCollection\TextToCollection\obj\Debug\net8.0\TextToCollection.genruntimeconfig.cache
+C:\ReC#\TextToCollection\TextToCollection\obj\Debug\net8.0\ref\TextToCollection.dll

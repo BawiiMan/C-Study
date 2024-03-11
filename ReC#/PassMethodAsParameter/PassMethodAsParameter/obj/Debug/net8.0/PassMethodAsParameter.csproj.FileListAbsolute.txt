@@ -1,0 +1,14 @@
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\bin\Debug\net8.0\PassMethodAsParameter.exe
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\bin\Debug\net8.0\PassMethodAsParameter.deps.json
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\bin\Debug\net8.0\PassMethodAsParameter.runtimeconfig.json
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\bin\Debug\net8.0\PassMethodAsParameter.dll
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\bin\Debug\net8.0\PassMethodAsParameter.pdb
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\net8.0\PassMethodAsParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\net8.0\PassMethodAsParameter.AssemblyInfoInputs.cache
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\net8.0\PassMethodAsParameter.AssemblyInfo.cs
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\net8.0\PassMethodAsParameter.csproj.CoreCompileInputs.cache
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\net8.0\PassMethodAsParameter.dll
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\net8.0\refint\PassMethodAsParameter.dll
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\net8.0\PassMethodAsParameter.pdb
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\net8.0\PassMethodAsParameter.genruntimeconfig.cache
+C:\ReC#\PassMethodAsParameter\PassMethodAsParameter\obj\Debug\net8.0\ref\PassMethodAsParameter.dll

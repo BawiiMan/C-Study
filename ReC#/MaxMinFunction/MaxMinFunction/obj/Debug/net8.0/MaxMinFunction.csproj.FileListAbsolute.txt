@@ -1,0 +1,14 @@
+C:\ReC#\MaxMinFunction\MaxMinFunction\bin\Debug\net8.0\MaxMinFunction.exe
+C:\ReC#\MaxMinFunction\MaxMinFunction\bin\Debug\net8.0\MaxMinFunction.deps.json
+C:\ReC#\MaxMinFunction\MaxMinFunction\bin\Debug\net8.0\MaxMinFunction.runtimeconfig.json
+C:\ReC#\MaxMinFunction\MaxMinFunction\bin\Debug\net8.0\MaxMinFunction.dll
+C:\ReC#\MaxMinFunction\MaxMinFunction\bin\Debug\net8.0\MaxMinFunction.pdb
+C:\ReC#\MaxMinFunction\MaxMinFunction\obj\Debug\net8.0\MaxMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\MaxMinFunction\MaxMinFunction\obj\Debug\net8.0\MaxMinFunction.AssemblyInfoInputs.cache
+C:\ReC#\MaxMinFunction\MaxMinFunction\obj\Debug\net8.0\MaxMinFunction.AssemblyInfo.cs
+C:\ReC#\MaxMinFunction\MaxMinFunction\obj\Debug\net8.0\MaxMinFunction.csproj.CoreCompileInputs.cache
+C:\ReC#\MaxMinFunction\MaxMinFunction\obj\Debug\net8.0\MaxMinFunction.dll
+C:\ReC#\MaxMinFunction\MaxMinFunction\obj\Debug\net8.0\refint\MaxMinFunction.dll
+C:\ReC#\MaxMinFunction\MaxMinFunction\obj\Debug\net8.0\MaxMinFunction.pdb
+C:\ReC#\MaxMinFunction\MaxMinFunction\obj\Debug\net8.0\MaxMinFunction.genruntimeconfig.cache
+C:\ReC#\MaxMinFunction\MaxMinFunction\obj\Debug\net8.0\ref\MaxMinFunction.dll

@@ -1,0 +1,14 @@
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\bin\Debug\net8.0\StreamReaderReadToEndDemo.exe
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\bin\Debug\net8.0\StreamReaderReadToEndDemo.deps.json
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\bin\Debug\net8.0\StreamReaderReadToEndDemo.runtimeconfig.json
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\bin\Debug\net8.0\StreamReaderReadToEndDemo.dll
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\bin\Debug\net8.0\StreamReaderReadToEndDemo.pdb
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\net8.0\StreamReaderReadToEndDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\net8.0\StreamReaderReadToEndDemo.AssemblyInfoInputs.cache
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\net8.0\StreamReaderReadToEndDemo.AssemblyInfo.cs
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\net8.0\StreamReaderReadToEndDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\net8.0\StreamReaderReadToEndDemo.dll
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\net8.0\refint\StreamReaderReadToEndDemo.dll
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\net8.0\StreamReaderReadToEndDemo.pdb
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\net8.0\StreamReaderReadToEndDemo.genruntimeconfig.cache
+C:\ReC#\StreamReaderReadToEndDemo\StreamReaderReadToEndDemo\obj\Debug\net8.0\ref\StreamReaderReadToEndDemo.dll

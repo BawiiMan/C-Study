@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MethodOverrideParactice/1.0.0": {
+        "runtime": {
+          "MethodOverrideParactice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodOverrideParactice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

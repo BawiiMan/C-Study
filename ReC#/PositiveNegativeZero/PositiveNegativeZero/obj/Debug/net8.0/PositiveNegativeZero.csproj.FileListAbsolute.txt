@@ -1,0 +1,14 @@
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\bin\Debug\net8.0\PositiveNegativeZero.exe
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\bin\Debug\net8.0\PositiveNegativeZero.deps.json
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\bin\Debug\net8.0\PositiveNegativeZero.runtimeconfig.json
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\bin\Debug\net8.0\PositiveNegativeZero.dll
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\bin\Debug\net8.0\PositiveNegativeZero.pdb
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\obj\Debug\net8.0\PositiveNegativeZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\obj\Debug\net8.0\PositiveNegativeZero.AssemblyInfoInputs.cache
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\obj\Debug\net8.0\PositiveNegativeZero.AssemblyInfo.cs
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\obj\Debug\net8.0\PositiveNegativeZero.csproj.CoreCompileInputs.cache
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\obj\Debug\net8.0\PositiveNegativeZero.dll
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\obj\Debug\net8.0\refint\PositiveNegativeZero.dll
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\obj\Debug\net8.0\PositiveNegativeZero.pdb
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\obj\Debug\net8.0\PositiveNegativeZero.genruntimeconfig.cache
+C:\ReC#\PositiveNegativeZero\PositiveNegativeZero\obj\Debug\net8.0\ref\PositiveNegativeZero.dll

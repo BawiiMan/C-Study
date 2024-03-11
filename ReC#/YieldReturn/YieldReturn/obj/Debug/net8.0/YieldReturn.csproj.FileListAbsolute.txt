@@ -1,0 +1,14 @@
+C:\ReC#\YieldReturn\YieldReturn\bin\Debug\net8.0\YieldReturn.exe
+C:\ReC#\YieldReturn\YieldReturn\bin\Debug\net8.0\YieldReturn.deps.json
+C:\ReC#\YieldReturn\YieldReturn\bin\Debug\net8.0\YieldReturn.runtimeconfig.json
+C:\ReC#\YieldReturn\YieldReturn\bin\Debug\net8.0\YieldReturn.dll
+C:\ReC#\YieldReturn\YieldReturn\bin\Debug\net8.0\YieldReturn.pdb
+C:\ReC#\YieldReturn\YieldReturn\obj\Debug\net8.0\YieldReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\YieldReturn\YieldReturn\obj\Debug\net8.0\YieldReturn.AssemblyInfoInputs.cache
+C:\ReC#\YieldReturn\YieldReturn\obj\Debug\net8.0\YieldReturn.AssemblyInfo.cs
+C:\ReC#\YieldReturn\YieldReturn\obj\Debug\net8.0\YieldReturn.csproj.CoreCompileInputs.cache
+C:\ReC#\YieldReturn\YieldReturn\obj\Debug\net8.0\YieldReturn.dll
+C:\ReC#\YieldReturn\YieldReturn\obj\Debug\net8.0\refint\YieldReturn.dll
+C:\ReC#\YieldReturn\YieldReturn\obj\Debug\net8.0\YieldReturn.pdb
+C:\ReC#\YieldReturn\YieldReturn\obj\Debug\net8.0\YieldReturn.genruntimeconfig.cache
+C:\ReC#\YieldReturn\YieldReturn\obj\Debug\net8.0\ref\YieldReturn.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicalNot", "LogicalNot\LogicalNot.csproj", "{2D84D9CC-159B-44F6-81BD-E6D110A346C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D84D9CC-159B-44F6-81BD-E6D110A346C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D84D9CC-159B-44F6-81BD-E6D110A346C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D84D9CC-159B-44F6-81BD-E6D110A346C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D84D9CC-159B-44F6-81BD-E6D110A346C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {163809BD-C939-4363-AE1C-7F9E8958F3CC}
+	EndGlobalSection
+EndGlobal

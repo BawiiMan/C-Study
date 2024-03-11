@@ -1,0 +1,14 @@
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\bin\Debug\net8.0\GetDateTimeFromYerarlyHour.exe
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\bin\Debug\net8.0\GetDateTimeFromYerarlyHour.deps.json
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\bin\Debug\net8.0\GetDateTimeFromYerarlyHour.runtimeconfig.json
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\bin\Debug\net8.0\GetDateTimeFromYerarlyHour.dll
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\bin\Debug\net8.0\GetDateTimeFromYerarlyHour.pdb
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\obj\Debug\net8.0\GetDateTimeFromYerarlyHour.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\obj\Debug\net8.0\GetDateTimeFromYerarlyHour.AssemblyInfoInputs.cache
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\obj\Debug\net8.0\GetDateTimeFromYerarlyHour.AssemblyInfo.cs
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\obj\Debug\net8.0\GetDateTimeFromYerarlyHour.csproj.CoreCompileInputs.cache
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\obj\Debug\net8.0\GetDateTimeFromYerarlyHour.dll
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\obj\Debug\net8.0\refint\GetDateTimeFromYerarlyHour.dll
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\obj\Debug\net8.0\GetDateTimeFromYerarlyHour.pdb
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\obj\Debug\net8.0\GetDateTimeFromYerarlyHour.genruntimeconfig.cache
+C:\ReC#\GetDateTimeFromYerarlyHour\GetDateTimeFromYerarlyHour\obj\Debug\net8.0\ref\GetDateTimeFromYerarlyHour.dll

@@ -1,0 +1,14 @@
+C:\ReC#\IDisposable\IDisposable\bin\Debug\net8.0\IDisposable.exe
+C:\ReC#\IDisposable\IDisposable\bin\Debug\net8.0\IDisposable.deps.json
+C:\ReC#\IDisposable\IDisposable\bin\Debug\net8.0\IDisposable.runtimeconfig.json
+C:\ReC#\IDisposable\IDisposable\bin\Debug\net8.0\IDisposable.dll
+C:\ReC#\IDisposable\IDisposable\bin\Debug\net8.0\IDisposable.pdb
+C:\ReC#\IDisposable\IDisposable\obj\Debug\net8.0\IDisposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IDisposable\IDisposable\obj\Debug\net8.0\IDisposable.AssemblyInfoInputs.cache
+C:\ReC#\IDisposable\IDisposable\obj\Debug\net8.0\IDisposable.AssemblyInfo.cs
+C:\ReC#\IDisposable\IDisposable\obj\Debug\net8.0\IDisposable.csproj.CoreCompileInputs.cache
+C:\ReC#\IDisposable\IDisposable\obj\Debug\net8.0\IDisposable.dll
+C:\ReC#\IDisposable\IDisposable\obj\Debug\net8.0\refint\IDisposable.dll
+C:\ReC#\IDisposable\IDisposable\obj\Debug\net8.0\IDisposable.pdb
+C:\ReC#\IDisposable\IDisposable\obj\Debug\net8.0\IDisposable.genruntimeconfig.cache
+C:\ReC#\IDisposable\IDisposable\obj\Debug\net8.0\ref\IDisposable.dll

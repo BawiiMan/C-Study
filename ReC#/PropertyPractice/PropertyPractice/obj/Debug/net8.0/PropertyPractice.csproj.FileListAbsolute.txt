@@ -1,0 +1,14 @@
+C:\ReC#\PropertyPractice\PropertyPractice\bin\Debug\net8.0\PropertyPractice.exe
+C:\ReC#\PropertyPractice\PropertyPractice\bin\Debug\net8.0\PropertyPractice.deps.json
+C:\ReC#\PropertyPractice\PropertyPractice\bin\Debug\net8.0\PropertyPractice.runtimeconfig.json
+C:\ReC#\PropertyPractice\PropertyPractice\bin\Debug\net8.0\PropertyPractice.dll
+C:\ReC#\PropertyPractice\PropertyPractice\bin\Debug\net8.0\PropertyPractice.pdb
+C:\ReC#\PropertyPractice\PropertyPractice\obj\Debug\net8.0\PropertyPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PropertyPractice\PropertyPractice\obj\Debug\net8.0\PropertyPractice.AssemblyInfoInputs.cache
+C:\ReC#\PropertyPractice\PropertyPractice\obj\Debug\net8.0\PropertyPractice.AssemblyInfo.cs
+C:\ReC#\PropertyPractice\PropertyPractice\obj\Debug\net8.0\PropertyPractice.csproj.CoreCompileInputs.cache
+C:\ReC#\PropertyPractice\PropertyPractice\obj\Debug\net8.0\PropertyPractice.dll
+C:\ReC#\PropertyPractice\PropertyPractice\obj\Debug\net8.0\refint\PropertyPractice.dll
+C:\ReC#\PropertyPractice\PropertyPractice\obj\Debug\net8.0\PropertyPractice.pdb
+C:\ReC#\PropertyPractice\PropertyPractice\obj\Debug\net8.0\PropertyPractice.genruntimeconfig.cache
+C:\ReC#\PropertyPractice\PropertyPractice\obj\Debug\net8.0\ref\PropertyPractice.dll

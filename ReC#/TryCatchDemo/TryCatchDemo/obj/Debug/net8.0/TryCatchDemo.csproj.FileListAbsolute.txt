@@ -1,0 +1,14 @@
+C:\ReC#\TryCatchDemo\TryCatchDemo\bin\Debug\net8.0\TryCatchDemo.exe
+C:\ReC#\TryCatchDemo\TryCatchDemo\bin\Debug\net8.0\TryCatchDemo.deps.json
+C:\ReC#\TryCatchDemo\TryCatchDemo\bin\Debug\net8.0\TryCatchDemo.runtimeconfig.json
+C:\ReC#\TryCatchDemo\TryCatchDemo\bin\Debug\net8.0\TryCatchDemo.dll
+C:\ReC#\TryCatchDemo\TryCatchDemo\bin\Debug\net8.0\TryCatchDemo.pdb
+C:\ReC#\TryCatchDemo\TryCatchDemo\obj\Debug\net8.0\TryCatchDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\TryCatchDemo\TryCatchDemo\obj\Debug\net8.0\TryCatchDemo.AssemblyInfoInputs.cache
+C:\ReC#\TryCatchDemo\TryCatchDemo\obj\Debug\net8.0\TryCatchDemo.AssemblyInfo.cs
+C:\ReC#\TryCatchDemo\TryCatchDemo\obj\Debug\net8.0\TryCatchDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\TryCatchDemo\TryCatchDemo\obj\Debug\net8.0\TryCatchDemo.dll
+C:\ReC#\TryCatchDemo\TryCatchDemo\obj\Debug\net8.0\refint\TryCatchDemo.dll
+C:\ReC#\TryCatchDemo\TryCatchDemo\obj\Debug\net8.0\TryCatchDemo.pdb
+C:\ReC#\TryCatchDemo\TryCatchDemo\obj\Debug\net8.0\TryCatchDemo.genruntimeconfig.cache
+C:\ReC#\TryCatchDemo\TryCatchDemo\obj\Debug\net8.0\ref\TryCatchDemo.dll

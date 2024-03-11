@@ -1,0 +1,14 @@
+C:\ReC#\SignedInteger\SignedInteger\bin\Debug\net8.0\SignedInteger.exe
+C:\ReC#\SignedInteger\SignedInteger\bin\Debug\net8.0\SignedInteger.deps.json
+C:\ReC#\SignedInteger\SignedInteger\bin\Debug\net8.0\SignedInteger.runtimeconfig.json
+C:\ReC#\SignedInteger\SignedInteger\bin\Debug\net8.0\SignedInteger.dll
+C:\ReC#\SignedInteger\SignedInteger\bin\Debug\net8.0\SignedInteger.pdb
+C:\ReC#\SignedInteger\SignedInteger\obj\Debug\net8.0\SignedInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\SignedInteger\SignedInteger\obj\Debug\net8.0\SignedInteger.AssemblyInfoInputs.cache
+C:\ReC#\SignedInteger\SignedInteger\obj\Debug\net8.0\SignedInteger.AssemblyInfo.cs
+C:\ReC#\SignedInteger\SignedInteger\obj\Debug\net8.0\SignedInteger.csproj.CoreCompileInputs.cache
+C:\ReC#\SignedInteger\SignedInteger\obj\Debug\net8.0\SignedInteger.dll
+C:\ReC#\SignedInteger\SignedInteger\obj\Debug\net8.0\refint\SignedInteger.dll
+C:\ReC#\SignedInteger\SignedInteger\obj\Debug\net8.0\SignedInteger.pdb
+C:\ReC#\SignedInteger\SignedInteger\obj\Debug\net8.0\SignedInteger.genruntimeconfig.cache
+C:\ReC#\SignedInteger\SignedInteger\obj\Debug\net8.0\ref\SignedInteger.dll

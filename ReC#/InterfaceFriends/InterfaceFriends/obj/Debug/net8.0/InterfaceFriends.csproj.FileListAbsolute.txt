@@ -1,0 +1,14 @@
+C:\ReC#\InterfaceFriends\InterfaceFriends\bin\Debug\net8.0\InterfaceFriends.exe
+C:\ReC#\InterfaceFriends\InterfaceFriends\bin\Debug\net8.0\InterfaceFriends.deps.json
+C:\ReC#\InterfaceFriends\InterfaceFriends\bin\Debug\net8.0\InterfaceFriends.runtimeconfig.json
+C:\ReC#\InterfaceFriends\InterfaceFriends\bin\Debug\net8.0\InterfaceFriends.dll
+C:\ReC#\InterfaceFriends\InterfaceFriends\bin\Debug\net8.0\InterfaceFriends.pdb
+C:\ReC#\InterfaceFriends\InterfaceFriends\obj\Debug\net8.0\InterfaceFriends.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\InterfaceFriends\InterfaceFriends\obj\Debug\net8.0\InterfaceFriends.AssemblyInfoInputs.cache
+C:\ReC#\InterfaceFriends\InterfaceFriends\obj\Debug\net8.0\InterfaceFriends.AssemblyInfo.cs
+C:\ReC#\InterfaceFriends\InterfaceFriends\obj\Debug\net8.0\InterfaceFriends.csproj.CoreCompileInputs.cache
+C:\ReC#\InterfaceFriends\InterfaceFriends\obj\Debug\net8.0\InterfaceFriends.dll
+C:\ReC#\InterfaceFriends\InterfaceFriends\obj\Debug\net8.0\refint\InterfaceFriends.dll
+C:\ReC#\InterfaceFriends\InterfaceFriends\obj\Debug\net8.0\InterfaceFriends.pdb
+C:\ReC#\InterfaceFriends\InterfaceFriends\obj\Debug\net8.0\InterfaceFriends.genruntimeconfig.cache
+C:\ReC#\InterfaceFriends\InterfaceFriends\obj\Debug\net8.0\ref\InterfaceFriends.dll

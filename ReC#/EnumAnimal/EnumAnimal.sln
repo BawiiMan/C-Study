@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumAnimal", "EnumAnimal\EnumAnimal.csproj", "{EC3C04C3-DD1C-4B96-B229-06949A379417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3C04C3-DD1C-4B96-B229-06949A379417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3C04C3-DD1C-4B96-B229-06949A379417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3C04C3-DD1C-4B96-B229-06949A379417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3C04C3-DD1C-4B96-B229-06949A379417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A75C78A-C9CA-44B3-9E03-1A594084E799}
+	EndGlobalSection
+EndGlobal

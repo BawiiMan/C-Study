@@ -1,0 +1,14 @@
+C:\ReC#\LinqMax\LinqMax\bin\Debug\net8.0\LinqMax.exe
+C:\ReC#\LinqMax\LinqMax\bin\Debug\net8.0\LinqMax.deps.json
+C:\ReC#\LinqMax\LinqMax\bin\Debug\net8.0\LinqMax.runtimeconfig.json
+C:\ReC#\LinqMax\LinqMax\bin\Debug\net8.0\LinqMax.dll
+C:\ReC#\LinqMax\LinqMax\bin\Debug\net8.0\LinqMax.pdb
+C:\ReC#\LinqMax\LinqMax\obj\Debug\net8.0\LinqMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LinqMax\LinqMax\obj\Debug\net8.0\LinqMax.AssemblyInfoInputs.cache
+C:\ReC#\LinqMax\LinqMax\obj\Debug\net8.0\LinqMax.AssemblyInfo.cs
+C:\ReC#\LinqMax\LinqMax\obj\Debug\net8.0\LinqMax.csproj.CoreCompileInputs.cache
+C:\ReC#\LinqMax\LinqMax\obj\Debug\net8.0\LinqMax.dll
+C:\ReC#\LinqMax\LinqMax\obj\Debug\net8.0\refint\LinqMax.dll
+C:\ReC#\LinqMax\LinqMax\obj\Debug\net8.0\LinqMax.pdb
+C:\ReC#\LinqMax\LinqMax\obj\Debug\net8.0\LinqMax.genruntimeconfig.cache
+C:\ReC#\LinqMax\LinqMax\obj\Debug\net8.0\ref\LinqMax.dll

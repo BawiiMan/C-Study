@@ -1,0 +1,14 @@
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\bin\Debug\net8.0\FunctionReturnValue.exe
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\bin\Debug\net8.0\FunctionReturnValue.deps.json
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\bin\Debug\net8.0\FunctionReturnValue.runtimeconfig.json
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\bin\Debug\net8.0\FunctionReturnValue.dll
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\bin\Debug\net8.0\FunctionReturnValue.pdb
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\obj\Debug\net8.0\FunctionReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\obj\Debug\net8.0\FunctionReturnValue.AssemblyInfoInputs.cache
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\obj\Debug\net8.0\FunctionReturnValue.AssemblyInfo.cs
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\obj\Debug\net8.0\FunctionReturnValue.csproj.CoreCompileInputs.cache
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\obj\Debug\net8.0\FunctionReturnValue.dll
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\obj\Debug\net8.0\refint\FunctionReturnValue.dll
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\obj\Debug\net8.0\FunctionReturnValue.pdb
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\obj\Debug\net8.0\FunctionReturnValue.genruntimeconfig.cache
+C:\ReC#\FunctionReturnValue\FunctionReturnValue\obj\Debug\net8.0\ref\FunctionReturnValue.dll

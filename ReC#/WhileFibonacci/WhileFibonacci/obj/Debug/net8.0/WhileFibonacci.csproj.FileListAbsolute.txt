@@ -1,0 +1,14 @@
+C:\ReC#\WhileFibonacci\WhileFibonacci\bin\Debug\net8.0\WhileFibonacci.exe
+C:\ReC#\WhileFibonacci\WhileFibonacci\bin\Debug\net8.0\WhileFibonacci.deps.json
+C:\ReC#\WhileFibonacci\WhileFibonacci\bin\Debug\net8.0\WhileFibonacci.runtimeconfig.json
+C:\ReC#\WhileFibonacci\WhileFibonacci\bin\Debug\net8.0\WhileFibonacci.dll
+C:\ReC#\WhileFibonacci\WhileFibonacci\bin\Debug\net8.0\WhileFibonacci.pdb
+C:\ReC#\WhileFibonacci\WhileFibonacci\obj\Debug\net8.0\WhileFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\WhileFibonacci\WhileFibonacci\obj\Debug\net8.0\WhileFibonacci.AssemblyInfoInputs.cache
+C:\ReC#\WhileFibonacci\WhileFibonacci\obj\Debug\net8.0\WhileFibonacci.AssemblyInfo.cs
+C:\ReC#\WhileFibonacci\WhileFibonacci\obj\Debug\net8.0\WhileFibonacci.csproj.CoreCompileInputs.cache
+C:\ReC#\WhileFibonacci\WhileFibonacci\obj\Debug\net8.0\WhileFibonacci.dll
+C:\ReC#\WhileFibonacci\WhileFibonacci\obj\Debug\net8.0\refint\WhileFibonacci.dll
+C:\ReC#\WhileFibonacci\WhileFibonacci\obj\Debug\net8.0\WhileFibonacci.pdb
+C:\ReC#\WhileFibonacci\WhileFibonacci\obj\Debug\net8.0\WhileFibonacci.genruntimeconfig.cache
+C:\ReC#\WhileFibonacci\WhileFibonacci\obj\Debug\net8.0\ref\WhileFibonacci.dll

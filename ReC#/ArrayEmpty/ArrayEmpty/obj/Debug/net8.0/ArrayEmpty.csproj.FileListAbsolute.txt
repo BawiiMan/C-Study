@@ -1,0 +1,14 @@
+C:\ReC#\ArrayEmpty\ArrayEmpty\bin\Debug\net8.0\ArrayEmpty.exe
+C:\ReC#\ArrayEmpty\ArrayEmpty\bin\Debug\net8.0\ArrayEmpty.deps.json
+C:\ReC#\ArrayEmpty\ArrayEmpty\bin\Debug\net8.0\ArrayEmpty.runtimeconfig.json
+C:\ReC#\ArrayEmpty\ArrayEmpty\bin\Debug\net8.0\ArrayEmpty.dll
+C:\ReC#\ArrayEmpty\ArrayEmpty\bin\Debug\net8.0\ArrayEmpty.pdb
+C:\ReC#\ArrayEmpty\ArrayEmpty\obj\Debug\net8.0\ArrayEmpty.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrayEmpty\ArrayEmpty\obj\Debug\net8.0\ArrayEmpty.AssemblyInfoInputs.cache
+C:\ReC#\ArrayEmpty\ArrayEmpty\obj\Debug\net8.0\ArrayEmpty.AssemblyInfo.cs
+C:\ReC#\ArrayEmpty\ArrayEmpty\obj\Debug\net8.0\ArrayEmpty.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrayEmpty\ArrayEmpty\obj\Debug\net8.0\ArrayEmpty.dll
+C:\ReC#\ArrayEmpty\ArrayEmpty\obj\Debug\net8.0\refint\ArrayEmpty.dll
+C:\ReC#\ArrayEmpty\ArrayEmpty\obj\Debug\net8.0\ArrayEmpty.pdb
+C:\ReC#\ArrayEmpty\ArrayEmpty\obj\Debug\net8.0\ArrayEmpty.genruntimeconfig.cache
+C:\ReC#\ArrayEmpty\ArrayEmpty\obj\Debug\net8.0\ref\ArrayEmpty.dll

@@ -1,0 +1,14 @@
+C:\ReC#\CallerInformation\CallerInformation\bin\Debug\net8.0\CallerInformation.exe
+C:\ReC#\CallerInformation\CallerInformation\bin\Debug\net8.0\CallerInformation.deps.json
+C:\ReC#\CallerInformation\CallerInformation\bin\Debug\net8.0\CallerInformation.runtimeconfig.json
+C:\ReC#\CallerInformation\CallerInformation\bin\Debug\net8.0\CallerInformation.dll
+C:\ReC#\CallerInformation\CallerInformation\bin\Debug\net8.0\CallerInformation.pdb
+C:\ReC#\CallerInformation\CallerInformation\obj\Debug\net8.0\CallerInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\CallerInformation\CallerInformation\obj\Debug\net8.0\CallerInformation.AssemblyInfoInputs.cache
+C:\ReC#\CallerInformation\CallerInformation\obj\Debug\net8.0\CallerInformation.AssemblyInfo.cs
+C:\ReC#\CallerInformation\CallerInformation\obj\Debug\net8.0\CallerInformation.csproj.CoreCompileInputs.cache
+C:\ReC#\CallerInformation\CallerInformation\obj\Debug\net8.0\CallerInformation.dll
+C:\ReC#\CallerInformation\CallerInformation\obj\Debug\net8.0\refint\CallerInformation.dll
+C:\ReC#\CallerInformation\CallerInformation\obj\Debug\net8.0\CallerInformation.pdb
+C:\ReC#\CallerInformation\CallerInformation\obj\Debug\net8.0\CallerInformation.genruntimeconfig.cache
+C:\ReC#\CallerInformation\CallerInformation\obj\Debug\net8.0\ref\CallerInformation.dll

@@ -1,0 +1,14 @@
+C:\ReC#\LinqMin\LinqMin\bin\Debug\net8.0\LinqMin.exe
+C:\ReC#\LinqMin\LinqMin\bin\Debug\net8.0\LinqMin.deps.json
+C:\ReC#\LinqMin\LinqMin\bin\Debug\net8.0\LinqMin.runtimeconfig.json
+C:\ReC#\LinqMin\LinqMin\bin\Debug\net8.0\LinqMin.dll
+C:\ReC#\LinqMin\LinqMin\bin\Debug\net8.0\LinqMin.pdb
+C:\ReC#\LinqMin\LinqMin\obj\Debug\net8.0\LinqMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LinqMin\LinqMin\obj\Debug\net8.0\LinqMin.AssemblyInfoInputs.cache
+C:\ReC#\LinqMin\LinqMin\obj\Debug\net8.0\LinqMin.AssemblyInfo.cs
+C:\ReC#\LinqMin\LinqMin\obj\Debug\net8.0\LinqMin.csproj.CoreCompileInputs.cache
+C:\ReC#\LinqMin\LinqMin\obj\Debug\net8.0\LinqMin.dll
+C:\ReC#\LinqMin\LinqMin\obj\Debug\net8.0\refint\LinqMin.dll
+C:\ReC#\LinqMin\LinqMin\obj\Debug\net8.0\LinqMin.pdb
+C:\ReC#\LinqMin\LinqMin\obj\Debug\net8.0\LinqMin.genruntimeconfig.cache
+C:\ReC#\LinqMin\LinqMin\obj\Debug\net8.0\ref\LinqMin.dll

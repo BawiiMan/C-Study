@@ -1,0 +1,14 @@
+C:\BasicC#\AsyncsMain\AsyncsMain\bin\Debug\net8.0\AsyncsMain.exe
+C:\BasicC#\AsyncsMain\AsyncsMain\bin\Debug\net8.0\AsyncsMain.deps.json
+C:\BasicC#\AsyncsMain\AsyncsMain\bin\Debug\net8.0\AsyncsMain.runtimeconfig.json
+C:\BasicC#\AsyncsMain\AsyncsMain\bin\Debug\net8.0\AsyncsMain.dll
+C:\BasicC#\AsyncsMain\AsyncsMain\bin\Debug\net8.0\AsyncsMain.pdb
+C:\BasicC#\AsyncsMain\AsyncsMain\obj\Debug\net8.0\AsyncsMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#\AsyncsMain\AsyncsMain\obj\Debug\net8.0\AsyncsMain.AssemblyInfoInputs.cache
+C:\BasicC#\AsyncsMain\AsyncsMain\obj\Debug\net8.0\AsyncsMain.AssemblyInfo.cs
+C:\BasicC#\AsyncsMain\AsyncsMain\obj\Debug\net8.0\AsyncsMain.csproj.CoreCompileInputs.cache
+C:\BasicC#\AsyncsMain\AsyncsMain\obj\Debug\net8.0\AsyncsMain.dll
+C:\BasicC#\AsyncsMain\AsyncsMain\obj\Debug\net8.0\refint\AsyncsMain.dll
+C:\BasicC#\AsyncsMain\AsyncsMain\obj\Debug\net8.0\AsyncsMain.pdb
+C:\BasicC#\AsyncsMain\AsyncsMain\obj\Debug\net8.0\AsyncsMain.genruntimeconfig.cache
+C:\BasicC#\AsyncsMain\AsyncsMain\obj\Debug\net8.0\ref\AsyncsMain.dll

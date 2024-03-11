@@ -1,0 +1,14 @@
+C:\ReC#\ForTriangle\ForTriangle\bin\Debug\net8.0\ForTriangle.exe
+C:\ReC#\ForTriangle\ForTriangle\bin\Debug\net8.0\ForTriangle.deps.json
+C:\ReC#\ForTriangle\ForTriangle\bin\Debug\net8.0\ForTriangle.runtimeconfig.json
+C:\ReC#\ForTriangle\ForTriangle\bin\Debug\net8.0\ForTriangle.dll
+C:\ReC#\ForTriangle\ForTriangle\bin\Debug\net8.0\ForTriangle.pdb
+C:\ReC#\ForTriangle\ForTriangle\obj\Debug\net8.0\ForTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ForTriangle\ForTriangle\obj\Debug\net8.0\ForTriangle.AssemblyInfoInputs.cache
+C:\ReC#\ForTriangle\ForTriangle\obj\Debug\net8.0\ForTriangle.AssemblyInfo.cs
+C:\ReC#\ForTriangle\ForTriangle\obj\Debug\net8.0\ForTriangle.csproj.CoreCompileInputs.cache
+C:\ReC#\ForTriangle\ForTriangle\obj\Debug\net8.0\ForTriangle.dll
+C:\ReC#\ForTriangle\ForTriangle\obj\Debug\net8.0\refint\ForTriangle.dll
+C:\ReC#\ForTriangle\ForTriangle\obj\Debug\net8.0\ForTriangle.pdb
+C:\ReC#\ForTriangle\ForTriangle\obj\Debug\net8.0\ForTriangle.genruntimeconfig.cache
+C:\ReC#\ForTriangle\ForTriangle\obj\Debug\net8.0\ref\ForTriangle.dll

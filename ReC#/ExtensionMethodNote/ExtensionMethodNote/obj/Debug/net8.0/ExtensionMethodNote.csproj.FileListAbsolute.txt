@@ -1,0 +1,14 @@
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\bin\Debug\net8.0\ExtensionMethodNote.exe
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\bin\Debug\net8.0\ExtensionMethodNote.deps.json
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\bin\Debug\net8.0\ExtensionMethodNote.runtimeconfig.json
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\bin\Debug\net8.0\ExtensionMethodNote.dll
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\bin\Debug\net8.0\ExtensionMethodNote.pdb
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\obj\Debug\net8.0\ExtensionMethodNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\obj\Debug\net8.0\ExtensionMethodNote.AssemblyInfoInputs.cache
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\obj\Debug\net8.0\ExtensionMethodNote.AssemblyInfo.cs
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\obj\Debug\net8.0\ExtensionMethodNote.csproj.CoreCompileInputs.cache
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\obj\Debug\net8.0\ExtensionMethodNote.dll
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\obj\Debug\net8.0\refint\ExtensionMethodNote.dll
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\obj\Debug\net8.0\ExtensionMethodNote.pdb
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\obj\Debug\net8.0\ExtensionMethodNote.genruntimeconfig.cache
+C:\ReC#\ExtensionMethodNote\ExtensionMethodNote\obj\Debug\net8.0\ref\ExtensionMethodNote.dll

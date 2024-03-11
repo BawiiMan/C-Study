@@ -1,0 +1,14 @@
+C:\ReC#\StructParameter\StructParameter\bin\Debug\net8.0\StructParameter.exe
+C:\ReC#\StructParameter\StructParameter\bin\Debug\net8.0\StructParameter.deps.json
+C:\ReC#\StructParameter\StructParameter\bin\Debug\net8.0\StructParameter.runtimeconfig.json
+C:\ReC#\StructParameter\StructParameter\bin\Debug\net8.0\StructParameter.dll
+C:\ReC#\StructParameter\StructParameter\bin\Debug\net8.0\StructParameter.pdb
+C:\ReC#\StructParameter\StructParameter\obj\Debug\net8.0\StructParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\StructParameter\StructParameter\obj\Debug\net8.0\StructParameter.AssemblyInfoInputs.cache
+C:\ReC#\StructParameter\StructParameter\obj\Debug\net8.0\StructParameter.AssemblyInfo.cs
+C:\ReC#\StructParameter\StructParameter\obj\Debug\net8.0\StructParameter.csproj.CoreCompileInputs.cache
+C:\ReC#\StructParameter\StructParameter\obj\Debug\net8.0\StructParameter.dll
+C:\ReC#\StructParameter\StructParameter\obj\Debug\net8.0\refint\StructParameter.dll
+C:\ReC#\StructParameter\StructParameter\obj\Debug\net8.0\StructParameter.pdb
+C:\ReC#\StructParameter\StructParameter\obj\Debug\net8.0\StructParameter.genruntimeconfig.cache
+C:\ReC#\StructParameter\StructParameter\obj\Debug\net8.0\ref\StructParameter.dll

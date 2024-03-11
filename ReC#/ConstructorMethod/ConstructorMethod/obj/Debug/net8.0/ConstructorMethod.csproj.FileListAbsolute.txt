@@ -1,0 +1,14 @@
+C:\ReC#\ConstructorMethod\ConstructorMethod\bin\Debug\net8.0\ConstructorMethod.exe
+C:\ReC#\ConstructorMethod\ConstructorMethod\bin\Debug\net8.0\ConstructorMethod.deps.json
+C:\ReC#\ConstructorMethod\ConstructorMethod\bin\Debug\net8.0\ConstructorMethod.runtimeconfig.json
+C:\ReC#\ConstructorMethod\ConstructorMethod\bin\Debug\net8.0\ConstructorMethod.dll
+C:\ReC#\ConstructorMethod\ConstructorMethod\bin\Debug\net8.0\ConstructorMethod.pdb
+C:\ReC#\ConstructorMethod\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ConstructorMethod\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.AssemblyInfoInputs.cache
+C:\ReC#\ConstructorMethod\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.AssemblyInfo.cs
+C:\ReC#\ConstructorMethod\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.csproj.CoreCompileInputs.cache
+C:\ReC#\ConstructorMethod\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.dll
+C:\ReC#\ConstructorMethod\ConstructorMethod\obj\Debug\net8.0\refint\ConstructorMethod.dll
+C:\ReC#\ConstructorMethod\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.pdb
+C:\ReC#\ConstructorMethod\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.genruntimeconfig.cache
+C:\ReC#\ConstructorMethod\ConstructorMethod\obj\Debug\net8.0\ref\ConstructorMethod.dll

@@ -1,0 +1,14 @@
+C:\ReC#\AsDemo\AsDemo\bin\Debug\net8.0\AsDemo.exe
+C:\ReC#\AsDemo\AsDemo\bin\Debug\net8.0\AsDemo.deps.json
+C:\ReC#\AsDemo\AsDemo\bin\Debug\net8.0\AsDemo.runtimeconfig.json
+C:\ReC#\AsDemo\AsDemo\bin\Debug\net8.0\AsDemo.dll
+C:\ReC#\AsDemo\AsDemo\bin\Debug\net8.0\AsDemo.pdb
+C:\ReC#\AsDemo\AsDemo\obj\Debug\net8.0\AsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\AsDemo\AsDemo\obj\Debug\net8.0\AsDemo.AssemblyInfoInputs.cache
+C:\ReC#\AsDemo\AsDemo\obj\Debug\net8.0\AsDemo.AssemblyInfo.cs
+C:\ReC#\AsDemo\AsDemo\obj\Debug\net8.0\AsDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\AsDemo\AsDemo\obj\Debug\net8.0\AsDemo.dll
+C:\ReC#\AsDemo\AsDemo\obj\Debug\net8.0\refint\AsDemo.dll
+C:\ReC#\AsDemo\AsDemo\obj\Debug\net8.0\AsDemo.pdb
+C:\ReC#\AsDemo\AsDemo\obj\Debug\net8.0\AsDemo.genruntimeconfig.cache
+C:\ReC#\AsDemo\AsDemo\obj\Debug\net8.0\ref\AsDemo.dll

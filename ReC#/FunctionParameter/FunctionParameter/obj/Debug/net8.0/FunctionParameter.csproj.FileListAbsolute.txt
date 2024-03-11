@@ -1,0 +1,14 @@
+C:\ReC#\FunctionParameter\FunctionParameter\bin\Debug\net8.0\FunctionParameter.exe
+C:\ReC#\FunctionParameter\FunctionParameter\bin\Debug\net8.0\FunctionParameter.deps.json
+C:\ReC#\FunctionParameter\FunctionParameter\bin\Debug\net8.0\FunctionParameter.runtimeconfig.json
+C:\ReC#\FunctionParameter\FunctionParameter\bin\Debug\net8.0\FunctionParameter.dll
+C:\ReC#\FunctionParameter\FunctionParameter\bin\Debug\net8.0\FunctionParameter.pdb
+C:\ReC#\FunctionParameter\FunctionParameter\obj\Debug\net8.0\FunctionParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FunctionParameter\FunctionParameter\obj\Debug\net8.0\FunctionParameter.AssemblyInfoInputs.cache
+C:\ReC#\FunctionParameter\FunctionParameter\obj\Debug\net8.0\FunctionParameter.AssemblyInfo.cs
+C:\ReC#\FunctionParameter\FunctionParameter\obj\Debug\net8.0\FunctionParameter.csproj.CoreCompileInputs.cache
+C:\ReC#\FunctionParameter\FunctionParameter\obj\Debug\net8.0\FunctionParameter.dll
+C:\ReC#\FunctionParameter\FunctionParameter\obj\Debug\net8.0\refint\FunctionParameter.dll
+C:\ReC#\FunctionParameter\FunctionParameter\obj\Debug\net8.0\FunctionParameter.pdb
+C:\ReC#\FunctionParameter\FunctionParameter\obj\Debug\net8.0\FunctionParameter.genruntimeconfig.cache
+C:\ReC#\FunctionParameter\FunctionParameter\obj\Debug\net8.0\ref\FunctionParameter.dll

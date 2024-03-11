@@ -1,0 +1,14 @@
+C:\ReC#\ArraySameIndex\ArraySameIndex\bin\Debug\net8.0\ArraySameIndex.exe
+C:\ReC#\ArraySameIndex\ArraySameIndex\bin\Debug\net8.0\ArraySameIndex.deps.json
+C:\ReC#\ArraySameIndex\ArraySameIndex\bin\Debug\net8.0\ArraySameIndex.runtimeconfig.json
+C:\ReC#\ArraySameIndex\ArraySameIndex\bin\Debug\net8.0\ArraySameIndex.dll
+C:\ReC#\ArraySameIndex\ArraySameIndex\bin\Debug\net8.0\ArraySameIndex.pdb
+C:\ReC#\ArraySameIndex\ArraySameIndex\obj\Debug\net8.0\ArraySameIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArraySameIndex\ArraySameIndex\obj\Debug\net8.0\ArraySameIndex.AssemblyInfoInputs.cache
+C:\ReC#\ArraySameIndex\ArraySameIndex\obj\Debug\net8.0\ArraySameIndex.AssemblyInfo.cs
+C:\ReC#\ArraySameIndex\ArraySameIndex\obj\Debug\net8.0\ArraySameIndex.csproj.CoreCompileInputs.cache
+C:\ReC#\ArraySameIndex\ArraySameIndex\obj\Debug\net8.0\ArraySameIndex.dll
+C:\ReC#\ArraySameIndex\ArraySameIndex\obj\Debug\net8.0\refint\ArraySameIndex.dll
+C:\ReC#\ArraySameIndex\ArraySameIndex\obj\Debug\net8.0\ArraySameIndex.pdb
+C:\ReC#\ArraySameIndex\ArraySameIndex\obj\Debug\net8.0\ArraySameIndex.genruntimeconfig.cache
+C:\ReC#\ArraySameIndex\ArraySameIndex\obj\Debug\net8.0\ref\ArraySameIndex.dll

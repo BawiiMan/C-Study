@@ -1,0 +1,14 @@
+C:\ReC#\DelegateParameter\DelegateParameter\bin\Debug\net8.0\DelegateParameter.exe
+C:\ReC#\DelegateParameter\DelegateParameter\bin\Debug\net8.0\DelegateParameter.deps.json
+C:\ReC#\DelegateParameter\DelegateParameter\bin\Debug\net8.0\DelegateParameter.runtimeconfig.json
+C:\ReC#\DelegateParameter\DelegateParameter\bin\Debug\net8.0\DelegateParameter.dll
+C:\ReC#\DelegateParameter\DelegateParameter\bin\Debug\net8.0\DelegateParameter.pdb
+C:\ReC#\DelegateParameter\DelegateParameter\obj\Debug\net8.0\DelegateParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DelegateParameter\DelegateParameter\obj\Debug\net8.0\DelegateParameter.AssemblyInfoInputs.cache
+C:\ReC#\DelegateParameter\DelegateParameter\obj\Debug\net8.0\DelegateParameter.AssemblyInfo.cs
+C:\ReC#\DelegateParameter\DelegateParameter\obj\Debug\net8.0\DelegateParameter.csproj.CoreCompileInputs.cache
+C:\ReC#\DelegateParameter\DelegateParameter\obj\Debug\net8.0\DelegateParameter.dll
+C:\ReC#\DelegateParameter\DelegateParameter\obj\Debug\net8.0\refint\DelegateParameter.dll
+C:\ReC#\DelegateParameter\DelegateParameter\obj\Debug\net8.0\DelegateParameter.pdb
+C:\ReC#\DelegateParameter\DelegateParameter\obj\Debug\net8.0\DelegateParameter.genruntimeconfig.cache
+C:\ReC#\DelegateParameter\DelegateParameter\obj\Debug\net8.0\ref\DelegateParameter.dll

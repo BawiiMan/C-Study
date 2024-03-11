@@ -1,0 +1,14 @@
+C:\ReC#\ThreadPractice\ThreadPractice\bin\Debug\net8.0\ThreadPractice.exe
+C:\ReC#\ThreadPractice\ThreadPractice\bin\Debug\net8.0\ThreadPractice.deps.json
+C:\ReC#\ThreadPractice\ThreadPractice\bin\Debug\net8.0\ThreadPractice.runtimeconfig.json
+C:\ReC#\ThreadPractice\ThreadPractice\bin\Debug\net8.0\ThreadPractice.dll
+C:\ReC#\ThreadPractice\ThreadPractice\bin\Debug\net8.0\ThreadPractice.pdb
+C:\ReC#\ThreadPractice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ThreadPractice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.AssemblyInfoInputs.cache
+C:\ReC#\ThreadPractice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.AssemblyInfo.cs
+C:\ReC#\ThreadPractice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.csproj.CoreCompileInputs.cache
+C:\ReC#\ThreadPractice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.dll
+C:\ReC#\ThreadPractice\ThreadPractice\obj\Debug\net8.0\refint\ThreadPractice.dll
+C:\ReC#\ThreadPractice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.pdb
+C:\ReC#\ThreadPractice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.genruntimeconfig.cache
+C:\ReC#\ThreadPractice\ThreadPractice\obj\Debug\net8.0\ref\ThreadPractice.dll

@@ -1,0 +1,14 @@
+C:\ReC#\ThreadDemo\ThreadDemo\bin\Debug\net8.0\ThreadDemo.exe
+C:\ReC#\ThreadDemo\ThreadDemo\bin\Debug\net8.0\ThreadDemo.deps.json
+C:\ReC#\ThreadDemo\ThreadDemo\bin\Debug\net8.0\ThreadDemo.runtimeconfig.json
+C:\ReC#\ThreadDemo\ThreadDemo\bin\Debug\net8.0\ThreadDemo.dll
+C:\ReC#\ThreadDemo\ThreadDemo\bin\Debug\net8.0\ThreadDemo.pdb
+C:\ReC#\ThreadDemo\ThreadDemo\obj\Debug\net8.0\ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ThreadDemo\ThreadDemo\obj\Debug\net8.0\ThreadDemo.AssemblyInfoInputs.cache
+C:\ReC#\ThreadDemo\ThreadDemo\obj\Debug\net8.0\ThreadDemo.AssemblyInfo.cs
+C:\ReC#\ThreadDemo\ThreadDemo\obj\Debug\net8.0\ThreadDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\ThreadDemo\ThreadDemo\obj\Debug\net8.0\ThreadDemo.dll
+C:\ReC#\ThreadDemo\ThreadDemo\obj\Debug\net8.0\refint\ThreadDemo.dll
+C:\ReC#\ThreadDemo\ThreadDemo\obj\Debug\net8.0\ThreadDemo.pdb
+C:\ReC#\ThreadDemo\ThreadDemo\obj\Debug\net8.0\ThreadDemo.genruntimeconfig.cache
+C:\ReC#\ThreadDemo\ThreadDemo\obj\Debug\net8.0\ref\ThreadDemo.dll

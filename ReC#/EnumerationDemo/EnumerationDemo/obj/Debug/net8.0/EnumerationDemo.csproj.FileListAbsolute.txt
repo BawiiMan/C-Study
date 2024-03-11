@@ -1,0 +1,14 @@
+C:\ReC#\EnumerationDemo\EnumerationDemo\bin\Debug\net8.0\EnumerationDemo.exe
+C:\ReC#\EnumerationDemo\EnumerationDemo\bin\Debug\net8.0\EnumerationDemo.deps.json
+C:\ReC#\EnumerationDemo\EnumerationDemo\bin\Debug\net8.0\EnumerationDemo.runtimeconfig.json
+C:\ReC#\EnumerationDemo\EnumerationDemo\bin\Debug\net8.0\EnumerationDemo.dll
+C:\ReC#\EnumerationDemo\EnumerationDemo\bin\Debug\net8.0\EnumerationDemo.pdb
+C:\ReC#\EnumerationDemo\EnumerationDemo\obj\Debug\net8.0\EnumerationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\EnumerationDemo\EnumerationDemo\obj\Debug\net8.0\EnumerationDemo.AssemblyInfoInputs.cache
+C:\ReC#\EnumerationDemo\EnumerationDemo\obj\Debug\net8.0\EnumerationDemo.AssemblyInfo.cs
+C:\ReC#\EnumerationDemo\EnumerationDemo\obj\Debug\net8.0\EnumerationDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\EnumerationDemo\EnumerationDemo\obj\Debug\net8.0\EnumerationDemo.dll
+C:\ReC#\EnumerationDemo\EnumerationDemo\obj\Debug\net8.0\refint\EnumerationDemo.dll
+C:\ReC#\EnumerationDemo\EnumerationDemo\obj\Debug\net8.0\EnumerationDemo.pdb
+C:\ReC#\EnumerationDemo\EnumerationDemo\obj\Debug\net8.0\EnumerationDemo.genruntimeconfig.cache
+C:\ReC#\EnumerationDemo\EnumerationDemo\obj\Debug\net8.0\ref\EnumerationDemo.dll

@@ -1,0 +1,14 @@
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\bin\Debug\net8.0\LinqWhereMethod.exe
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\bin\Debug\net8.0\LinqWhereMethod.deps.json
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\bin\Debug\net8.0\LinqWhereMethod.runtimeconfig.json
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\bin\Debug\net8.0\LinqWhereMethod.dll
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\bin\Debug\net8.0\LinqWhereMethod.pdb
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\obj\Debug\net8.0\LinqWhereMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\obj\Debug\net8.0\LinqWhereMethod.AssemblyInfoInputs.cache
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\obj\Debug\net8.0\LinqWhereMethod.AssemblyInfo.cs
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\obj\Debug\net8.0\LinqWhereMethod.csproj.CoreCompileInputs.cache
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\obj\Debug\net8.0\LinqWhereMethod.dll
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\obj\Debug\net8.0\refint\LinqWhereMethod.dll
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\obj\Debug\net8.0\LinqWhereMethod.pdb
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\obj\Debug\net8.0\LinqWhereMethod.genruntimeconfig.cache
+C:\ReC#\LinqWhereMethod\LinqWhereMethod\obj\Debug\net8.0\ref\LinqWhereMethod.dll

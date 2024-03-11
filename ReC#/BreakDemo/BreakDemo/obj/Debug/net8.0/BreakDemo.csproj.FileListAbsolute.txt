@@ -1,0 +1,14 @@
+C:\ReC#\BreakDemo\BreakDemo\obj\Debug\net8.0\BreakDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\BreakDemo\BreakDemo\obj\Debug\net8.0\BreakDemo.AssemblyInfoInputs.cache
+C:\ReC#\BreakDemo\BreakDemo\obj\Debug\net8.0\BreakDemo.AssemblyInfo.cs
+C:\ReC#\BreakDemo\BreakDemo\obj\Debug\net8.0\BreakDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\BreakDemo\BreakDemo\bin\Debug\net8.0\BreakDemo.exe
+C:\ReC#\BreakDemo\BreakDemo\bin\Debug\net8.0\BreakDemo.deps.json
+C:\ReC#\BreakDemo\BreakDemo\bin\Debug\net8.0\BreakDemo.runtimeconfig.json
+C:\ReC#\BreakDemo\BreakDemo\bin\Debug\net8.0\BreakDemo.dll
+C:\ReC#\BreakDemo\BreakDemo\bin\Debug\net8.0\BreakDemo.pdb
+C:\ReC#\BreakDemo\BreakDemo\obj\Debug\net8.0\BreakDemo.dll
+C:\ReC#\BreakDemo\BreakDemo\obj\Debug\net8.0\refint\BreakDemo.dll
+C:\ReC#\BreakDemo\BreakDemo\obj\Debug\net8.0\BreakDemo.pdb
+C:\ReC#\BreakDemo\BreakDemo\obj\Debug\net8.0\BreakDemo.genruntimeconfig.cache
+C:\ReC#\BreakDemo\BreakDemo\obj\Debug\net8.0\ref\BreakDemo.dll

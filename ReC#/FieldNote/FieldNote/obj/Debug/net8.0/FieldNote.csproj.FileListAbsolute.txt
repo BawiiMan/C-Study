@@ -1,0 +1,14 @@
+C:\ReC#\FieldNote\FieldNote\bin\Debug\net8.0\FieldNote.exe
+C:\ReC#\FieldNote\FieldNote\bin\Debug\net8.0\FieldNote.deps.json
+C:\ReC#\FieldNote\FieldNote\bin\Debug\net8.0\FieldNote.runtimeconfig.json
+C:\ReC#\FieldNote\FieldNote\bin\Debug\net8.0\FieldNote.dll
+C:\ReC#\FieldNote\FieldNote\bin\Debug\net8.0\FieldNote.pdb
+C:\ReC#\FieldNote\FieldNote\obj\Debug\net8.0\FieldNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FieldNote\FieldNote\obj\Debug\net8.0\FieldNote.AssemblyInfoInputs.cache
+C:\ReC#\FieldNote\FieldNote\obj\Debug\net8.0\FieldNote.AssemblyInfo.cs
+C:\ReC#\FieldNote\FieldNote\obj\Debug\net8.0\FieldNote.csproj.CoreCompileInputs.cache
+C:\ReC#\FieldNote\FieldNote\obj\Debug\net8.0\FieldNote.dll
+C:\ReC#\FieldNote\FieldNote\obj\Debug\net8.0\refint\FieldNote.dll
+C:\ReC#\FieldNote\FieldNote\obj\Debug\net8.0\FieldNote.pdb
+C:\ReC#\FieldNote\FieldNote\obj\Debug\net8.0\FieldNote.genruntimeconfig.cache
+C:\ReC#\FieldNote\FieldNote\obj\Debug\net8.0\ref\FieldNote.dll

@@ -1,0 +1,14 @@
+C:\ReC#\ArraySumAverage\ArraySumAverage\bin\Debug\net8.0\ArraySumAverage.exe
+C:\ReC#\ArraySumAverage\ArraySumAverage\bin\Debug\net8.0\ArraySumAverage.deps.json
+C:\ReC#\ArraySumAverage\ArraySumAverage\bin\Debug\net8.0\ArraySumAverage.runtimeconfig.json
+C:\ReC#\ArraySumAverage\ArraySumAverage\bin\Debug\net8.0\ArraySumAverage.dll
+C:\ReC#\ArraySumAverage\ArraySumAverage\bin\Debug\net8.0\ArraySumAverage.pdb
+C:\ReC#\ArraySumAverage\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArraySumAverage\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.AssemblyInfoInputs.cache
+C:\ReC#\ArraySumAverage\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.AssemblyInfo.cs
+C:\ReC#\ArraySumAverage\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.csproj.CoreCompileInputs.cache
+C:\ReC#\ArraySumAverage\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.dll
+C:\ReC#\ArraySumAverage\ArraySumAverage\obj\Debug\net8.0\refint\ArraySumAverage.dll
+C:\ReC#\ArraySumAverage\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.pdb
+C:\ReC#\ArraySumAverage\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.genruntimeconfig.cache
+C:\ReC#\ArraySumAverage\ArraySumAverage\obj\Debug\net8.0\ref\ArraySumAverage.dll

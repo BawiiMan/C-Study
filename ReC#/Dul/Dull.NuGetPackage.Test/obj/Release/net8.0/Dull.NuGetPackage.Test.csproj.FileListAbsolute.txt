@@ -1,0 +1,17 @@
+C:\ReC#\Dul\Dull.NuGetPackage.Test\bin\Release\net8.0\Dull.NuGetPackage.Test.exe
+C:\ReC#\Dul\Dull.NuGetPackage.Test\bin\Release\net8.0\Dull.NuGetPackage.Test.deps.json
+C:\ReC#\Dul\Dull.NuGetPackage.Test\bin\Release\net8.0\Dull.NuGetPackage.Test.runtimeconfig.json
+C:\ReC#\Dul\Dull.NuGetPackage.Test\bin\Release\net8.0\Dull.NuGetPackage.Test.dll
+C:\ReC#\Dul\Dull.NuGetPackage.Test\bin\Release\net8.0\Dull.NuGetPackage.Test.pdb
+C:\ReC#\Dul\Dull.NuGetPackage.Test\bin\Release\net8.0\Dul.dll
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\Dull.NuGetPackage.Test.csproj.AssemblyReference.cache
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\Dull.NuGetPackage.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\Dull.NuGetPackage.Test.AssemblyInfoInputs.cache
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\Dull.NuGetPackage.Test.AssemblyInfo.cs
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\Dull.NuGetPackage.Test.csproj.CoreCompileInputs.cache
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\Dull.NuGetPackage.Test.csproj.CopyComplete
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\Dull.NuGetPackage.Test.dll
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\refint\Dull.NuGetPackage.Test.dll
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\Dull.NuGetPackage.Test.pdb
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\Dull.NuGetPackage.Test.genruntimeconfig.cache
+C:\ReC#\Dul\Dull.NuGetPackage.Test\obj\Release\net8.0\ref\Dull.NuGetPackage.Test.dll

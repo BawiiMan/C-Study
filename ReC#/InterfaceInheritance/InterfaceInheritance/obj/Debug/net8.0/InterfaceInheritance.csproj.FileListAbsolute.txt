@@ -1,0 +1,14 @@
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\bin\Debug\net8.0\InterfaceInheritance.exe
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\bin\Debug\net8.0\InterfaceInheritance.deps.json
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\bin\Debug\net8.0\InterfaceInheritance.runtimeconfig.json
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\bin\Debug\net8.0\InterfaceInheritance.dll
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\bin\Debug\net8.0\InterfaceInheritance.pdb
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\obj\Debug\net8.0\InterfaceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\obj\Debug\net8.0\InterfaceInheritance.AssemblyInfoInputs.cache
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\obj\Debug\net8.0\InterfaceInheritance.AssemblyInfo.cs
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\obj\Debug\net8.0\InterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\obj\Debug\net8.0\InterfaceInheritance.dll
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\obj\Debug\net8.0\refint\InterfaceInheritance.dll
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\obj\Debug\net8.0\InterfaceInheritance.pdb
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\obj\Debug\net8.0\InterfaceInheritance.genruntimeconfig.cache
+C:\ReC#\InterfaceInheritance\InterfaceInheritance\obj\Debug\net8.0\ref\InterfaceInheritance.dll

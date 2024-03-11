@@ -1,0 +1,14 @@
+C:\ReC#\TypeConversionError\TypeConversionError\bin\Debug\net8.0\TypeConversionError.exe
+C:\ReC#\TypeConversionError\TypeConversionError\bin\Debug\net8.0\TypeConversionError.deps.json
+C:\ReC#\TypeConversionError\TypeConversionError\bin\Debug\net8.0\TypeConversionError.runtimeconfig.json
+C:\ReC#\TypeConversionError\TypeConversionError\bin\Debug\net8.0\TypeConversionError.dll
+C:\ReC#\TypeConversionError\TypeConversionError\bin\Debug\net8.0\TypeConversionError.pdb
+C:\ReC#\TypeConversionError\TypeConversionError\obj\Debug\net8.0\TypeConversionError.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\TypeConversionError\TypeConversionError\obj\Debug\net8.0\TypeConversionError.AssemblyInfoInputs.cache
+C:\ReC#\TypeConversionError\TypeConversionError\obj\Debug\net8.0\TypeConversionError.AssemblyInfo.cs
+C:\ReC#\TypeConversionError\TypeConversionError\obj\Debug\net8.0\TypeConversionError.csproj.CoreCompileInputs.cache
+C:\ReC#\TypeConversionError\TypeConversionError\obj\Debug\net8.0\TypeConversionError.dll
+C:\ReC#\TypeConversionError\TypeConversionError\obj\Debug\net8.0\refint\TypeConversionError.dll
+C:\ReC#\TypeConversionError\TypeConversionError\obj\Debug\net8.0\TypeConversionError.pdb
+C:\ReC#\TypeConversionError\TypeConversionError\obj\Debug\net8.0\TypeConversionError.genruntimeconfig.cache
+C:\ReC#\TypeConversionError\TypeConversionError\obj\Debug\net8.0\ref\TypeConversionError.dll

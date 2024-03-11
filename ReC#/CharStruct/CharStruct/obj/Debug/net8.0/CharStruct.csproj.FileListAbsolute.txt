@@ -1,0 +1,14 @@
+C:\ReC#\CharStruct\CharStruct\bin\Debug\net8.0\CharStruct.exe
+C:\ReC#\CharStruct\CharStruct\bin\Debug\net8.0\CharStruct.deps.json
+C:\ReC#\CharStruct\CharStruct\bin\Debug\net8.0\CharStruct.runtimeconfig.json
+C:\ReC#\CharStruct\CharStruct\bin\Debug\net8.0\CharStruct.dll
+C:\ReC#\CharStruct\CharStruct\bin\Debug\net8.0\CharStruct.pdb
+C:\ReC#\CharStruct\CharStruct\obj\Debug\net8.0\CharStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\CharStruct\CharStruct\obj\Debug\net8.0\CharStruct.AssemblyInfoInputs.cache
+C:\ReC#\CharStruct\CharStruct\obj\Debug\net8.0\CharStruct.AssemblyInfo.cs
+C:\ReC#\CharStruct\CharStruct\obj\Debug\net8.0\CharStruct.csproj.CoreCompileInputs.cache
+C:\ReC#\CharStruct\CharStruct\obj\Debug\net8.0\CharStruct.dll
+C:\ReC#\CharStruct\CharStruct\obj\Debug\net8.0\refint\CharStruct.dll
+C:\ReC#\CharStruct\CharStruct\obj\Debug\net8.0\CharStruct.pdb
+C:\ReC#\CharStruct\CharStruct\obj\Debug\net8.0\CharStruct.genruntimeconfig.cache
+C:\ReC#\CharStruct\CharStruct\obj\Debug\net8.0\ref\CharStruct.dll

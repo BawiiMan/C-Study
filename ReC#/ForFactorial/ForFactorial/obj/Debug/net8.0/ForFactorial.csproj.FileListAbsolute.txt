@@ -1,0 +1,14 @@
+C:\ReC#\ForFactorial\ForFactorial\bin\Debug\net8.0\ForFactorial.exe
+C:\ReC#\ForFactorial\ForFactorial\bin\Debug\net8.0\ForFactorial.deps.json
+C:\ReC#\ForFactorial\ForFactorial\bin\Debug\net8.0\ForFactorial.runtimeconfig.json
+C:\ReC#\ForFactorial\ForFactorial\bin\Debug\net8.0\ForFactorial.dll
+C:\ReC#\ForFactorial\ForFactorial\bin\Debug\net8.0\ForFactorial.pdb
+C:\ReC#\ForFactorial\ForFactorial\obj\Debug\net8.0\ForFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ForFactorial\ForFactorial\obj\Debug\net8.0\ForFactorial.AssemblyInfoInputs.cache
+C:\ReC#\ForFactorial\ForFactorial\obj\Debug\net8.0\ForFactorial.AssemblyInfo.cs
+C:\ReC#\ForFactorial\ForFactorial\obj\Debug\net8.0\ForFactorial.csproj.CoreCompileInputs.cache
+C:\ReC#\ForFactorial\ForFactorial\obj\Debug\net8.0\ForFactorial.dll
+C:\ReC#\ForFactorial\ForFactorial\obj\Debug\net8.0\refint\ForFactorial.dll
+C:\ReC#\ForFactorial\ForFactorial\obj\Debug\net8.0\ForFactorial.pdb
+C:\ReC#\ForFactorial\ForFactorial\obj\Debug\net8.0\ForFactorial.genruntimeconfig.cache
+C:\ReC#\ForFactorial\ForFactorial\obj\Debug\net8.0\ref\ForFactorial.dll

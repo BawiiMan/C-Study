@@ -1,0 +1,14 @@
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\obj\Debug\net8.0\LocalFunctionDescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\obj\Debug\net8.0\LocalFunctionDescription.AssemblyInfoInputs.cache
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\obj\Debug\net8.0\LocalFunctionDescription.AssemblyInfo.cs
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\obj\Debug\net8.0\LocalFunctionDescription.csproj.CoreCompileInputs.cache
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\bin\Debug\net8.0\LocalFunctionDescription.exe
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\bin\Debug\net8.0\LocalFunctionDescription.deps.json
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\bin\Debug\net8.0\LocalFunctionDescription.runtimeconfig.json
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\bin\Debug\net8.0\LocalFunctionDescription.dll
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\bin\Debug\net8.0\LocalFunctionDescription.pdb
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\obj\Debug\net8.0\LocalFunctionDescription.dll
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\obj\Debug\net8.0\refint\LocalFunctionDescription.dll
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\obj\Debug\net8.0\LocalFunctionDescription.pdb
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\obj\Debug\net8.0\LocalFunctionDescription.genruntimeconfig.cache
+C:\ReC#\LocalFunctionDescription\LocalFunctionDescription\obj\Debug\net8.0\ref\LocalFunctionDescription.dll

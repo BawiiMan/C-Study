@@ -1,0 +1,14 @@
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\bin\Debug\net8.0\TryFinallyDemo.exe
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\bin\Debug\net8.0\TryFinallyDemo.deps.json
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\bin\Debug\net8.0\TryFinallyDemo.runtimeconfig.json
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\bin\Debug\net8.0\TryFinallyDemo.dll
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\bin\Debug\net8.0\TryFinallyDemo.pdb
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\obj\Debug\net8.0\TryFinallyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\obj\Debug\net8.0\TryFinallyDemo.AssemblyInfoInputs.cache
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\obj\Debug\net8.0\TryFinallyDemo.AssemblyInfo.cs
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\obj\Debug\net8.0\TryFinallyDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\obj\Debug\net8.0\TryFinallyDemo.dll
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\obj\Debug\net8.0\refint\TryFinallyDemo.dll
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\obj\Debug\net8.0\TryFinallyDemo.pdb
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\obj\Debug\net8.0\TryFinallyDemo.genruntimeconfig.cache
+C:\ReC#\TryFinallyDemo\TryFinallyDemo\obj\Debug\net8.0\ref\TryFinallyDemo.dll

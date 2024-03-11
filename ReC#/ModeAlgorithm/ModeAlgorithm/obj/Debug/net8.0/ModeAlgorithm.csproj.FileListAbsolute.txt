@@ -1,0 +1,14 @@
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\bin\Debug\net8.0\ModeAlgorithm.exe
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\bin\Debug\net8.0\ModeAlgorithm.deps.json
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\bin\Debug\net8.0\ModeAlgorithm.runtimeconfig.json
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\bin\Debug\net8.0\ModeAlgorithm.dll
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\bin\Debug\net8.0\ModeAlgorithm.pdb
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\obj\Debug\net8.0\ModeAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\obj\Debug\net8.0\ModeAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\obj\Debug\net8.0\ModeAlgorithm.AssemblyInfo.cs
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\obj\Debug\net8.0\ModeAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\obj\Debug\net8.0\ModeAlgorithm.dll
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\obj\Debug\net8.0\refint\ModeAlgorithm.dll
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\obj\Debug\net8.0\ModeAlgorithm.pdb
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\obj\Debug\net8.0\ModeAlgorithm.genruntimeconfig.cache
+C:\ReC#\ModeAlgorithm\ModeAlgorithm\obj\Debug\net8.0\ref\ModeAlgorithm.dll

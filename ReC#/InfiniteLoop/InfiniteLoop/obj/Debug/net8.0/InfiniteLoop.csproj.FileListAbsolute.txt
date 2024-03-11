@@ -1,0 +1,14 @@
+C:\ReC#\InfiniteLoop\InfiniteLoop\bin\Debug\net8.0\InfiniteLoop.exe
+C:\ReC#\InfiniteLoop\InfiniteLoop\bin\Debug\net8.0\InfiniteLoop.deps.json
+C:\ReC#\InfiniteLoop\InfiniteLoop\bin\Debug\net8.0\InfiniteLoop.runtimeconfig.json
+C:\ReC#\InfiniteLoop\InfiniteLoop\bin\Debug\net8.0\InfiniteLoop.dll
+C:\ReC#\InfiniteLoop\InfiniteLoop\bin\Debug\net8.0\InfiniteLoop.pdb
+C:\ReC#\InfiniteLoop\InfiniteLoop\obj\Debug\net8.0\InfiniteLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\InfiniteLoop\InfiniteLoop\obj\Debug\net8.0\InfiniteLoop.AssemblyInfoInputs.cache
+C:\ReC#\InfiniteLoop\InfiniteLoop\obj\Debug\net8.0\InfiniteLoop.AssemblyInfo.cs
+C:\ReC#\InfiniteLoop\InfiniteLoop\obj\Debug\net8.0\InfiniteLoop.csproj.CoreCompileInputs.cache
+C:\ReC#\InfiniteLoop\InfiniteLoop\obj\Debug\net8.0\InfiniteLoop.dll
+C:\ReC#\InfiniteLoop\InfiniteLoop\obj\Debug\net8.0\refint\InfiniteLoop.dll
+C:\ReC#\InfiniteLoop\InfiniteLoop\obj\Debug\net8.0\InfiniteLoop.pdb
+C:\ReC#\InfiniteLoop\InfiniteLoop\obj\Debug\net8.0\InfiniteLoop.genruntimeconfig.cache
+C:\ReC#\InfiniteLoop\InfiniteLoop\obj\Debug\net8.0\ref\InfiniteLoop.dll

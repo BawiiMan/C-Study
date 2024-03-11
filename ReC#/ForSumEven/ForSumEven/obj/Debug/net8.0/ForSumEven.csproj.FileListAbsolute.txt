@@ -1,0 +1,14 @@
+C:\ReC#\ForSumEven\ForSumEven\bin\Debug\net8.0\ForSumEven.exe
+C:\ReC#\ForSumEven\ForSumEven\bin\Debug\net8.0\ForSumEven.deps.json
+C:\ReC#\ForSumEven\ForSumEven\bin\Debug\net8.0\ForSumEven.runtimeconfig.json
+C:\ReC#\ForSumEven\ForSumEven\bin\Debug\net8.0\ForSumEven.dll
+C:\ReC#\ForSumEven\ForSumEven\bin\Debug\net8.0\ForSumEven.pdb
+C:\ReC#\ForSumEven\ForSumEven\obj\Debug\net8.0\ForSumEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ForSumEven\ForSumEven\obj\Debug\net8.0\ForSumEven.AssemblyInfoInputs.cache
+C:\ReC#\ForSumEven\ForSumEven\obj\Debug\net8.0\ForSumEven.AssemblyInfo.cs
+C:\ReC#\ForSumEven\ForSumEven\obj\Debug\net8.0\ForSumEven.csproj.CoreCompileInputs.cache
+C:\ReC#\ForSumEven\ForSumEven\obj\Debug\net8.0\ForSumEven.dll
+C:\ReC#\ForSumEven\ForSumEven\obj\Debug\net8.0\refint\ForSumEven.dll
+C:\ReC#\ForSumEven\ForSumEven\obj\Debug\net8.0\ForSumEven.pdb
+C:\ReC#\ForSumEven\ForSumEven\obj\Debug\net8.0\ForSumEven.genruntimeconfig.cache
+C:\ReC#\ForSumEven\ForSumEven\obj\Debug\net8.0\ref\ForSumEven.dll

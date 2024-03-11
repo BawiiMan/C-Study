@@ -1,0 +1,14 @@
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\bin\Debug\net8.0\GetFileNameDemo.exe
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\bin\Debug\net8.0\GetFileNameDemo.deps.json
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\bin\Debug\net8.0\GetFileNameDemo.runtimeconfig.json
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\bin\Debug\net8.0\GetFileNameDemo.dll
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\bin\Debug\net8.0\GetFileNameDemo.pdb
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\obj\Debug\net8.0\GetFileNameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\obj\Debug\net8.0\GetFileNameDemo.AssemblyInfoInputs.cache
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\obj\Debug\net8.0\GetFileNameDemo.AssemblyInfo.cs
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\obj\Debug\net8.0\GetFileNameDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\obj\Debug\net8.0\GetFileNameDemo.dll
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\obj\Debug\net8.0\refint\GetFileNameDemo.dll
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\obj\Debug\net8.0\GetFileNameDemo.pdb
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\obj\Debug\net8.0\GetFileNameDemo.genruntimeconfig.cache
+C:\ReC#\GetFileNameDemo\GetFileNameDemo\obj\Debug\net8.0\ref\GetFileNameDemo.dll

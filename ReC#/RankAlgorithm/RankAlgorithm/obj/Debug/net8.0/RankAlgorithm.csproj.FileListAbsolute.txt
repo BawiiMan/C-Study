@@ -1,0 +1,14 @@
+C:\ReC#\RankAlgorithm\RankAlgorithm\bin\Debug\net8.0\RankAlgorithm.exe
+C:\ReC#\RankAlgorithm\RankAlgorithm\bin\Debug\net8.0\RankAlgorithm.deps.json
+C:\ReC#\RankAlgorithm\RankAlgorithm\bin\Debug\net8.0\RankAlgorithm.runtimeconfig.json
+C:\ReC#\RankAlgorithm\RankAlgorithm\bin\Debug\net8.0\RankAlgorithm.dll
+C:\ReC#\RankAlgorithm\RankAlgorithm\bin\Debug\net8.0\RankAlgorithm.pdb
+C:\ReC#\RankAlgorithm\RankAlgorithm\obj\Debug\net8.0\RankAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\RankAlgorithm\RankAlgorithm\obj\Debug\net8.0\RankAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\RankAlgorithm\RankAlgorithm\obj\Debug\net8.0\RankAlgorithm.AssemblyInfo.cs
+C:\ReC#\RankAlgorithm\RankAlgorithm\obj\Debug\net8.0\RankAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\RankAlgorithm\RankAlgorithm\obj\Debug\net8.0\RankAlgorithm.dll
+C:\ReC#\RankAlgorithm\RankAlgorithm\obj\Debug\net8.0\refint\RankAlgorithm.dll
+C:\ReC#\RankAlgorithm\RankAlgorithm\obj\Debug\net8.0\RankAlgorithm.pdb
+C:\ReC#\RankAlgorithm\RankAlgorithm\obj\Debug\net8.0\RankAlgorithm.genruntimeconfig.cache
+C:\ReC#\RankAlgorithm\RankAlgorithm\obj\Debug\net8.0\ref\RankAlgorithm.dll

@@ -1,0 +1,14 @@
+C:\ReC#\PropertyAll\PropertyAll\bin\Debug\net8.0\PropertyAll.exe
+C:\ReC#\PropertyAll\PropertyAll\bin\Debug\net8.0\PropertyAll.deps.json
+C:\ReC#\PropertyAll\PropertyAll\bin\Debug\net8.0\PropertyAll.runtimeconfig.json
+C:\ReC#\PropertyAll\PropertyAll\bin\Debug\net8.0\PropertyAll.dll
+C:\ReC#\PropertyAll\PropertyAll\bin\Debug\net8.0\PropertyAll.pdb
+C:\ReC#\PropertyAll\PropertyAll\obj\Debug\net8.0\PropertyAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PropertyAll\PropertyAll\obj\Debug\net8.0\PropertyAll.AssemblyInfoInputs.cache
+C:\ReC#\PropertyAll\PropertyAll\obj\Debug\net8.0\PropertyAll.AssemblyInfo.cs
+C:\ReC#\PropertyAll\PropertyAll\obj\Debug\net8.0\PropertyAll.csproj.CoreCompileInputs.cache
+C:\ReC#\PropertyAll\PropertyAll\obj\Debug\net8.0\PropertyAll.dll
+C:\ReC#\PropertyAll\PropertyAll\obj\Debug\net8.0\refint\PropertyAll.dll
+C:\ReC#\PropertyAll\PropertyAll\obj\Debug\net8.0\PropertyAll.pdb
+C:\ReC#\PropertyAll\PropertyAll\obj\Debug\net8.0\PropertyAll.genruntimeconfig.cache
+C:\ReC#\PropertyAll\PropertyAll\obj\Debug\net8.0\ref\PropertyAll.dll

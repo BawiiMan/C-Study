@@ -1,0 +1,14 @@
+C:\ReC#\GoToDemo\GoToDemo\bin\Debug\net8.0\GoToDemo.exe
+C:\ReC#\GoToDemo\GoToDemo\bin\Debug\net8.0\GoToDemo.deps.json
+C:\ReC#\GoToDemo\GoToDemo\bin\Debug\net8.0\GoToDemo.runtimeconfig.json
+C:\ReC#\GoToDemo\GoToDemo\bin\Debug\net8.0\GoToDemo.dll
+C:\ReC#\GoToDemo\GoToDemo\bin\Debug\net8.0\GoToDemo.pdb
+C:\ReC#\GoToDemo\GoToDemo\obj\Debug\net8.0\GoToDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\GoToDemo\GoToDemo\obj\Debug\net8.0\GoToDemo.AssemblyInfoInputs.cache
+C:\ReC#\GoToDemo\GoToDemo\obj\Debug\net8.0\GoToDemo.AssemblyInfo.cs
+C:\ReC#\GoToDemo\GoToDemo\obj\Debug\net8.0\GoToDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\GoToDemo\GoToDemo\obj\Debug\net8.0\GoToDemo.dll
+C:\ReC#\GoToDemo\GoToDemo\obj\Debug\net8.0\refint\GoToDemo.dll
+C:\ReC#\GoToDemo\GoToDemo\obj\Debug\net8.0\GoToDemo.pdb
+C:\ReC#\GoToDemo\GoToDemo\obj\Debug\net8.0\GoToDemo.genruntimeconfig.cache
+C:\ReC#\GoToDemo\GoToDemo\obj\Debug\net8.0\ref\GoToDemo.dll

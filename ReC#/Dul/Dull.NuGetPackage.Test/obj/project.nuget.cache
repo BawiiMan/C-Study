@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9lfAgwhNjBldzyoqFuGEV2UfAzoUbFxD+1jECxN9LM9InyNtkCj+MxD1vh8LZkWcM1TK3VSHq0XaKNG9UL6Ig==",
+  "success": true,
+  "projectFilePath": "C:\\ReC#\\Dul\\Dull.NuGetPackage.Test\\Dull.NuGetPackage.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RockyMan\\.nuget\\packages\\dul\\1.3.0\\dul.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

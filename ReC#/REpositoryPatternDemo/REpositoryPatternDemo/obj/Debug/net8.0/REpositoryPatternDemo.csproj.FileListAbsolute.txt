@@ -1,0 +1,14 @@
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\bin\Debug\net8.0\REpositoryPatternDemo.exe
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\bin\Debug\net8.0\REpositoryPatternDemo.deps.json
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\bin\Debug\net8.0\REpositoryPatternDemo.runtimeconfig.json
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\bin\Debug\net8.0\REpositoryPatternDemo.dll
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\bin\Debug\net8.0\REpositoryPatternDemo.pdb
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\obj\Debug\net8.0\REpositoryPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\obj\Debug\net8.0\REpositoryPatternDemo.AssemblyInfoInputs.cache
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\obj\Debug\net8.0\REpositoryPatternDemo.AssemblyInfo.cs
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\obj\Debug\net8.0\REpositoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\obj\Debug\net8.0\REpositoryPatternDemo.dll
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\obj\Debug\net8.0\refint\REpositoryPatternDemo.dll
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\obj\Debug\net8.0\REpositoryPatternDemo.pdb
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\obj\Debug\net8.0\REpositoryPatternDemo.genruntimeconfig.cache
+C:\ReC#\REpositoryPatternDemo\REpositoryPatternDemo\obj\Debug\net8.0\ref\REpositoryPatternDemo.dll

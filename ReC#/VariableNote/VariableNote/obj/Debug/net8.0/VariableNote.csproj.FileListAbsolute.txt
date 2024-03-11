@@ -1,0 +1,14 @@
+C:\ReC#\VariableNote\VariableNote\bin\Debug\net8.0\VariableNote.exe
+C:\ReC#\VariableNote\VariableNote\bin\Debug\net8.0\VariableNote.deps.json
+C:\ReC#\VariableNote\VariableNote\bin\Debug\net8.0\VariableNote.runtimeconfig.json
+C:\ReC#\VariableNote\VariableNote\bin\Debug\net8.0\VariableNote.dll
+C:\ReC#\VariableNote\VariableNote\bin\Debug\net8.0\VariableNote.pdb
+C:\ReC#\VariableNote\VariableNote\obj\Debug\net8.0\VariableNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\VariableNote\VariableNote\obj\Debug\net8.0\VariableNote.AssemblyInfoInputs.cache
+C:\ReC#\VariableNote\VariableNote\obj\Debug\net8.0\VariableNote.AssemblyInfo.cs
+C:\ReC#\VariableNote\VariableNote\obj\Debug\net8.0\VariableNote.csproj.CoreCompileInputs.cache
+C:\ReC#\VariableNote\VariableNote\obj\Debug\net8.0\VariableNote.dll
+C:\ReC#\VariableNote\VariableNote\obj\Debug\net8.0\refint\VariableNote.dll
+C:\ReC#\VariableNote\VariableNote\obj\Debug\net8.0\VariableNote.pdb
+C:\ReC#\VariableNote\VariableNote\obj\Debug\net8.0\VariableNote.genruntimeconfig.cache
+C:\ReC#\VariableNote\VariableNote\obj\Debug\net8.0\ref\VariableNote.dll

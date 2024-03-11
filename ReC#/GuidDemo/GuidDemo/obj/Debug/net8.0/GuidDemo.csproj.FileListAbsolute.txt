@@ -1,0 +1,14 @@
+C:\ReC#\GuidDemo\GuidDemo\bin\Debug\net8.0\GuidDemo.exe
+C:\ReC#\GuidDemo\GuidDemo\bin\Debug\net8.0\GuidDemo.deps.json
+C:\ReC#\GuidDemo\GuidDemo\bin\Debug\net8.0\GuidDemo.runtimeconfig.json
+C:\ReC#\GuidDemo\GuidDemo\bin\Debug\net8.0\GuidDemo.dll
+C:\ReC#\GuidDemo\GuidDemo\bin\Debug\net8.0\GuidDemo.pdb
+C:\ReC#\GuidDemo\GuidDemo\obj\Debug\net8.0\GuidDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\GuidDemo\GuidDemo\obj\Debug\net8.0\GuidDemo.AssemblyInfoInputs.cache
+C:\ReC#\GuidDemo\GuidDemo\obj\Debug\net8.0\GuidDemo.AssemblyInfo.cs
+C:\ReC#\GuidDemo\GuidDemo\obj\Debug\net8.0\GuidDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\GuidDemo\GuidDemo\obj\Debug\net8.0\GuidDemo.dll
+C:\ReC#\GuidDemo\GuidDemo\obj\Debug\net8.0\refint\GuidDemo.dll
+C:\ReC#\GuidDemo\GuidDemo\obj\Debug\net8.0\GuidDemo.pdb
+C:\ReC#\GuidDemo\GuidDemo\obj\Debug\net8.0\GuidDemo.genruntimeconfig.cache
+C:\ReC#\GuidDemo\GuidDemo\obj\Debug\net8.0\ref\GuidDemo.dll

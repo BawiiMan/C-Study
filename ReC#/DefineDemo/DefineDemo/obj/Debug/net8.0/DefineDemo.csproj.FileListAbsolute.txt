@@ -1,0 +1,14 @@
+C:\ReC#\DefineDemo\DefineDemo\bin\Debug\net8.0\DefineDemo.exe
+C:\ReC#\DefineDemo\DefineDemo\bin\Debug\net8.0\DefineDemo.deps.json
+C:\ReC#\DefineDemo\DefineDemo\bin\Debug\net8.0\DefineDemo.runtimeconfig.json
+C:\ReC#\DefineDemo\DefineDemo\bin\Debug\net8.0\DefineDemo.dll
+C:\ReC#\DefineDemo\DefineDemo\bin\Debug\net8.0\DefineDemo.pdb
+C:\ReC#\DefineDemo\DefineDemo\obj\Debug\net8.0\DefineDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DefineDemo\DefineDemo\obj\Debug\net8.0\DefineDemo.AssemblyInfoInputs.cache
+C:\ReC#\DefineDemo\DefineDemo\obj\Debug\net8.0\DefineDemo.AssemblyInfo.cs
+C:\ReC#\DefineDemo\DefineDemo\obj\Debug\net8.0\DefineDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\DefineDemo\DefineDemo\obj\Debug\net8.0\DefineDemo.dll
+C:\ReC#\DefineDemo\DefineDemo\obj\Debug\net8.0\refint\DefineDemo.dll
+C:\ReC#\DefineDemo\DefineDemo\obj\Debug\net8.0\DefineDemo.pdb
+C:\ReC#\DefineDemo\DefineDemo\obj\Debug\net8.0\DefineDemo.genruntimeconfig.cache
+C:\ReC#\DefineDemo\DefineDemo\obj\Debug\net8.0\ref\DefineDemo.dll

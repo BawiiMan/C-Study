@@ -1,0 +1,14 @@
+C:\ReC#\CharacterDemo\CharacterDemo\bin\Debug\net8.0\CharacterDemo.exe
+C:\ReC#\CharacterDemo\CharacterDemo\bin\Debug\net8.0\CharacterDemo.deps.json
+C:\ReC#\CharacterDemo\CharacterDemo\bin\Debug\net8.0\CharacterDemo.runtimeconfig.json
+C:\ReC#\CharacterDemo\CharacterDemo\bin\Debug\net8.0\CharacterDemo.dll
+C:\ReC#\CharacterDemo\CharacterDemo\bin\Debug\net8.0\CharacterDemo.pdb
+C:\ReC#\CharacterDemo\CharacterDemo\obj\Debug\net8.0\CharacterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\CharacterDemo\CharacterDemo\obj\Debug\net8.0\CharacterDemo.AssemblyInfoInputs.cache
+C:\ReC#\CharacterDemo\CharacterDemo\obj\Debug\net8.0\CharacterDemo.AssemblyInfo.cs
+C:\ReC#\CharacterDemo\CharacterDemo\obj\Debug\net8.0\CharacterDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\CharacterDemo\CharacterDemo\obj\Debug\net8.0\CharacterDemo.dll
+C:\ReC#\CharacterDemo\CharacterDemo\obj\Debug\net8.0\refint\CharacterDemo.dll
+C:\ReC#\CharacterDemo\CharacterDemo\obj\Debug\net8.0\CharacterDemo.pdb
+C:\ReC#\CharacterDemo\CharacterDemo\obj\Debug\net8.0\CharacterDemo.genruntimeconfig.cache
+C:\ReC#\CharacterDemo\CharacterDemo\obj\Debug\net8.0\ref\CharacterDemo.dll

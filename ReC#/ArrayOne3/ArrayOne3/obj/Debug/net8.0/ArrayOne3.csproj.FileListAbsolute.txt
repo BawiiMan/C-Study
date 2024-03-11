@@ -1,0 +1,14 @@
+C:\ReC#\ArrayOne3\ArrayOne3\bin\Debug\net8.0\ArrayOne3.exe
+C:\ReC#\ArrayOne3\ArrayOne3\bin\Debug\net8.0\ArrayOne3.deps.json
+C:\ReC#\ArrayOne3\ArrayOne3\bin\Debug\net8.0\ArrayOne3.runtimeconfig.json
+C:\ReC#\ArrayOne3\ArrayOne3\bin\Debug\net8.0\ArrayOne3.dll
+C:\ReC#\ArrayOne3\ArrayOne3\bin\Debug\net8.0\ArrayOne3.pdb
+C:\ReC#\ArrayOne3\ArrayOne3\obj\Debug\net8.0\ArrayOne3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrayOne3\ArrayOne3\obj\Debug\net8.0\ArrayOne3.AssemblyInfoInputs.cache
+C:\ReC#\ArrayOne3\ArrayOne3\obj\Debug\net8.0\ArrayOne3.AssemblyInfo.cs
+C:\ReC#\ArrayOne3\ArrayOne3\obj\Debug\net8.0\ArrayOne3.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrayOne3\ArrayOne3\obj\Debug\net8.0\ArrayOne3.dll
+C:\ReC#\ArrayOne3\ArrayOne3\obj\Debug\net8.0\refint\ArrayOne3.dll
+C:\ReC#\ArrayOne3\ArrayOne3\obj\Debug\net8.0\ArrayOne3.pdb
+C:\ReC#\ArrayOne3\ArrayOne3\obj\Debug\net8.0\ArrayOne3.genruntimeconfig.cache
+C:\ReC#\ArrayOne3\ArrayOne3\obj\Debug\net8.0\ref\ArrayOne3.dll

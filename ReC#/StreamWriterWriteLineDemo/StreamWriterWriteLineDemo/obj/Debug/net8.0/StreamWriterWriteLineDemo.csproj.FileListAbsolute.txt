@@ -1,0 +1,14 @@
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\bin\Debug\net8.0\StreamWriterWriteLineDemo.exe
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\bin\Debug\net8.0\StreamWriterWriteLineDemo.deps.json
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\bin\Debug\net8.0\StreamWriterWriteLineDemo.runtimeconfig.json
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\bin\Debug\net8.0\StreamWriterWriteLineDemo.dll
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\bin\Debug\net8.0\StreamWriterWriteLineDemo.pdb
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\net8.0\StreamWriterWriteLineDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\net8.0\StreamWriterWriteLineDemo.AssemblyInfoInputs.cache
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\net8.0\StreamWriterWriteLineDemo.AssemblyInfo.cs
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\net8.0\StreamWriterWriteLineDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\net8.0\StreamWriterWriteLineDemo.dll
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\net8.0\refint\StreamWriterWriteLineDemo.dll
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\net8.0\StreamWriterWriteLineDemo.pdb
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\net8.0\StreamWriterWriteLineDemo.genruntimeconfig.cache
+C:\ReC#\StreamWriterWriteLineDemo\StreamWriterWriteLineDemo\obj\Debug\net8.0\ref\StreamWriterWriteLineDemo.dll

@@ -1,0 +1,14 @@
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\bin\Debug\net8.0\UsingStaticClassesDemo.exe
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\bin\Debug\net8.0\UsingStaticClassesDemo.deps.json
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\bin\Debug\net8.0\UsingStaticClassesDemo.runtimeconfig.json
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\bin\Debug\net8.0\UsingStaticClassesDemo.dll
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\bin\Debug\net8.0\UsingStaticClassesDemo.pdb
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\net8.0\UsingStaticClassesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\net8.0\UsingStaticClassesDemo.AssemblyInfoInputs.cache
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\net8.0\UsingStaticClassesDemo.AssemblyInfo.cs
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\net8.0\UsingStaticClassesDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\net8.0\UsingStaticClassesDemo.dll
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\net8.0\refint\UsingStaticClassesDemo.dll
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\net8.0\UsingStaticClassesDemo.pdb
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\net8.0\UsingStaticClassesDemo.genruntimeconfig.cache
+C:\ReC#\UsingStaticClassesDemo\UsingStaticClassesDemo\obj\Debug\net8.0\ref\UsingStaticClassesDemo.dll

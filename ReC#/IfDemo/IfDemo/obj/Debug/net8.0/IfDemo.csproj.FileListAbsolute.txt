@@ -1,0 +1,14 @@
+C:\ReC#\IfDemo\IfDemo\bin\Debug\net8.0\IfDemo.exe
+C:\ReC#\IfDemo\IfDemo\bin\Debug\net8.0\IfDemo.deps.json
+C:\ReC#\IfDemo\IfDemo\bin\Debug\net8.0\IfDemo.runtimeconfig.json
+C:\ReC#\IfDemo\IfDemo\bin\Debug\net8.0\IfDemo.dll
+C:\ReC#\IfDemo\IfDemo\bin\Debug\net8.0\IfDemo.pdb
+C:\ReC#\IfDemo\IfDemo\obj\Debug\net8.0\IfDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IfDemo\IfDemo\obj\Debug\net8.0\IfDemo.AssemblyInfoInputs.cache
+C:\ReC#\IfDemo\IfDemo\obj\Debug\net8.0\IfDemo.AssemblyInfo.cs
+C:\ReC#\IfDemo\IfDemo\obj\Debug\net8.0\IfDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\IfDemo\IfDemo\obj\Debug\net8.0\IfDemo.dll
+C:\ReC#\IfDemo\IfDemo\obj\Debug\net8.0\refint\IfDemo.dll
+C:\ReC#\IfDemo\IfDemo\obj\Debug\net8.0\IfDemo.pdb
+C:\ReC#\IfDemo\IfDemo\obj\Debug\net8.0\IfDemo.genruntimeconfig.cache
+C:\ReC#\IfDemo\IfDemo\obj\Debug\net8.0\ref\IfDemo.dll

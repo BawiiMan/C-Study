@@ -1,0 +1,14 @@
+C:\ReC#\ReturnValue\ReturnValue\bin\Debug\net8.0\ReturnValue.exe
+C:\ReC#\ReturnValue\ReturnValue\bin\Debug\net8.0\ReturnValue.deps.json
+C:\ReC#\ReturnValue\ReturnValue\bin\Debug\net8.0\ReturnValue.runtimeconfig.json
+C:\ReC#\ReturnValue\ReturnValue\bin\Debug\net8.0\ReturnValue.dll
+C:\ReC#\ReturnValue\ReturnValue\bin\Debug\net8.0\ReturnValue.pdb
+C:\ReC#\ReturnValue\ReturnValue\obj\Debug\net8.0\ReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ReturnValue\ReturnValue\obj\Debug\net8.0\ReturnValue.AssemblyInfoInputs.cache
+C:\ReC#\ReturnValue\ReturnValue\obj\Debug\net8.0\ReturnValue.AssemblyInfo.cs
+C:\ReC#\ReturnValue\ReturnValue\obj\Debug\net8.0\ReturnValue.csproj.CoreCompileInputs.cache
+C:\ReC#\ReturnValue\ReturnValue\obj\Debug\net8.0\ReturnValue.dll
+C:\ReC#\ReturnValue\ReturnValue\obj\Debug\net8.0\refint\ReturnValue.dll
+C:\ReC#\ReturnValue\ReturnValue\obj\Debug\net8.0\ReturnValue.pdb
+C:\ReC#\ReturnValue\ReturnValue\obj\Debug\net8.0\ReturnValue.genruntimeconfig.cache
+C:\ReC#\ReturnValue\ReturnValue\obj\Debug\net8.0\ref\ReturnValue.dll

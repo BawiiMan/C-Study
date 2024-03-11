@@ -1,0 +1,14 @@
+C:\ReC#\DelegatePractice\DelegatePractice\bin\Debug\net8.0\DelegatePractice.exe
+C:\ReC#\DelegatePractice\DelegatePractice\bin\Debug\net8.0\DelegatePractice.deps.json
+C:\ReC#\DelegatePractice\DelegatePractice\bin\Debug\net8.0\DelegatePractice.runtimeconfig.json
+C:\ReC#\DelegatePractice\DelegatePractice\bin\Debug\net8.0\DelegatePractice.dll
+C:\ReC#\DelegatePractice\DelegatePractice\bin\Debug\net8.0\DelegatePractice.pdb
+C:\ReC#\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.AssemblyInfoInputs.cache
+C:\ReC#\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.AssemblyInfo.cs
+C:\ReC#\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.csproj.CoreCompileInputs.cache
+C:\ReC#\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.dll
+C:\ReC#\DelegatePractice\DelegatePractice\obj\Debug\net8.0\refint\DelegatePractice.dll
+C:\ReC#\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.pdb
+C:\ReC#\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.genruntimeconfig.cache
+C:\ReC#\DelegatePractice\DelegatePractice\obj\Debug\net8.0\ref\DelegatePractice.dll

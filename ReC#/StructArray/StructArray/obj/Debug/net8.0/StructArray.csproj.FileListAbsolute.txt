@@ -1,0 +1,14 @@
+C:\ReC#\StructArray\StructArray\bin\Debug\net8.0\StructArray.exe
+C:\ReC#\StructArray\StructArray\bin\Debug\net8.0\StructArray.deps.json
+C:\ReC#\StructArray\StructArray\bin\Debug\net8.0\StructArray.runtimeconfig.json
+C:\ReC#\StructArray\StructArray\bin\Debug\net8.0\StructArray.dll
+C:\ReC#\StructArray\StructArray\bin\Debug\net8.0\StructArray.pdb
+C:\ReC#\StructArray\StructArray\obj\Debug\net8.0\StructArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\StructArray\StructArray\obj\Debug\net8.0\StructArray.AssemblyInfoInputs.cache
+C:\ReC#\StructArray\StructArray\obj\Debug\net8.0\StructArray.AssemblyInfo.cs
+C:\ReC#\StructArray\StructArray\obj\Debug\net8.0\StructArray.csproj.CoreCompileInputs.cache
+C:\ReC#\StructArray\StructArray\obj\Debug\net8.0\StructArray.dll
+C:\ReC#\StructArray\StructArray\obj\Debug\net8.0\refint\StructArray.dll
+C:\ReC#\StructArray\StructArray\obj\Debug\net8.0\StructArray.pdb
+C:\ReC#\StructArray\StructArray\obj\Debug\net8.0\StructArray.genruntimeconfig.cache
+C:\ReC#\StructArray\StructArray\obj\Debug\net8.0\ref\StructArray.dll

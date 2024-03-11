@@ -1,0 +1,14 @@
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\obj\Debug\net8.0\ObjectInitializerNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\obj\Debug\net8.0\ObjectInitializerNote.AssemblyInfoInputs.cache
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\obj\Debug\net8.0\ObjectInitializerNote.AssemblyInfo.cs
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\obj\Debug\net8.0\ObjectInitializerNote.csproj.CoreCompileInputs.cache
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\bin\Debug\net8.0\ObjectInitializerNote.exe
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\bin\Debug\net8.0\ObjectInitializerNote.deps.json
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\bin\Debug\net8.0\ObjectInitializerNote.runtimeconfig.json
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\bin\Debug\net8.0\ObjectInitializerNote.dll
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\bin\Debug\net8.0\ObjectInitializerNote.pdb
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\obj\Debug\net8.0\ObjectInitializerNote.dll
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\obj\Debug\net8.0\refint\ObjectInitializerNote.dll
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\obj\Debug\net8.0\ObjectInitializerNote.pdb
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\obj\Debug\net8.0\ObjectInitializerNote.genruntimeconfig.cache
+C:\ReC#\ObjectInitializerNote\ObjectInitializerNote\obj\Debug\net8.0\ref\ObjectInitializerNote.dll

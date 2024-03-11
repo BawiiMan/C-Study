@@ -1,0 +1,14 @@
+C:\ReC#\IntegerDemo\IntegerDemo\bin\Debug\net8.0\IntegerDemo.exe
+C:\ReC#\IntegerDemo\IntegerDemo\bin\Debug\net8.0\IntegerDemo.deps.json
+C:\ReC#\IntegerDemo\IntegerDemo\bin\Debug\net8.0\IntegerDemo.runtimeconfig.json
+C:\ReC#\IntegerDemo\IntegerDemo\bin\Debug\net8.0\IntegerDemo.dll
+C:\ReC#\IntegerDemo\IntegerDemo\bin\Debug\net8.0\IntegerDemo.pdb
+C:\ReC#\IntegerDemo\IntegerDemo\obj\Debug\net8.0\IntegerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IntegerDemo\IntegerDemo\obj\Debug\net8.0\IntegerDemo.AssemblyInfoInputs.cache
+C:\ReC#\IntegerDemo\IntegerDemo\obj\Debug\net8.0\IntegerDemo.AssemblyInfo.cs
+C:\ReC#\IntegerDemo\IntegerDemo\obj\Debug\net8.0\IntegerDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\IntegerDemo\IntegerDemo\obj\Debug\net8.0\IntegerDemo.dll
+C:\ReC#\IntegerDemo\IntegerDemo\obj\Debug\net8.0\refint\IntegerDemo.dll
+C:\ReC#\IntegerDemo\IntegerDemo\obj\Debug\net8.0\IntegerDemo.pdb
+C:\ReC#\IntegerDemo\IntegerDemo\obj\Debug\net8.0\IntegerDemo.genruntimeconfig.cache
+C:\ReC#\IntegerDemo\IntegerDemo\obj\Debug\net8.0\ref\IntegerDemo.dll

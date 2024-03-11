@@ -1,0 +1,14 @@
+C:\ReC#\LogicalOperator\LogicalOperator\bin\Debug\net8.0\LogicalOperator.exe
+C:\ReC#\LogicalOperator\LogicalOperator\bin\Debug\net8.0\LogicalOperator.deps.json
+C:\ReC#\LogicalOperator\LogicalOperator\bin\Debug\net8.0\LogicalOperator.runtimeconfig.json
+C:\ReC#\LogicalOperator\LogicalOperator\bin\Debug\net8.0\LogicalOperator.dll
+C:\ReC#\LogicalOperator\LogicalOperator\bin\Debug\net8.0\LogicalOperator.pdb
+C:\ReC#\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.AssemblyInfoInputs.cache
+C:\ReC#\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.AssemblyInfo.cs
+C:\ReC#\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\ReC#\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.dll
+C:\ReC#\LogicalOperator\LogicalOperator\obj\Debug\net8.0\refint\LogicalOperator.dll
+C:\ReC#\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.pdb
+C:\ReC#\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.genruntimeconfig.cache
+C:\ReC#\LogicalOperator\LogicalOperator\obj\Debug\net8.0\ref\LogicalOperator.dll

@@ -1,0 +1,14 @@
+C:\ReC#\ArrayThree\ArrayThree\bin\Debug\net8.0\ArrayThree.exe
+C:\ReC#\ArrayThree\ArrayThree\bin\Debug\net8.0\ArrayThree.deps.json
+C:\ReC#\ArrayThree\ArrayThree\bin\Debug\net8.0\ArrayThree.runtimeconfig.json
+C:\ReC#\ArrayThree\ArrayThree\bin\Debug\net8.0\ArrayThree.dll
+C:\ReC#\ArrayThree\ArrayThree\bin\Debug\net8.0\ArrayThree.pdb
+C:\ReC#\ArrayThree\ArrayThree\obj\Debug\net8.0\ArrayThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrayThree\ArrayThree\obj\Debug\net8.0\ArrayThree.AssemblyInfoInputs.cache
+C:\ReC#\ArrayThree\ArrayThree\obj\Debug\net8.0\ArrayThree.AssemblyInfo.cs
+C:\ReC#\ArrayThree\ArrayThree\obj\Debug\net8.0\ArrayThree.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrayThree\ArrayThree\obj\Debug\net8.0\ArrayThree.dll
+C:\ReC#\ArrayThree\ArrayThree\obj\Debug\net8.0\refint\ArrayThree.dll
+C:\ReC#\ArrayThree\ArrayThree\obj\Debug\net8.0\ArrayThree.pdb
+C:\ReC#\ArrayThree\ArrayThree\obj\Debug\net8.0\ArrayThree.genruntimeconfig.cache
+C:\ReC#\ArrayThree\ArrayThree\obj\Debug\net8.0\ref\ArrayThree.dll

@@ -1,0 +1,14 @@
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\bin\Debug\net8.0\InterfaceExplicit.exe
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\bin\Debug\net8.0\InterfaceExplicit.deps.json
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\bin\Debug\net8.0\InterfaceExplicit.runtimeconfig.json
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\bin\Debug\net8.0\InterfaceExplicit.dll
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\bin\Debug\net8.0\InterfaceExplicit.pdb
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\obj\Debug\net8.0\InterfaceExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\obj\Debug\net8.0\InterfaceExplicit.AssemblyInfoInputs.cache
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\obj\Debug\net8.0\InterfaceExplicit.AssemblyInfo.cs
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\obj\Debug\net8.0\InterfaceExplicit.csproj.CoreCompileInputs.cache
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\obj\Debug\net8.0\InterfaceExplicit.dll
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\obj\Debug\net8.0\refint\InterfaceExplicit.dll
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\obj\Debug\net8.0\InterfaceExplicit.pdb
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\obj\Debug\net8.0\InterfaceExplicit.genruntimeconfig.cache
+C:\ReC#\InterfaceExplicit\InterfaceExplicit\obj\Debug\net8.0\ref\InterfaceExplicit.dll

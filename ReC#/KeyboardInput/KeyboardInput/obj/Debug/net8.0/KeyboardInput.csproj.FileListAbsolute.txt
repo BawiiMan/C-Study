@@ -1,0 +1,14 @@
+C:\ReC#\KeyboardInput\KeyboardInput\bin\Debug\net8.0\KeyboardInput.exe
+C:\ReC#\KeyboardInput\KeyboardInput\bin\Debug\net8.0\KeyboardInput.deps.json
+C:\ReC#\KeyboardInput\KeyboardInput\bin\Debug\net8.0\KeyboardInput.runtimeconfig.json
+C:\ReC#\KeyboardInput\KeyboardInput\bin\Debug\net8.0\KeyboardInput.dll
+C:\ReC#\KeyboardInput\KeyboardInput\bin\Debug\net8.0\KeyboardInput.pdb
+C:\ReC#\KeyboardInput\KeyboardInput\obj\Debug\net8.0\KeyboardInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\KeyboardInput\KeyboardInput\obj\Debug\net8.0\KeyboardInput.AssemblyInfoInputs.cache
+C:\ReC#\KeyboardInput\KeyboardInput\obj\Debug\net8.0\KeyboardInput.AssemblyInfo.cs
+C:\ReC#\KeyboardInput\KeyboardInput\obj\Debug\net8.0\KeyboardInput.csproj.CoreCompileInputs.cache
+C:\ReC#\KeyboardInput\KeyboardInput\obj\Debug\net8.0\KeyboardInput.dll
+C:\ReC#\KeyboardInput\KeyboardInput\obj\Debug\net8.0\refint\KeyboardInput.dll
+C:\ReC#\KeyboardInput\KeyboardInput\obj\Debug\net8.0\KeyboardInput.pdb
+C:\ReC#\KeyboardInput\KeyboardInput\obj\Debug\net8.0\KeyboardInput.genruntimeconfig.cache
+C:\ReC#\KeyboardInput\KeyboardInput\obj\Debug\net8.0\ref\KeyboardInput.dll

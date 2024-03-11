@@ -1,0 +1,7 @@
+C:\ReC#\ConstructorMethodDestructor\ConstructorMethodDestructor\bin\Debug\ConstructorMethodDestructor.exe.config
+C:\ReC#\ConstructorMethodDestructor\ConstructorMethodDestructor\bin\Debug\ConstructorMethodDestructor.exe
+C:\ReC#\ConstructorMethodDestructor\ConstructorMethodDestructor\bin\Debug\ConstructorMethodDestructor.pdb
+C:\ReC#\ConstructorMethodDestructor\ConstructorMethodDestructor\obj\Debug\ConstructorMethodDestructor.csproj.AssemblyReference.cache
+C:\ReC#\ConstructorMethodDestructor\ConstructorMethodDestructor\obj\Debug\ConstructorMethodDestructor.csproj.CoreCompileInputs.cache
+C:\ReC#\ConstructorMethodDestructor\ConstructorMethodDestructor\obj\Debug\ConstructorMethodDestructor.exe
+C:\ReC#\ConstructorMethodDestructor\ConstructorMethodDestructor\obj\Debug\ConstructorMethodDestructor.pdb

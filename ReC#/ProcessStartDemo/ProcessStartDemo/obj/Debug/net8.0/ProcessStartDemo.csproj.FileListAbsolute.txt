@@ -1,0 +1,14 @@
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\bin\Debug\net8.0\ProcessStartDemo.exe
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\bin\Debug\net8.0\ProcessStartDemo.deps.json
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\bin\Debug\net8.0\ProcessStartDemo.runtimeconfig.json
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\bin\Debug\net8.0\ProcessStartDemo.dll
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\bin\Debug\net8.0\ProcessStartDemo.pdb
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\obj\Debug\net8.0\ProcessStartDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\obj\Debug\net8.0\ProcessStartDemo.AssemblyInfoInputs.cache
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\obj\Debug\net8.0\ProcessStartDemo.AssemblyInfo.cs
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\obj\Debug\net8.0\ProcessStartDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\obj\Debug\net8.0\ProcessStartDemo.dll
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\obj\Debug\net8.0\refint\ProcessStartDemo.dll
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\obj\Debug\net8.0\ProcessStartDemo.pdb
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\obj\Debug\net8.0\ProcessStartDemo.genruntimeconfig.cache
+C:\ReC#\ProcessStartDemo\ProcessStartDemo\obj\Debug\net8.0\ref\ProcessStartDemo.dll

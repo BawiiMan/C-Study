@@ -1,0 +1,14 @@
+C:\ReC#\SortAlgorithm\SortAlgorithm\obj\Debug\net8.0\SortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\SortAlgorithm\SortAlgorithm\obj\Debug\net8.0\SortAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\SortAlgorithm\SortAlgorithm\obj\Debug\net8.0\SortAlgorithm.AssemblyInfo.cs
+C:\ReC#\SortAlgorithm\SortAlgorithm\obj\Debug\net8.0\SortAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\SortAlgorithm\SortAlgorithm\bin\Debug\net8.0\SortAlgorithm.exe
+C:\ReC#\SortAlgorithm\SortAlgorithm\bin\Debug\net8.0\SortAlgorithm.deps.json
+C:\ReC#\SortAlgorithm\SortAlgorithm\bin\Debug\net8.0\SortAlgorithm.runtimeconfig.json
+C:\ReC#\SortAlgorithm\SortAlgorithm\bin\Debug\net8.0\SortAlgorithm.dll
+C:\ReC#\SortAlgorithm\SortAlgorithm\bin\Debug\net8.0\SortAlgorithm.pdb
+C:\ReC#\SortAlgorithm\SortAlgorithm\obj\Debug\net8.0\SortAlgorithm.dll
+C:\ReC#\SortAlgorithm\SortAlgorithm\obj\Debug\net8.0\refint\SortAlgorithm.dll
+C:\ReC#\SortAlgorithm\SortAlgorithm\obj\Debug\net8.0\SortAlgorithm.pdb
+C:\ReC#\SortAlgorithm\SortAlgorithm\obj\Debug\net8.0\SortAlgorithm.genruntimeconfig.cache
+C:\ReC#\SortAlgorithm\SortAlgorithm\obj\Debug\net8.0\ref\SortAlgorithm.dll

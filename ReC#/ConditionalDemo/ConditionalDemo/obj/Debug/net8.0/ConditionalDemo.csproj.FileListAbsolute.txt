@@ -1,0 +1,14 @@
+C:\ReC#\ConditionalDemo\ConditionalDemo\bin\Debug\net8.0\ConditionalDemo.exe
+C:\ReC#\ConditionalDemo\ConditionalDemo\bin\Debug\net8.0\ConditionalDemo.deps.json
+C:\ReC#\ConditionalDemo\ConditionalDemo\bin\Debug\net8.0\ConditionalDemo.runtimeconfig.json
+C:\ReC#\ConditionalDemo\ConditionalDemo\bin\Debug\net8.0\ConditionalDemo.dll
+C:\ReC#\ConditionalDemo\ConditionalDemo\bin\Debug\net8.0\ConditionalDemo.pdb
+C:\ReC#\ConditionalDemo\ConditionalDemo\obj\Debug\net8.0\ConditionalDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ConditionalDemo\ConditionalDemo\obj\Debug\net8.0\ConditionalDemo.AssemblyInfoInputs.cache
+C:\ReC#\ConditionalDemo\ConditionalDemo\obj\Debug\net8.0\ConditionalDemo.AssemblyInfo.cs
+C:\ReC#\ConditionalDemo\ConditionalDemo\obj\Debug\net8.0\ConditionalDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\ConditionalDemo\ConditionalDemo\obj\Debug\net8.0\ConditionalDemo.dll
+C:\ReC#\ConditionalDemo\ConditionalDemo\obj\Debug\net8.0\refint\ConditionalDemo.dll
+C:\ReC#\ConditionalDemo\ConditionalDemo\obj\Debug\net8.0\ConditionalDemo.pdb
+C:\ReC#\ConditionalDemo\ConditionalDemo\obj\Debug\net8.0\ConditionalDemo.genruntimeconfig.cache
+C:\ReC#\ConditionalDemo\ConditionalDemo\obj\Debug\net8.0\ref\ConditionalDemo.dll

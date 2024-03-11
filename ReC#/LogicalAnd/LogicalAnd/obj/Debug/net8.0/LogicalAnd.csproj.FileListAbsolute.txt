@@ -1,0 +1,14 @@
+C:\ReC#\LogicalAnd\LogicalAnd\bin\Debug\net8.0\LogicalAnd.exe
+C:\ReC#\LogicalAnd\LogicalAnd\bin\Debug\net8.0\LogicalAnd.deps.json
+C:\ReC#\LogicalAnd\LogicalAnd\bin\Debug\net8.0\LogicalAnd.runtimeconfig.json
+C:\ReC#\LogicalAnd\LogicalAnd\bin\Debug\net8.0\LogicalAnd.dll
+C:\ReC#\LogicalAnd\LogicalAnd\bin\Debug\net8.0\LogicalAnd.pdb
+C:\ReC#\LogicalAnd\LogicalAnd\obj\Debug\net8.0\LogicalAnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LogicalAnd\LogicalAnd\obj\Debug\net8.0\LogicalAnd.AssemblyInfoInputs.cache
+C:\ReC#\LogicalAnd\LogicalAnd\obj\Debug\net8.0\LogicalAnd.AssemblyInfo.cs
+C:\ReC#\LogicalAnd\LogicalAnd\obj\Debug\net8.0\LogicalAnd.csproj.CoreCompileInputs.cache
+C:\ReC#\LogicalAnd\LogicalAnd\obj\Debug\net8.0\LogicalAnd.dll
+C:\ReC#\LogicalAnd\LogicalAnd\obj\Debug\net8.0\refint\LogicalAnd.dll
+C:\ReC#\LogicalAnd\LogicalAnd\obj\Debug\net8.0\LogicalAnd.pdb
+C:\ReC#\LogicalAnd\LogicalAnd\obj\Debug\net8.0\LogicalAnd.genruntimeconfig.cache
+C:\ReC#\LogicalAnd\LogicalAnd\obj\Debug\net8.0\ref\LogicalAnd.dll

@@ -1,0 +1,14 @@
+C:\ReC#\PublicField\PublicField\bin\Debug\net8.0\PublicField.exe
+C:\ReC#\PublicField\PublicField\bin\Debug\net8.0\PublicField.deps.json
+C:\ReC#\PublicField\PublicField\bin\Debug\net8.0\PublicField.runtimeconfig.json
+C:\ReC#\PublicField\PublicField\bin\Debug\net8.0\PublicField.dll
+C:\ReC#\PublicField\PublicField\bin\Debug\net8.0\PublicField.pdb
+C:\ReC#\PublicField\PublicField\obj\Debug\net8.0\PublicField.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PublicField\PublicField\obj\Debug\net8.0\PublicField.AssemblyInfoInputs.cache
+C:\ReC#\PublicField\PublicField\obj\Debug\net8.0\PublicField.AssemblyInfo.cs
+C:\ReC#\PublicField\PublicField\obj\Debug\net8.0\PublicField.csproj.CoreCompileInputs.cache
+C:\ReC#\PublicField\PublicField\obj\Debug\net8.0\PublicField.dll
+C:\ReC#\PublicField\PublicField\obj\Debug\net8.0\refint\PublicField.dll
+C:\ReC#\PublicField\PublicField\obj\Debug\net8.0\PublicField.pdb
+C:\ReC#\PublicField\PublicField\obj\Debug\net8.0\PublicField.genruntimeconfig.cache
+C:\ReC#\PublicField\PublicField\obj\Debug\net8.0\ref\PublicField.dll

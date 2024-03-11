@@ -1,0 +1,14 @@
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\bin\Debug\net8.0\GreaterThanEqual.exe
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\bin\Debug\net8.0\GreaterThanEqual.deps.json
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\bin\Debug\net8.0\GreaterThanEqual.runtimeconfig.json
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\bin\Debug\net8.0\GreaterThanEqual.dll
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\bin\Debug\net8.0\GreaterThanEqual.pdb
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\obj\Debug\net8.0\GreaterThanEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\obj\Debug\net8.0\GreaterThanEqual.AssemblyInfoInputs.cache
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\obj\Debug\net8.0\GreaterThanEqual.AssemblyInfo.cs
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\obj\Debug\net8.0\GreaterThanEqual.csproj.CoreCompileInputs.cache
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\obj\Debug\net8.0\GreaterThanEqual.dll
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\obj\Debug\net8.0\refint\GreaterThanEqual.dll
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\obj\Debug\net8.0\GreaterThanEqual.pdb
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\obj\Debug\net8.0\GreaterThanEqual.genruntimeconfig.cache
+C:\ReC#\GreaterThanEqual\GreaterThanEqual\obj\Debug\net8.0\ref\GreaterThanEqual.dll

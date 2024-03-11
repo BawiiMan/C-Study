@@ -1,0 +1,14 @@
+C:\ReC#\OperatorRemainder\OperatorRemainder\bin\Debug\net8.0\OperatorRemainder.exe
+C:\ReC#\OperatorRemainder\OperatorRemainder\bin\Debug\net8.0\OperatorRemainder.deps.json
+C:\ReC#\OperatorRemainder\OperatorRemainder\bin\Debug\net8.0\OperatorRemainder.runtimeconfig.json
+C:\ReC#\OperatorRemainder\OperatorRemainder\bin\Debug\net8.0\OperatorRemainder.dll
+C:\ReC#\OperatorRemainder\OperatorRemainder\bin\Debug\net8.0\OperatorRemainder.pdb
+C:\ReC#\OperatorRemainder\OperatorRemainder\obj\Debug\net8.0\OperatorRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\OperatorRemainder\OperatorRemainder\obj\Debug\net8.0\OperatorRemainder.AssemblyInfoInputs.cache
+C:\ReC#\OperatorRemainder\OperatorRemainder\obj\Debug\net8.0\OperatorRemainder.AssemblyInfo.cs
+C:\ReC#\OperatorRemainder\OperatorRemainder\obj\Debug\net8.0\OperatorRemainder.csproj.CoreCompileInputs.cache
+C:\ReC#\OperatorRemainder\OperatorRemainder\obj\Debug\net8.0\OperatorRemainder.dll
+C:\ReC#\OperatorRemainder\OperatorRemainder\obj\Debug\net8.0\refint\OperatorRemainder.dll
+C:\ReC#\OperatorRemainder\OperatorRemainder\obj\Debug\net8.0\OperatorRemainder.pdb
+C:\ReC#\OperatorRemainder\OperatorRemainder\obj\Debug\net8.0\OperatorRemainder.genruntimeconfig.cache
+C:\ReC#\OperatorRemainder\OperatorRemainder\obj\Debug\net8.0\ref\OperatorRemainder.dll

@@ -1,0 +1,14 @@
+C:\ReC#\WhileDescription\WhileDescription\bin\Debug\net8.0\WhileDescription.exe
+C:\ReC#\WhileDescription\WhileDescription\bin\Debug\net8.0\WhileDescription.deps.json
+C:\ReC#\WhileDescription\WhileDescription\bin\Debug\net8.0\WhileDescription.runtimeconfig.json
+C:\ReC#\WhileDescription\WhileDescription\bin\Debug\net8.0\WhileDescription.dll
+C:\ReC#\WhileDescription\WhileDescription\bin\Debug\net8.0\WhileDescription.pdb
+C:\ReC#\WhileDescription\WhileDescription\obj\Debug\net8.0\WhileDescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\WhileDescription\WhileDescription\obj\Debug\net8.0\WhileDescription.AssemblyInfoInputs.cache
+C:\ReC#\WhileDescription\WhileDescription\obj\Debug\net8.0\WhileDescription.AssemblyInfo.cs
+C:\ReC#\WhileDescription\WhileDescription\obj\Debug\net8.0\WhileDescription.csproj.CoreCompileInputs.cache
+C:\ReC#\WhileDescription\WhileDescription\obj\Debug\net8.0\WhileDescription.dll
+C:\ReC#\WhileDescription\WhileDescription\obj\Debug\net8.0\refint\WhileDescription.dll
+C:\ReC#\WhileDescription\WhileDescription\obj\Debug\net8.0\WhileDescription.pdb
+C:\ReC#\WhileDescription\WhileDescription\obj\Debug\net8.0\WhileDescription.genruntimeconfig.cache
+C:\ReC#\WhileDescription\WhileDescription\obj\Debug\net8.0\ref\WhileDescription.dll

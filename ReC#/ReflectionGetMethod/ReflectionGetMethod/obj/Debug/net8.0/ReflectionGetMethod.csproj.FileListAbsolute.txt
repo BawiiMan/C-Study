@@ -1,0 +1,14 @@
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\bin\Debug\net8.0\ReflectionGetMethod.exe
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\bin\Debug\net8.0\ReflectionGetMethod.deps.json
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\bin\Debug\net8.0\ReflectionGetMethod.runtimeconfig.json
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\bin\Debug\net8.0\ReflectionGetMethod.dll
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\bin\Debug\net8.0\ReflectionGetMethod.pdb
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\obj\Debug\net8.0\ReflectionGetMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\obj\Debug\net8.0\ReflectionGetMethod.AssemblyInfoInputs.cache
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\obj\Debug\net8.0\ReflectionGetMethod.AssemblyInfo.cs
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\obj\Debug\net8.0\ReflectionGetMethod.csproj.CoreCompileInputs.cache
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\obj\Debug\net8.0\ReflectionGetMethod.dll
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\obj\Debug\net8.0\refint\ReflectionGetMethod.dll
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\obj\Debug\net8.0\ReflectionGetMethod.pdb
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\obj\Debug\net8.0\ReflectionGetMethod.genruntimeconfig.cache
+C:\ReC#\ReflectionGetMethod\ReflectionGetMethod\obj\Debug\net8.0\ref\ReflectionGetMethod.dll

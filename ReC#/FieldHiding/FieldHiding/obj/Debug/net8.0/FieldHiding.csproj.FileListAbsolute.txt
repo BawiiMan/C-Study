@@ -1,0 +1,14 @@
+C:\ReC#\FieldHiding\FieldHiding\bin\Debug\net8.0\FieldHiding.exe
+C:\ReC#\FieldHiding\FieldHiding\bin\Debug\net8.0\FieldHiding.deps.json
+C:\ReC#\FieldHiding\FieldHiding\bin\Debug\net8.0\FieldHiding.runtimeconfig.json
+C:\ReC#\FieldHiding\FieldHiding\bin\Debug\net8.0\FieldHiding.dll
+C:\ReC#\FieldHiding\FieldHiding\bin\Debug\net8.0\FieldHiding.pdb
+C:\ReC#\FieldHiding\FieldHiding\obj\Debug\net8.0\FieldHiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FieldHiding\FieldHiding\obj\Debug\net8.0\FieldHiding.AssemblyInfoInputs.cache
+C:\ReC#\FieldHiding\FieldHiding\obj\Debug\net8.0\FieldHiding.AssemblyInfo.cs
+C:\ReC#\FieldHiding\FieldHiding\obj\Debug\net8.0\FieldHiding.csproj.CoreCompileInputs.cache
+C:\ReC#\FieldHiding\FieldHiding\obj\Debug\net8.0\FieldHiding.dll
+C:\ReC#\FieldHiding\FieldHiding\obj\Debug\net8.0\refint\FieldHiding.dll
+C:\ReC#\FieldHiding\FieldHiding\obj\Debug\net8.0\FieldHiding.pdb
+C:\ReC#\FieldHiding\FieldHiding\obj\Debug\net8.0\FieldHiding.genruntimeconfig.cache
+C:\ReC#\FieldHiding\FieldHiding\obj\Debug\net8.0\ref\FieldHiding.dll

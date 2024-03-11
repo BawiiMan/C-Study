@@ -1,0 +1,14 @@
+C:\ReC#\FunctionDemo\FunctionDemo\bin\Debug\net8.0\FunctionDemo.exe
+C:\ReC#\FunctionDemo\FunctionDemo\bin\Debug\net8.0\FunctionDemo.deps.json
+C:\ReC#\FunctionDemo\FunctionDemo\bin\Debug\net8.0\FunctionDemo.runtimeconfig.json
+C:\ReC#\FunctionDemo\FunctionDemo\bin\Debug\net8.0\FunctionDemo.dll
+C:\ReC#\FunctionDemo\FunctionDemo\bin\Debug\net8.0\FunctionDemo.pdb
+C:\ReC#\FunctionDemo\FunctionDemo\obj\Debug\net8.0\FunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FunctionDemo\FunctionDemo\obj\Debug\net8.0\FunctionDemo.AssemblyInfoInputs.cache
+C:\ReC#\FunctionDemo\FunctionDemo\obj\Debug\net8.0\FunctionDemo.AssemblyInfo.cs
+C:\ReC#\FunctionDemo\FunctionDemo\obj\Debug\net8.0\FunctionDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\FunctionDemo\FunctionDemo\obj\Debug\net8.0\FunctionDemo.dll
+C:\ReC#\FunctionDemo\FunctionDemo\obj\Debug\net8.0\refint\FunctionDemo.dll
+C:\ReC#\FunctionDemo\FunctionDemo\obj\Debug\net8.0\FunctionDemo.pdb
+C:\ReC#\FunctionDemo\FunctionDemo\obj\Debug\net8.0\FunctionDemo.genruntimeconfig.cache
+C:\ReC#\FunctionDemo\FunctionDemo\obj\Debug\net8.0\ref\FunctionDemo.dll

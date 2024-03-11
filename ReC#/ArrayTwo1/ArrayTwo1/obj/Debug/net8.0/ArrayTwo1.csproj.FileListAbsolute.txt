@@ -1,0 +1,14 @@
+C:\ReC#\ArrayTwo1\ArrayTwo1\bin\Debug\net8.0\ArrayTwo1.exe
+C:\ReC#\ArrayTwo1\ArrayTwo1\bin\Debug\net8.0\ArrayTwo1.deps.json
+C:\ReC#\ArrayTwo1\ArrayTwo1\bin\Debug\net8.0\ArrayTwo1.runtimeconfig.json
+C:\ReC#\ArrayTwo1\ArrayTwo1\bin\Debug\net8.0\ArrayTwo1.dll
+C:\ReC#\ArrayTwo1\ArrayTwo1\bin\Debug\net8.0\ArrayTwo1.pdb
+C:\ReC#\ArrayTwo1\ArrayTwo1\obj\Debug\net8.0\ArrayTwo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrayTwo1\ArrayTwo1\obj\Debug\net8.0\ArrayTwo1.AssemblyInfoInputs.cache
+C:\ReC#\ArrayTwo1\ArrayTwo1\obj\Debug\net8.0\ArrayTwo1.AssemblyInfo.cs
+C:\ReC#\ArrayTwo1\ArrayTwo1\obj\Debug\net8.0\ArrayTwo1.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrayTwo1\ArrayTwo1\obj\Debug\net8.0\ArrayTwo1.dll
+C:\ReC#\ArrayTwo1\ArrayTwo1\obj\Debug\net8.0\refint\ArrayTwo1.dll
+C:\ReC#\ArrayTwo1\ArrayTwo1\obj\Debug\net8.0\ArrayTwo1.pdb
+C:\ReC#\ArrayTwo1\ArrayTwo1\obj\Debug\net8.0\ArrayTwo1.genruntimeconfig.cache
+C:\ReC#\ArrayTwo1\ArrayTwo1\obj\Debug\net8.0\ref\ArrayTwo1.dll

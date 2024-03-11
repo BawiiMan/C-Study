@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArrayTwoFor/1.0.0": {
+        "runtime": {
+          "ArrayTwoFor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayTwoFor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

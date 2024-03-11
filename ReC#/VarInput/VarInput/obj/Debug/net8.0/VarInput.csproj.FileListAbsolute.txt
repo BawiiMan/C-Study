@@ -1,0 +1,14 @@
+C:\ReC#\VarInput\VarInput\bin\Debug\net8.0\VarInput.exe
+C:\ReC#\VarInput\VarInput\bin\Debug\net8.0\VarInput.deps.json
+C:\ReC#\VarInput\VarInput\bin\Debug\net8.0\VarInput.runtimeconfig.json
+C:\ReC#\VarInput\VarInput\bin\Debug\net8.0\VarInput.dll
+C:\ReC#\VarInput\VarInput\bin\Debug\net8.0\VarInput.pdb
+C:\ReC#\VarInput\VarInput\obj\Debug\net8.0\VarInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\VarInput\VarInput\obj\Debug\net8.0\VarInput.AssemblyInfoInputs.cache
+C:\ReC#\VarInput\VarInput\obj\Debug\net8.0\VarInput.AssemblyInfo.cs
+C:\ReC#\VarInput\VarInput\obj\Debug\net8.0\VarInput.csproj.CoreCompileInputs.cache
+C:\ReC#\VarInput\VarInput\obj\Debug\net8.0\VarInput.dll
+C:\ReC#\VarInput\VarInput\obj\Debug\net8.0\refint\VarInput.dll
+C:\ReC#\VarInput\VarInput\obj\Debug\net8.0\VarInput.pdb
+C:\ReC#\VarInput\VarInput\obj\Debug\net8.0\VarInput.genruntimeconfig.cache
+C:\ReC#\VarInput\VarInput\obj\Debug\net8.0\ref\VarInput.dll

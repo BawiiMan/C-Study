@@ -1,0 +1,14 @@
+C:\ReC#\HttpClientDemo\HttpClientDemo\bin\Debug\net8.0\HttpClientDemo.exe
+C:\ReC#\HttpClientDemo\HttpClientDemo\bin\Debug\net8.0\HttpClientDemo.deps.json
+C:\ReC#\HttpClientDemo\HttpClientDemo\bin\Debug\net8.0\HttpClientDemo.runtimeconfig.json
+C:\ReC#\HttpClientDemo\HttpClientDemo\bin\Debug\net8.0\HttpClientDemo.dll
+C:\ReC#\HttpClientDemo\HttpClientDemo\bin\Debug\net8.0\HttpClientDemo.pdb
+C:\ReC#\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\HttpClientDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\HttpClientDemo.AssemblyInfoInputs.cache
+C:\ReC#\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\HttpClientDemo.AssemblyInfo.cs
+C:\ReC#\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\HttpClientDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\HttpClientDemo.dll
+C:\ReC#\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\refint\HttpClientDemo.dll
+C:\ReC#\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\HttpClientDemo.pdb
+C:\ReC#\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\HttpClientDemo.genruntimeconfig.cache
+C:\ReC#\HttpClientDemo\HttpClientDemo\obj\Debug\net8.0\ref\HttpClientDemo.dll

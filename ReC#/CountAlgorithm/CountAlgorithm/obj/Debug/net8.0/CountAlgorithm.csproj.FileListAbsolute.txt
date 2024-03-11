@@ -1,0 +1,14 @@
+C:\ReC#\CountAlgorithm\CountAlgorithm\bin\Debug\net8.0\CountAlgorithm.exe
+C:\ReC#\CountAlgorithm\CountAlgorithm\bin\Debug\net8.0\CountAlgorithm.deps.json
+C:\ReC#\CountAlgorithm\CountAlgorithm\bin\Debug\net8.0\CountAlgorithm.runtimeconfig.json
+C:\ReC#\CountAlgorithm\CountAlgorithm\bin\Debug\net8.0\CountAlgorithm.dll
+C:\ReC#\CountAlgorithm\CountAlgorithm\bin\Debug\net8.0\CountAlgorithm.pdb
+C:\ReC#\CountAlgorithm\CountAlgorithm\obj\Debug\net8.0\CountAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\CountAlgorithm\CountAlgorithm\obj\Debug\net8.0\CountAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\CountAlgorithm\CountAlgorithm\obj\Debug\net8.0\CountAlgorithm.AssemblyInfo.cs
+C:\ReC#\CountAlgorithm\CountAlgorithm\obj\Debug\net8.0\CountAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\CountAlgorithm\CountAlgorithm\obj\Debug\net8.0\CountAlgorithm.dll
+C:\ReC#\CountAlgorithm\CountAlgorithm\obj\Debug\net8.0\refint\CountAlgorithm.dll
+C:\ReC#\CountAlgorithm\CountAlgorithm\obj\Debug\net8.0\CountAlgorithm.pdb
+C:\ReC#\CountAlgorithm\CountAlgorithm\obj\Debug\net8.0\CountAlgorithm.genruntimeconfig.cache
+C:\ReC#\CountAlgorithm\CountAlgorithm\obj\Debug\net8.0\ref\CountAlgorithm.dll

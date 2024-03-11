@@ -1,0 +1,14 @@
+C:\ReC#\IfNot\IfNot\bin\Debug\net8.0\IfNot.exe
+C:\ReC#\IfNot\IfNot\bin\Debug\net8.0\IfNot.deps.json
+C:\ReC#\IfNot\IfNot\bin\Debug\net8.0\IfNot.runtimeconfig.json
+C:\ReC#\IfNot\IfNot\bin\Debug\net8.0\IfNot.dll
+C:\ReC#\IfNot\IfNot\bin\Debug\net8.0\IfNot.pdb
+C:\ReC#\IfNot\IfNot\obj\Debug\net8.0\IfNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IfNot\IfNot\obj\Debug\net8.0\IfNot.AssemblyInfoInputs.cache
+C:\ReC#\IfNot\IfNot\obj\Debug\net8.0\IfNot.AssemblyInfo.cs
+C:\ReC#\IfNot\IfNot\obj\Debug\net8.0\IfNot.csproj.CoreCompileInputs.cache
+C:\ReC#\IfNot\IfNot\obj\Debug\net8.0\IfNot.dll
+C:\ReC#\IfNot\IfNot\obj\Debug\net8.0\refint\IfNot.dll
+C:\ReC#\IfNot\IfNot\obj\Debug\net8.0\IfNot.pdb
+C:\ReC#\IfNot\IfNot\obj\Debug\net8.0\IfNot.genruntimeconfig.cache
+C:\ReC#\IfNot\IfNot\obj\Debug\net8.0\ref\IfNot.dll

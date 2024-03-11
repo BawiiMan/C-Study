@@ -1,0 +1,14 @@
+C:\ReC#\ForEach\ForEach\bin\Debug\net8.0\ForEach.exe
+C:\ReC#\ForEach\ForEach\bin\Debug\net8.0\ForEach.deps.json
+C:\ReC#\ForEach\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+C:\ReC#\ForEach\ForEach\bin\Debug\net8.0\ForEach.dll
+C:\ReC#\ForEach\ForEach\bin\Debug\net8.0\ForEach.pdb
+C:\ReC#\ForEach\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ForEach\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+C:\ReC#\ForEach\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+C:\ReC#\ForEach\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+C:\ReC#\ForEach\ForEach\obj\Debug\net8.0\ForEach.dll
+C:\ReC#\ForEach\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+C:\ReC#\ForEach\ForEach\obj\Debug\net8.0\ForEach.pdb
+C:\ReC#\ForEach\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+C:\ReC#\ForEach\ForEach\obj\Debug\net8.0\ref\ForEach.dll

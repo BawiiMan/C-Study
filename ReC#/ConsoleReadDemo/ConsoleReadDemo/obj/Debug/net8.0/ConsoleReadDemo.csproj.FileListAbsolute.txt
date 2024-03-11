@@ -1,0 +1,14 @@
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\bin\Debug\net8.0\ConsoleReadDemo.exe
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\bin\Debug\net8.0\ConsoleReadDemo.deps.json
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\bin\Debug\net8.0\ConsoleReadDemo.runtimeconfig.json
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\bin\Debug\net8.0\ConsoleReadDemo.dll
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\bin\Debug\net8.0\ConsoleReadDemo.pdb
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\obj\Debug\net8.0\ConsoleReadDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\obj\Debug\net8.0\ConsoleReadDemo.AssemblyInfoInputs.cache
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\obj\Debug\net8.0\ConsoleReadDemo.AssemblyInfo.cs
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\obj\Debug\net8.0\ConsoleReadDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\obj\Debug\net8.0\ConsoleReadDemo.dll
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\obj\Debug\net8.0\refint\ConsoleReadDemo.dll
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\obj\Debug\net8.0\ConsoleReadDemo.pdb
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\obj\Debug\net8.0\ConsoleReadDemo.genruntimeconfig.cache
+C:\ReC#\ConsoleReadDemo\ConsoleReadDemo\obj\Debug\net8.0\ref\ConsoleReadDemo.dll

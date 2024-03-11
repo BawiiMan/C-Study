@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DullApp/1.0.0": {
+        "dependencies": {
+          "Dul": "1.0.0"
+        },
+        "runtime": {
+          "DullApp.dll": {}
+        }
+      },
+      "Dul/1.0.0": {
+        "runtime": {
+          "Dul.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DullApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dul/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

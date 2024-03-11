@@ -1,0 +1,14 @@
+C:\ReC#\DefaultParameter\DefaultParameter\bin\Debug\net8.0\DefaultParameter.exe
+C:\ReC#\DefaultParameter\DefaultParameter\bin\Debug\net8.0\DefaultParameter.deps.json
+C:\ReC#\DefaultParameter\DefaultParameter\bin\Debug\net8.0\DefaultParameter.runtimeconfig.json
+C:\ReC#\DefaultParameter\DefaultParameter\bin\Debug\net8.0\DefaultParameter.dll
+C:\ReC#\DefaultParameter\DefaultParameter\bin\Debug\net8.0\DefaultParameter.pdb
+C:\ReC#\DefaultParameter\DefaultParameter\obj\Debug\net8.0\DefaultParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DefaultParameter\DefaultParameter\obj\Debug\net8.0\DefaultParameter.AssemblyInfoInputs.cache
+C:\ReC#\DefaultParameter\DefaultParameter\obj\Debug\net8.0\DefaultParameter.AssemblyInfo.cs
+C:\ReC#\DefaultParameter\DefaultParameter\obj\Debug\net8.0\DefaultParameter.csproj.CoreCompileInputs.cache
+C:\ReC#\DefaultParameter\DefaultParameter\obj\Debug\net8.0\DefaultParameter.dll
+C:\ReC#\DefaultParameter\DefaultParameter\obj\Debug\net8.0\refint\DefaultParameter.dll
+C:\ReC#\DefaultParameter\DefaultParameter\obj\Debug\net8.0\DefaultParameter.pdb
+C:\ReC#\DefaultParameter\DefaultParameter\obj\Debug\net8.0\DefaultParameter.genruntimeconfig.cache
+C:\ReC#\DefaultParameter\DefaultParameter\obj\Debug\net8.0\ref\DefaultParameter.dll

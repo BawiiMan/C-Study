@@ -1,0 +1,14 @@
+C:\ReC#\ArrayStudents\ArrayStudents\bin\Debug\net8.0\ArrayStudents.exe
+C:\ReC#\ArrayStudents\ArrayStudents\bin\Debug\net8.0\ArrayStudents.deps.json
+C:\ReC#\ArrayStudents\ArrayStudents\bin\Debug\net8.0\ArrayStudents.runtimeconfig.json
+C:\ReC#\ArrayStudents\ArrayStudents\bin\Debug\net8.0\ArrayStudents.dll
+C:\ReC#\ArrayStudents\ArrayStudents\bin\Debug\net8.0\ArrayStudents.pdb
+C:\ReC#\ArrayStudents\ArrayStudents\obj\Debug\net8.0\ArrayStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrayStudents\ArrayStudents\obj\Debug\net8.0\ArrayStudents.AssemblyInfoInputs.cache
+C:\ReC#\ArrayStudents\ArrayStudents\obj\Debug\net8.0\ArrayStudents.AssemblyInfo.cs
+C:\ReC#\ArrayStudents\ArrayStudents\obj\Debug\net8.0\ArrayStudents.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrayStudents\ArrayStudents\obj\Debug\net8.0\ArrayStudents.dll
+C:\ReC#\ArrayStudents\ArrayStudents\obj\Debug\net8.0\refint\ArrayStudents.dll
+C:\ReC#\ArrayStudents\ArrayStudents\obj\Debug\net8.0\ArrayStudents.pdb
+C:\ReC#\ArrayStudents\ArrayStudents\obj\Debug\net8.0\ArrayStudents.genruntimeconfig.cache
+C:\ReC#\ArrayStudents\ArrayStudents\obj\Debug\net8.0\ref\ArrayStudents.dll

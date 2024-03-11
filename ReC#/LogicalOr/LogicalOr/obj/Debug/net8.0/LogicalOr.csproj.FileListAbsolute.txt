@@ -1,0 +1,14 @@
+C:\ReC#\LogicalOr\LogicalOr\bin\Debug\net8.0\LogicalOr.exe
+C:\ReC#\LogicalOr\LogicalOr\bin\Debug\net8.0\LogicalOr.deps.json
+C:\ReC#\LogicalOr\LogicalOr\bin\Debug\net8.0\LogicalOr.runtimeconfig.json
+C:\ReC#\LogicalOr\LogicalOr\bin\Debug\net8.0\LogicalOr.dll
+C:\ReC#\LogicalOr\LogicalOr\bin\Debug\net8.0\LogicalOr.pdb
+C:\ReC#\LogicalOr\LogicalOr\obj\Debug\net8.0\LogicalOr.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LogicalOr\LogicalOr\obj\Debug\net8.0\LogicalOr.AssemblyInfoInputs.cache
+C:\ReC#\LogicalOr\LogicalOr\obj\Debug\net8.0\LogicalOr.AssemblyInfo.cs
+C:\ReC#\LogicalOr\LogicalOr\obj\Debug\net8.0\LogicalOr.csproj.CoreCompileInputs.cache
+C:\ReC#\LogicalOr\LogicalOr\obj\Debug\net8.0\LogicalOr.dll
+C:\ReC#\LogicalOr\LogicalOr\obj\Debug\net8.0\refint\LogicalOr.dll
+C:\ReC#\LogicalOr\LogicalOr\obj\Debug\net8.0\LogicalOr.pdb
+C:\ReC#\LogicalOr\LogicalOr\obj\Debug\net8.0\LogicalOr.genruntimeconfig.cache
+C:\ReC#\LogicalOr\LogicalOr\obj\Debug\net8.0\ref\LogicalOr.dll

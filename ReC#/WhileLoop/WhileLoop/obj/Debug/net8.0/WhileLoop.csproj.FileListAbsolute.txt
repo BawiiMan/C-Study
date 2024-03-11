@@ -1,0 +1,14 @@
+C:\ReC#\WhileLoop\WhileLoop\bin\Debug\net8.0\WhileLoop.exe
+C:\ReC#\WhileLoop\WhileLoop\bin\Debug\net8.0\WhileLoop.deps.json
+C:\ReC#\WhileLoop\WhileLoop\bin\Debug\net8.0\WhileLoop.runtimeconfig.json
+C:\ReC#\WhileLoop\WhileLoop\bin\Debug\net8.0\WhileLoop.dll
+C:\ReC#\WhileLoop\WhileLoop\bin\Debug\net8.0\WhileLoop.pdb
+C:\ReC#\WhileLoop\WhileLoop\obj\Debug\net8.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\WhileLoop\WhileLoop\obj\Debug\net8.0\WhileLoop.AssemblyInfoInputs.cache
+C:\ReC#\WhileLoop\WhileLoop\obj\Debug\net8.0\WhileLoop.AssemblyInfo.cs
+C:\ReC#\WhileLoop\WhileLoop\obj\Debug\net8.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\ReC#\WhileLoop\WhileLoop\obj\Debug\net8.0\WhileLoop.dll
+C:\ReC#\WhileLoop\WhileLoop\obj\Debug\net8.0\refint\WhileLoop.dll
+C:\ReC#\WhileLoop\WhileLoop\obj\Debug\net8.0\WhileLoop.pdb
+C:\ReC#\WhileLoop\WhileLoop\obj\Debug\net8.0\WhileLoop.genruntimeconfig.cache
+C:\ReC#\WhileLoop\WhileLoop\obj\Debug\net8.0\ref\WhileLoop.dll

@@ -1,0 +1,14 @@
+C:\ReC#\ToStringMethod\ToStringMethod\bin\Debug\net8.0\ToStringMethod.exe
+C:\ReC#\ToStringMethod\ToStringMethod\bin\Debug\net8.0\ToStringMethod.deps.json
+C:\ReC#\ToStringMethod\ToStringMethod\bin\Debug\net8.0\ToStringMethod.runtimeconfig.json
+C:\ReC#\ToStringMethod\ToStringMethod\bin\Debug\net8.0\ToStringMethod.dll
+C:\ReC#\ToStringMethod\ToStringMethod\bin\Debug\net8.0\ToStringMethod.pdb
+C:\ReC#\ToStringMethod\ToStringMethod\obj\Debug\net8.0\ToStringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ToStringMethod\ToStringMethod\obj\Debug\net8.0\ToStringMethod.AssemblyInfoInputs.cache
+C:\ReC#\ToStringMethod\ToStringMethod\obj\Debug\net8.0\ToStringMethod.AssemblyInfo.cs
+C:\ReC#\ToStringMethod\ToStringMethod\obj\Debug\net8.0\ToStringMethod.csproj.CoreCompileInputs.cache
+C:\ReC#\ToStringMethod\ToStringMethod\obj\Debug\net8.0\ToStringMethod.dll
+C:\ReC#\ToStringMethod\ToStringMethod\obj\Debug\net8.0\refint\ToStringMethod.dll
+C:\ReC#\ToStringMethod\ToStringMethod\obj\Debug\net8.0\ToStringMethod.pdb
+C:\ReC#\ToStringMethod\ToStringMethod\obj\Debug\net8.0\ToStringMethod.genruntimeconfig.cache
+C:\ReC#\ToStringMethod\ToStringMethod\obj\Debug\net8.0\ref\ToStringMethod.dll

@@ -1,0 +1,14 @@
+C:\ReC#\RandomClassDemo\RandomClassDemo\bin\Debug\net8.0\RandomClassDemo.exe
+C:\ReC#\RandomClassDemo\RandomClassDemo\bin\Debug\net8.0\RandomClassDemo.deps.json
+C:\ReC#\RandomClassDemo\RandomClassDemo\bin\Debug\net8.0\RandomClassDemo.runtimeconfig.json
+C:\ReC#\RandomClassDemo\RandomClassDemo\bin\Debug\net8.0\RandomClassDemo.dll
+C:\ReC#\RandomClassDemo\RandomClassDemo\bin\Debug\net8.0\RandomClassDemo.pdb
+C:\ReC#\RandomClassDemo\RandomClassDemo\obj\Debug\net8.0\RandomClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\RandomClassDemo\RandomClassDemo\obj\Debug\net8.0\RandomClassDemo.AssemblyInfoInputs.cache
+C:\ReC#\RandomClassDemo\RandomClassDemo\obj\Debug\net8.0\RandomClassDemo.AssemblyInfo.cs
+C:\ReC#\RandomClassDemo\RandomClassDemo\obj\Debug\net8.0\RandomClassDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\RandomClassDemo\RandomClassDemo\obj\Debug\net8.0\RandomClassDemo.dll
+C:\ReC#\RandomClassDemo\RandomClassDemo\obj\Debug\net8.0\refint\RandomClassDemo.dll
+C:\ReC#\RandomClassDemo\RandomClassDemo\obj\Debug\net8.0\RandomClassDemo.pdb
+C:\ReC#\RandomClassDemo\RandomClassDemo\obj\Debug\net8.0\RandomClassDemo.genruntimeconfig.cache
+C:\ReC#\RandomClassDemo\RandomClassDemo\obj\Debug\net8.0\ref\RandomClassDemo.dll

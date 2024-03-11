@@ -1,0 +1,14 @@
+C:\ReC#\InterfacePractice\InterfacePractice\bin\Debug\net8.0\InterfacePractice.exe
+C:\ReC#\InterfacePractice\InterfacePractice\bin\Debug\net8.0\InterfacePractice.deps.json
+C:\ReC#\InterfacePractice\InterfacePractice\bin\Debug\net8.0\InterfacePractice.runtimeconfig.json
+C:\ReC#\InterfacePractice\InterfacePractice\bin\Debug\net8.0\InterfacePractice.dll
+C:\ReC#\InterfacePractice\InterfacePractice\bin\Debug\net8.0\InterfacePractice.pdb
+C:\ReC#\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.AssemblyInfoInputs.cache
+C:\ReC#\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.AssemblyInfo.cs
+C:\ReC#\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\ReC#\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.dll
+C:\ReC#\InterfacePractice\InterfacePractice\obj\Debug\net8.0\refint\InterfacePractice.dll
+C:\ReC#\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.pdb
+C:\ReC#\InterfacePractice\InterfacePractice\obj\Debug\net8.0\InterfacePractice.genruntimeconfig.cache
+C:\ReC#\InterfacePractice\InterfacePractice\obj\Debug\net8.0\ref\InterfacePractice.dll

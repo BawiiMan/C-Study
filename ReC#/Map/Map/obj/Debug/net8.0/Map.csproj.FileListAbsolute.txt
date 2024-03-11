@@ -1,0 +1,14 @@
+C:\ReC#\Map\Map\bin\Debug\net8.0\Map.exe
+C:\ReC#\Map\Map\bin\Debug\net8.0\Map.deps.json
+C:\ReC#\Map\Map\bin\Debug\net8.0\Map.runtimeconfig.json
+C:\ReC#\Map\Map\bin\Debug\net8.0\Map.dll
+C:\ReC#\Map\Map\bin\Debug\net8.0\Map.pdb
+C:\ReC#\Map\Map\obj\Debug\net8.0\Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\Map\Map\obj\Debug\net8.0\Map.AssemblyInfoInputs.cache
+C:\ReC#\Map\Map\obj\Debug\net8.0\Map.AssemblyInfo.cs
+C:\ReC#\Map\Map\obj\Debug\net8.0\Map.csproj.CoreCompileInputs.cache
+C:\ReC#\Map\Map\obj\Debug\net8.0\Map.dll
+C:\ReC#\Map\Map\obj\Debug\net8.0\refint\Map.dll
+C:\ReC#\Map\Map\obj\Debug\net8.0\Map.pdb
+C:\ReC#\Map\Map\obj\Debug\net8.0\Map.genruntimeconfig.cache
+C:\ReC#\Map\Map\obj\Debug\net8.0\ref\Map.dll

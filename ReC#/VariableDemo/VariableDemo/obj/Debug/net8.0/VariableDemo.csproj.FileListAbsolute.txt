@@ -1,0 +1,14 @@
+C:\ReC#\VariableDemo\VariableDemo\bin\Debug\net8.0\VariableDemo.exe
+C:\ReC#\VariableDemo\VariableDemo\bin\Debug\net8.0\VariableDemo.deps.json
+C:\ReC#\VariableDemo\VariableDemo\bin\Debug\net8.0\VariableDemo.runtimeconfig.json
+C:\ReC#\VariableDemo\VariableDemo\bin\Debug\net8.0\VariableDemo.dll
+C:\ReC#\VariableDemo\VariableDemo\bin\Debug\net8.0\VariableDemo.pdb
+C:\ReC#\VariableDemo\VariableDemo\obj\Debug\net8.0\VariableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\VariableDemo\VariableDemo\obj\Debug\net8.0\VariableDemo.AssemblyInfoInputs.cache
+C:\ReC#\VariableDemo\VariableDemo\obj\Debug\net8.0\VariableDemo.AssemblyInfo.cs
+C:\ReC#\VariableDemo\VariableDemo\obj\Debug\net8.0\VariableDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\VariableDemo\VariableDemo\obj\Debug\net8.0\VariableDemo.dll
+C:\ReC#\VariableDemo\VariableDemo\obj\Debug\net8.0\refint\VariableDemo.dll
+C:\ReC#\VariableDemo\VariableDemo\obj\Debug\net8.0\VariableDemo.pdb
+C:\ReC#\VariableDemo\VariableDemo\obj\Debug\net8.0\VariableDemo.genruntimeconfig.cache
+C:\ReC#\VariableDemo\VariableDemo\obj\Debug\net8.0\ref\VariableDemo.dll

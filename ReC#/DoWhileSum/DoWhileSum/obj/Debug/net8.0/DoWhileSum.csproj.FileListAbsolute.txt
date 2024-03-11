@@ -1,0 +1,14 @@
+C:\ReC#\DoWhileSum\DoWhileSum\bin\Debug\net8.0\DoWhileSum.exe
+C:\ReC#\DoWhileSum\DoWhileSum\bin\Debug\net8.0\DoWhileSum.deps.json
+C:\ReC#\DoWhileSum\DoWhileSum\bin\Debug\net8.0\DoWhileSum.runtimeconfig.json
+C:\ReC#\DoWhileSum\DoWhileSum\bin\Debug\net8.0\DoWhileSum.dll
+C:\ReC#\DoWhileSum\DoWhileSum\bin\Debug\net8.0\DoWhileSum.pdb
+C:\ReC#\DoWhileSum\DoWhileSum\obj\Debug\net8.0\DoWhileSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DoWhileSum\DoWhileSum\obj\Debug\net8.0\DoWhileSum.AssemblyInfoInputs.cache
+C:\ReC#\DoWhileSum\DoWhileSum\obj\Debug\net8.0\DoWhileSum.AssemblyInfo.cs
+C:\ReC#\DoWhileSum\DoWhileSum\obj\Debug\net8.0\DoWhileSum.csproj.CoreCompileInputs.cache
+C:\ReC#\DoWhileSum\DoWhileSum\obj\Debug\net8.0\DoWhileSum.dll
+C:\ReC#\DoWhileSum\DoWhileSum\obj\Debug\net8.0\refint\DoWhileSum.dll
+C:\ReC#\DoWhileSum\DoWhileSum\obj\Debug\net8.0\DoWhileSum.pdb
+C:\ReC#\DoWhileSum\DoWhileSum\obj\Debug\net8.0\DoWhileSum.genruntimeconfig.cache
+C:\ReC#\DoWhileSum\DoWhileSum\obj\Debug\net8.0\ref\DoWhileSum.dll

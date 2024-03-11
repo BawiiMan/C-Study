@@ -1,0 +1,14 @@
+C:\ReC#\FunctionScope\FunctionScope\bin\Debug\net8.0\FunctionScope.exe
+C:\ReC#\FunctionScope\FunctionScope\bin\Debug\net8.0\FunctionScope.deps.json
+C:\ReC#\FunctionScope\FunctionScope\bin\Debug\net8.0\FunctionScope.runtimeconfig.json
+C:\ReC#\FunctionScope\FunctionScope\bin\Debug\net8.0\FunctionScope.dll
+C:\ReC#\FunctionScope\FunctionScope\bin\Debug\net8.0\FunctionScope.pdb
+C:\ReC#\FunctionScope\FunctionScope\obj\Debug\net8.0\FunctionScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FunctionScope\FunctionScope\obj\Debug\net8.0\FunctionScope.AssemblyInfoInputs.cache
+C:\ReC#\FunctionScope\FunctionScope\obj\Debug\net8.0\FunctionScope.AssemblyInfo.cs
+C:\ReC#\FunctionScope\FunctionScope\obj\Debug\net8.0\FunctionScope.csproj.CoreCompileInputs.cache
+C:\ReC#\FunctionScope\FunctionScope\obj\Debug\net8.0\FunctionScope.dll
+C:\ReC#\FunctionScope\FunctionScope\obj\Debug\net8.0\refint\FunctionScope.dll
+C:\ReC#\FunctionScope\FunctionScope\obj\Debug\net8.0\FunctionScope.pdb
+C:\ReC#\FunctionScope\FunctionScope\obj\Debug\net8.0\FunctionScope.genruntimeconfig.cache
+C:\ReC#\FunctionScope\FunctionScope\obj\Debug\net8.0\ref\FunctionScope.dll

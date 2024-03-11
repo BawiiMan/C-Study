@@ -1,0 +1,14 @@
+C:\ReC#\InterfaceNote\InterfaceNote\bin\Debug\net8.0\InterfaceNote.exe
+C:\ReC#\InterfaceNote\InterfaceNote\bin\Debug\net8.0\InterfaceNote.deps.json
+C:\ReC#\InterfaceNote\InterfaceNote\bin\Debug\net8.0\InterfaceNote.runtimeconfig.json
+C:\ReC#\InterfaceNote\InterfaceNote\bin\Debug\net8.0\InterfaceNote.dll
+C:\ReC#\InterfaceNote\InterfaceNote\bin\Debug\net8.0\InterfaceNote.pdb
+C:\ReC#\InterfaceNote\InterfaceNote\obj\Debug\net8.0\InterfaceNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\InterfaceNote\InterfaceNote\obj\Debug\net8.0\InterfaceNote.AssemblyInfoInputs.cache
+C:\ReC#\InterfaceNote\InterfaceNote\obj\Debug\net8.0\InterfaceNote.AssemblyInfo.cs
+C:\ReC#\InterfaceNote\InterfaceNote\obj\Debug\net8.0\InterfaceNote.csproj.CoreCompileInputs.cache
+C:\ReC#\InterfaceNote\InterfaceNote\obj\Debug\net8.0\InterfaceNote.dll
+C:\ReC#\InterfaceNote\InterfaceNote\obj\Debug\net8.0\refint\InterfaceNote.dll
+C:\ReC#\InterfaceNote\InterfaceNote\obj\Debug\net8.0\InterfaceNote.pdb
+C:\ReC#\InterfaceNote\InterfaceNote\obj\Debug\net8.0\InterfaceNote.genruntimeconfig.cache
+C:\ReC#\InterfaceNote\InterfaceNote\obj\Debug\net8.0\ref\InterfaceNote.dll

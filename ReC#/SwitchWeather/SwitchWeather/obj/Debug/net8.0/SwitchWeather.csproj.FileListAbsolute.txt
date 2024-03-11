@@ -1,0 +1,14 @@
+C:\ReC#\SwitchWeather\SwitchWeather\bin\Debug\net8.0\SwitchWeather.exe
+C:\ReC#\SwitchWeather\SwitchWeather\bin\Debug\net8.0\SwitchWeather.deps.json
+C:\ReC#\SwitchWeather\SwitchWeather\bin\Debug\net8.0\SwitchWeather.runtimeconfig.json
+C:\ReC#\SwitchWeather\SwitchWeather\bin\Debug\net8.0\SwitchWeather.dll
+C:\ReC#\SwitchWeather\SwitchWeather\bin\Debug\net8.0\SwitchWeather.pdb
+C:\ReC#\SwitchWeather\SwitchWeather\obj\Debug\net8.0\SwitchWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\SwitchWeather\SwitchWeather\obj\Debug\net8.0\SwitchWeather.AssemblyInfoInputs.cache
+C:\ReC#\SwitchWeather\SwitchWeather\obj\Debug\net8.0\SwitchWeather.AssemblyInfo.cs
+C:\ReC#\SwitchWeather\SwitchWeather\obj\Debug\net8.0\SwitchWeather.csproj.CoreCompileInputs.cache
+C:\ReC#\SwitchWeather\SwitchWeather\obj\Debug\net8.0\SwitchWeather.dll
+C:\ReC#\SwitchWeather\SwitchWeather\obj\Debug\net8.0\refint\SwitchWeather.dll
+C:\ReC#\SwitchWeather\SwitchWeather\obj\Debug\net8.0\SwitchWeather.pdb
+C:\ReC#\SwitchWeather\SwitchWeather\obj\Debug\net8.0\SwitchWeather.genruntimeconfig.cache
+C:\ReC#\SwitchWeather\SwitchWeather\obj\Debug\net8.0\ref\SwitchWeather.dll

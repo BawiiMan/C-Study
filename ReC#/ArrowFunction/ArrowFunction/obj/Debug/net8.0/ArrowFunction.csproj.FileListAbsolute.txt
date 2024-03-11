@@ -1,0 +1,14 @@
+C:\ReC#\ArrowFunction\ArrowFunction\bin\Debug\net8.0\ArrowFunction.exe
+C:\ReC#\ArrowFunction\ArrowFunction\bin\Debug\net8.0\ArrowFunction.deps.json
+C:\ReC#\ArrowFunction\ArrowFunction\bin\Debug\net8.0\ArrowFunction.runtimeconfig.json
+C:\ReC#\ArrowFunction\ArrowFunction\bin\Debug\net8.0\ArrowFunction.dll
+C:\ReC#\ArrowFunction\ArrowFunction\bin\Debug\net8.0\ArrowFunction.pdb
+C:\ReC#\ArrowFunction\ArrowFunction\obj\Debug\net8.0\ArrowFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrowFunction\ArrowFunction\obj\Debug\net8.0\ArrowFunction.AssemblyInfoInputs.cache
+C:\ReC#\ArrowFunction\ArrowFunction\obj\Debug\net8.0\ArrowFunction.AssemblyInfo.cs
+C:\ReC#\ArrowFunction\ArrowFunction\obj\Debug\net8.0\ArrowFunction.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrowFunction\ArrowFunction\obj\Debug\net8.0\ArrowFunction.dll
+C:\ReC#\ArrowFunction\ArrowFunction\obj\Debug\net8.0\refint\ArrowFunction.dll
+C:\ReC#\ArrowFunction\ArrowFunction\obj\Debug\net8.0\ArrowFunction.pdb
+C:\ReC#\ArrowFunction\ArrowFunction\obj\Debug\net8.0\ArrowFunction.genruntimeconfig.cache
+C:\ReC#\ArrowFunction\ArrowFunction\obj\Debug\net8.0\ref\ArrowFunction.dll

@@ -1,0 +1,14 @@
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.exe
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.deps.json
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.runtimeconfig.json
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.dll
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.pdb
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.AssemblyInfoInputs.cache
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.AssemblyInfo.cs
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.dll
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\refint\PolymorphismDemo.dll
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.pdb
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.genruntimeconfig.cache
+C:\ReC#\PolymorphismDemo\PolymorphismDemo\obj\Debug\net8.0\ref\PolymorphismDemo.dll

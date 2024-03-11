@@ -1,0 +1,14 @@
+C:\ReC#\IsAn\IsAn\bin\Debug\net8.0\IsAn.exe
+C:\ReC#\IsAn\IsAn\bin\Debug\net8.0\IsAn.deps.json
+C:\ReC#\IsAn\IsAn\bin\Debug\net8.0\IsAn.runtimeconfig.json
+C:\ReC#\IsAn\IsAn\bin\Debug\net8.0\IsAn.dll
+C:\ReC#\IsAn\IsAn\bin\Debug\net8.0\IsAn.pdb
+C:\ReC#\IsAn\IsAn\obj\Debug\net8.0\IsAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IsAn\IsAn\obj\Debug\net8.0\IsAn.AssemblyInfoInputs.cache
+C:\ReC#\IsAn\IsAn\obj\Debug\net8.0\IsAn.AssemblyInfo.cs
+C:\ReC#\IsAn\IsAn\obj\Debug\net8.0\IsAn.csproj.CoreCompileInputs.cache
+C:\ReC#\IsAn\IsAn\obj\Debug\net8.0\IsAn.dll
+C:\ReC#\IsAn\IsAn\obj\Debug\net8.0\refint\IsAn.dll
+C:\ReC#\IsAn\IsAn\obj\Debug\net8.0\IsAn.pdb
+C:\ReC#\IsAn\IsAn\obj\Debug\net8.0\IsAn.genruntimeconfig.cache
+C:\ReC#\IsAn\IsAn\obj\Debug\net8.0\ref\IsAn.dll

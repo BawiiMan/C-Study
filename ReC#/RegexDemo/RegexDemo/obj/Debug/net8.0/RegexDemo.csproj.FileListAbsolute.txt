@@ -1,0 +1,14 @@
+C:\ReC#\RegexDemo\RegexDemo\bin\Debug\net8.0\RegexDemo.exe
+C:\ReC#\RegexDemo\RegexDemo\bin\Debug\net8.0\RegexDemo.deps.json
+C:\ReC#\RegexDemo\RegexDemo\bin\Debug\net8.0\RegexDemo.runtimeconfig.json
+C:\ReC#\RegexDemo\RegexDemo\bin\Debug\net8.0\RegexDemo.dll
+C:\ReC#\RegexDemo\RegexDemo\bin\Debug\net8.0\RegexDemo.pdb
+C:\ReC#\RegexDemo\RegexDemo\obj\Debug\net8.0\RegexDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\RegexDemo\RegexDemo\obj\Debug\net8.0\RegexDemo.AssemblyInfoInputs.cache
+C:\ReC#\RegexDemo\RegexDemo\obj\Debug\net8.0\RegexDemo.AssemblyInfo.cs
+C:\ReC#\RegexDemo\RegexDemo\obj\Debug\net8.0\RegexDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\RegexDemo\RegexDemo\obj\Debug\net8.0\RegexDemo.dll
+C:\ReC#\RegexDemo\RegexDemo\obj\Debug\net8.0\refint\RegexDemo.dll
+C:\ReC#\RegexDemo\RegexDemo\obj\Debug\net8.0\RegexDemo.pdb
+C:\ReC#\RegexDemo\RegexDemo\obj\Debug\net8.0\RegexDemo.genruntimeconfig.cache
+C:\ReC#\RegexDemo\RegexDemo\obj\Debug\net8.0\ref\RegexDemo.dll

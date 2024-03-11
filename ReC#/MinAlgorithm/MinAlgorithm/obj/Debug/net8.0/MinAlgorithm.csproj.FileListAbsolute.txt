@@ -1,0 +1,14 @@
+C:\ReC#\MinAlgorithm\MinAlgorithm\bin\Debug\net8.0\MinAlgorithm.exe
+C:\ReC#\MinAlgorithm\MinAlgorithm\bin\Debug\net8.0\MinAlgorithm.deps.json
+C:\ReC#\MinAlgorithm\MinAlgorithm\bin\Debug\net8.0\MinAlgorithm.runtimeconfig.json
+C:\ReC#\MinAlgorithm\MinAlgorithm\bin\Debug\net8.0\MinAlgorithm.dll
+C:\ReC#\MinAlgorithm\MinAlgorithm\bin\Debug\net8.0\MinAlgorithm.pdb
+C:\ReC#\MinAlgorithm\MinAlgorithm\obj\Debug\net8.0\MinAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\MinAlgorithm\MinAlgorithm\obj\Debug\net8.0\MinAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\MinAlgorithm\MinAlgorithm\obj\Debug\net8.0\MinAlgorithm.AssemblyInfo.cs
+C:\ReC#\MinAlgorithm\MinAlgorithm\obj\Debug\net8.0\MinAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\MinAlgorithm\MinAlgorithm\obj\Debug\net8.0\MinAlgorithm.dll
+C:\ReC#\MinAlgorithm\MinAlgorithm\obj\Debug\net8.0\refint\MinAlgorithm.dll
+C:\ReC#\MinAlgorithm\MinAlgorithm\obj\Debug\net8.0\MinAlgorithm.pdb
+C:\ReC#\MinAlgorithm\MinAlgorithm\obj\Debug\net8.0\MinAlgorithm.genruntimeconfig.cache
+C:\ReC#\MinAlgorithm\MinAlgorithm\obj\Debug\net8.0\ref\MinAlgorithm.dll

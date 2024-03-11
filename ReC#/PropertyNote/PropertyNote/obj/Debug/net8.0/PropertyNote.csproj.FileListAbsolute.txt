@@ -1,0 +1,14 @@
+C:\ReC#\PropertyNote\PropertyNote\bin\Debug\net8.0\PropertyNote.exe
+C:\ReC#\PropertyNote\PropertyNote\bin\Debug\net8.0\PropertyNote.deps.json
+C:\ReC#\PropertyNote\PropertyNote\bin\Debug\net8.0\PropertyNote.runtimeconfig.json
+C:\ReC#\PropertyNote\PropertyNote\bin\Debug\net8.0\PropertyNote.dll
+C:\ReC#\PropertyNote\PropertyNote\bin\Debug\net8.0\PropertyNote.pdb
+C:\ReC#\PropertyNote\PropertyNote\obj\Debug\net8.0\PropertyNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PropertyNote\PropertyNote\obj\Debug\net8.0\PropertyNote.AssemblyInfoInputs.cache
+C:\ReC#\PropertyNote\PropertyNote\obj\Debug\net8.0\PropertyNote.AssemblyInfo.cs
+C:\ReC#\PropertyNote\PropertyNote\obj\Debug\net8.0\PropertyNote.csproj.CoreCompileInputs.cache
+C:\ReC#\PropertyNote\PropertyNote\obj\Debug\net8.0\PropertyNote.dll
+C:\ReC#\PropertyNote\PropertyNote\obj\Debug\net8.0\refint\PropertyNote.dll
+C:\ReC#\PropertyNote\PropertyNote\obj\Debug\net8.0\PropertyNote.pdb
+C:\ReC#\PropertyNote\PropertyNote\obj\Debug\net8.0\PropertyNote.genruntimeconfig.cache
+C:\ReC#\PropertyNote\PropertyNote\obj\Debug\net8.0\ref\PropertyNote.dll

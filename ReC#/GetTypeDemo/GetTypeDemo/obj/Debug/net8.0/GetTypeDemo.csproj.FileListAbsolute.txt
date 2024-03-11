@@ -1,0 +1,14 @@
+C:\ReC#\GetTypeDemo\GetTypeDemo\bin\Debug\net8.0\GetTypeDemo.exe
+C:\ReC#\GetTypeDemo\GetTypeDemo\bin\Debug\net8.0\GetTypeDemo.deps.json
+C:\ReC#\GetTypeDemo\GetTypeDemo\bin\Debug\net8.0\GetTypeDemo.runtimeconfig.json
+C:\ReC#\GetTypeDemo\GetTypeDemo\bin\Debug\net8.0\GetTypeDemo.dll
+C:\ReC#\GetTypeDemo\GetTypeDemo\bin\Debug\net8.0\GetTypeDemo.pdb
+C:\ReC#\GetTypeDemo\GetTypeDemo\obj\Debug\net8.0\GetTypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\GetTypeDemo\GetTypeDemo\obj\Debug\net8.0\GetTypeDemo.AssemblyInfoInputs.cache
+C:\ReC#\GetTypeDemo\GetTypeDemo\obj\Debug\net8.0\GetTypeDemo.AssemblyInfo.cs
+C:\ReC#\GetTypeDemo\GetTypeDemo\obj\Debug\net8.0\GetTypeDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\GetTypeDemo\GetTypeDemo\obj\Debug\net8.0\GetTypeDemo.dll
+C:\ReC#\GetTypeDemo\GetTypeDemo\obj\Debug\net8.0\refint\GetTypeDemo.dll
+C:\ReC#\GetTypeDemo\GetTypeDemo\obj\Debug\net8.0\GetTypeDemo.pdb
+C:\ReC#\GetTypeDemo\GetTypeDemo\obj\Debug\net8.0\GetTypeDemo.genruntimeconfig.cache
+C:\ReC#\GetTypeDemo\GetTypeDemo\obj\Debug\net8.0\ref\GetTypeDemo.dll

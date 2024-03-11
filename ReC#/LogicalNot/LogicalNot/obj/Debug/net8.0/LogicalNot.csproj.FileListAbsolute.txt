@@ -1,0 +1,14 @@
+C:\ReC#\LogicalNot\LogicalNot\bin\Debug\net8.0\LogicalNot.exe
+C:\ReC#\LogicalNot\LogicalNot\bin\Debug\net8.0\LogicalNot.deps.json
+C:\ReC#\LogicalNot\LogicalNot\bin\Debug\net8.0\LogicalNot.runtimeconfig.json
+C:\ReC#\LogicalNot\LogicalNot\bin\Debug\net8.0\LogicalNot.dll
+C:\ReC#\LogicalNot\LogicalNot\bin\Debug\net8.0\LogicalNot.pdb
+C:\ReC#\LogicalNot\LogicalNot\obj\Debug\net8.0\LogicalNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LogicalNot\LogicalNot\obj\Debug\net8.0\LogicalNot.AssemblyInfoInputs.cache
+C:\ReC#\LogicalNot\LogicalNot\obj\Debug\net8.0\LogicalNot.AssemblyInfo.cs
+C:\ReC#\LogicalNot\LogicalNot\obj\Debug\net8.0\LogicalNot.csproj.CoreCompileInputs.cache
+C:\ReC#\LogicalNot\LogicalNot\obj\Debug\net8.0\LogicalNot.dll
+C:\ReC#\LogicalNot\LogicalNot\obj\Debug\net8.0\refint\LogicalNot.dll
+C:\ReC#\LogicalNot\LogicalNot\obj\Debug\net8.0\LogicalNot.pdb
+C:\ReC#\LogicalNot\LogicalNot\obj\Debug\net8.0\LogicalNot.genruntimeconfig.cache
+C:\ReC#\LogicalNot\LogicalNot\obj\Debug\net8.0\ref\LogicalNot.dll

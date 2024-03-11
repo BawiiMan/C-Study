@@ -1,0 +1,14 @@
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\bin\Debug\net8.0\DictionaryGenhericClassDemo.exe
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\bin\Debug\net8.0\DictionaryGenhericClassDemo.deps.json
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\bin\Debug\net8.0\DictionaryGenhericClassDemo.runtimeconfig.json
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\bin\Debug\net8.0\DictionaryGenhericClassDemo.dll
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\bin\Debug\net8.0\DictionaryGenhericClassDemo.pdb
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\obj\Debug\net8.0\DictionaryGenhericClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\obj\Debug\net8.0\DictionaryGenhericClassDemo.AssemblyInfoInputs.cache
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\obj\Debug\net8.0\DictionaryGenhericClassDemo.AssemblyInfo.cs
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\obj\Debug\net8.0\DictionaryGenhericClassDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\obj\Debug\net8.0\DictionaryGenhericClassDemo.dll
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\obj\Debug\net8.0\refint\DictionaryGenhericClassDemo.dll
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\obj\Debug\net8.0\DictionaryGenhericClassDemo.pdb
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\obj\Debug\net8.0\DictionaryGenhericClassDemo.genruntimeconfig.cache
+C:\ReC#\DictionaryGenhericClassDemo\DictionaryGenhericClassDemo\obj\Debug\net8.0\ref\DictionaryGenhericClassDemo.dll

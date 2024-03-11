@@ -1,0 +1,11 @@
+C:\ReC#\InMemoryDatebase\ClassLibrary1\bin\Debug\net8.0\Dul.Data.deps.json
+C:\ReC#\InMemoryDatebase\ClassLibrary1\bin\Debug\net8.0\Dul.Data.dll
+C:\ReC#\InMemoryDatebase\ClassLibrary1\bin\Debug\net8.0\Dul.Data.pdb
+C:\ReC#\InMemoryDatebase\ClassLibrary1\obj\Debug\net8.0\Dul.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\InMemoryDatebase\ClassLibrary1\obj\Debug\net8.0\Dul.Data.AssemblyInfoInputs.cache
+C:\ReC#\InMemoryDatebase\ClassLibrary1\obj\Debug\net8.0\Dul.Data.AssemblyInfo.cs
+C:\ReC#\InMemoryDatebase\ClassLibrary1\obj\Debug\net8.0\Dul.Data.csproj.CoreCompileInputs.cache
+C:\ReC#\InMemoryDatebase\ClassLibrary1\obj\Debug\net8.0\Dul.Data.dll
+C:\ReC#\InMemoryDatebase\ClassLibrary1\obj\Debug\net8.0\refint\Dul.Data.dll
+C:\ReC#\InMemoryDatebase\ClassLibrary1\obj\Debug\net8.0\Dul.Data.pdb
+C:\ReC#\InMemoryDatebase\ClassLibrary1\obj\Debug\net8.0\ref\Dul.Data.dll

@@ -1,0 +1,14 @@
+C:\ReC#\StringPerformance\StringPerformance\bin\Debug\net8.0\StringPerformance.exe
+C:\ReC#\StringPerformance\StringPerformance\bin\Debug\net8.0\StringPerformance.deps.json
+C:\ReC#\StringPerformance\StringPerformance\bin\Debug\net8.0\StringPerformance.runtimeconfig.json
+C:\ReC#\StringPerformance\StringPerformance\bin\Debug\net8.0\StringPerformance.dll
+C:\ReC#\StringPerformance\StringPerformance\bin\Debug\net8.0\StringPerformance.pdb
+C:\ReC#\StringPerformance\StringPerformance\obj\Debug\net8.0\StringPerformance.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\StringPerformance\StringPerformance\obj\Debug\net8.0\StringPerformance.AssemblyInfoInputs.cache
+C:\ReC#\StringPerformance\StringPerformance\obj\Debug\net8.0\StringPerformance.AssemblyInfo.cs
+C:\ReC#\StringPerformance\StringPerformance\obj\Debug\net8.0\StringPerformance.csproj.CoreCompileInputs.cache
+C:\ReC#\StringPerformance\StringPerformance\obj\Debug\net8.0\StringPerformance.dll
+C:\ReC#\StringPerformance\StringPerformance\obj\Debug\net8.0\refint\StringPerformance.dll
+C:\ReC#\StringPerformance\StringPerformance\obj\Debug\net8.0\StringPerformance.pdb
+C:\ReC#\StringPerformance\StringPerformance\obj\Debug\net8.0\StringPerformance.genruntimeconfig.cache
+C:\ReC#\StringPerformance\StringPerformance\obj\Debug\net8.0\ref\StringPerformance.dll

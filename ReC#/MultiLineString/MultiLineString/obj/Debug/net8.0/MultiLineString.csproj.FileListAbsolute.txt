@@ -1,0 +1,14 @@
+C:\ReC#\MultiLineString\MultiLineString\bin\Debug\net8.0\MultiLineString.exe
+C:\ReC#\MultiLineString\MultiLineString\bin\Debug\net8.0\MultiLineString.deps.json
+C:\ReC#\MultiLineString\MultiLineString\bin\Debug\net8.0\MultiLineString.runtimeconfig.json
+C:\ReC#\MultiLineString\MultiLineString\bin\Debug\net8.0\MultiLineString.dll
+C:\ReC#\MultiLineString\MultiLineString\bin\Debug\net8.0\MultiLineString.pdb
+C:\ReC#\MultiLineString\MultiLineString\obj\Debug\net8.0\MultiLineString.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\MultiLineString\MultiLineString\obj\Debug\net8.0\MultiLineString.AssemblyInfoInputs.cache
+C:\ReC#\MultiLineString\MultiLineString\obj\Debug\net8.0\MultiLineString.AssemblyInfo.cs
+C:\ReC#\MultiLineString\MultiLineString\obj\Debug\net8.0\MultiLineString.csproj.CoreCompileInputs.cache
+C:\ReC#\MultiLineString\MultiLineString\obj\Debug\net8.0\MultiLineString.dll
+C:\ReC#\MultiLineString\MultiLineString\obj\Debug\net8.0\refint\MultiLineString.dll
+C:\ReC#\MultiLineString\MultiLineString\obj\Debug\net8.0\MultiLineString.pdb
+C:\ReC#\MultiLineString\MultiLineString\obj\Debug\net8.0\MultiLineString.genruntimeconfig.cache
+C:\ReC#\MultiLineString\MultiLineString\obj\Debug\net8.0\ref\MultiLineString.dll

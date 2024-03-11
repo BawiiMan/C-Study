@@ -1,0 +1,14 @@
+C:\ReC#\PartialClassDemo\PartialClassDemo\bin\Debug\net8.0\PartialClassDemo.exe
+C:\ReC#\PartialClassDemo\PartialClassDemo\bin\Debug\net8.0\PartialClassDemo.deps.json
+C:\ReC#\PartialClassDemo\PartialClassDemo\bin\Debug\net8.0\PartialClassDemo.runtimeconfig.json
+C:\ReC#\PartialClassDemo\PartialClassDemo\bin\Debug\net8.0\PartialClassDemo.dll
+C:\ReC#\PartialClassDemo\PartialClassDemo\bin\Debug\net8.0\PartialClassDemo.pdb
+C:\ReC#\PartialClassDemo\PartialClassDemo\obj\Debug\net8.0\PartialClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PartialClassDemo\PartialClassDemo\obj\Debug\net8.0\PartialClassDemo.AssemblyInfoInputs.cache
+C:\ReC#\PartialClassDemo\PartialClassDemo\obj\Debug\net8.0\PartialClassDemo.AssemblyInfo.cs
+C:\ReC#\PartialClassDemo\PartialClassDemo\obj\Debug\net8.0\PartialClassDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\PartialClassDemo\PartialClassDemo\obj\Debug\net8.0\PartialClassDemo.dll
+C:\ReC#\PartialClassDemo\PartialClassDemo\obj\Debug\net8.0\refint\PartialClassDemo.dll
+C:\ReC#\PartialClassDemo\PartialClassDemo\obj\Debug\net8.0\PartialClassDemo.pdb
+C:\ReC#\PartialClassDemo\PartialClassDemo\obj\Debug\net8.0\PartialClassDemo.genruntimeconfig.cache
+C:\ReC#\PartialClassDemo\PartialClassDemo\obj\Debug\net8.0\ref\PartialClassDemo.dll

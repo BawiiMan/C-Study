@@ -1,0 +1,14 @@
+C:\ReC#\FromWhereSelect\FromWhereSelect\bin\Debug\net8.0\FromWhereSelect.exe
+C:\ReC#\FromWhereSelect\FromWhereSelect\bin\Debug\net8.0\FromWhereSelect.deps.json
+C:\ReC#\FromWhereSelect\FromWhereSelect\bin\Debug\net8.0\FromWhereSelect.runtimeconfig.json
+C:\ReC#\FromWhereSelect\FromWhereSelect\bin\Debug\net8.0\FromWhereSelect.dll
+C:\ReC#\FromWhereSelect\FromWhereSelect\bin\Debug\net8.0\FromWhereSelect.pdb
+C:\ReC#\FromWhereSelect\FromWhereSelect\obj\Debug\net8.0\FromWhereSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FromWhereSelect\FromWhereSelect\obj\Debug\net8.0\FromWhereSelect.AssemblyInfoInputs.cache
+C:\ReC#\FromWhereSelect\FromWhereSelect\obj\Debug\net8.0\FromWhereSelect.AssemblyInfo.cs
+C:\ReC#\FromWhereSelect\FromWhereSelect\obj\Debug\net8.0\FromWhereSelect.csproj.CoreCompileInputs.cache
+C:\ReC#\FromWhereSelect\FromWhereSelect\obj\Debug\net8.0\FromWhereSelect.dll
+C:\ReC#\FromWhereSelect\FromWhereSelect\obj\Debug\net8.0\refint\FromWhereSelect.dll
+C:\ReC#\FromWhereSelect\FromWhereSelect\obj\Debug\net8.0\FromWhereSelect.pdb
+C:\ReC#\FromWhereSelect\FromWhereSelect\obj\Debug\net8.0\FromWhereSelect.genruntimeconfig.cache
+C:\ReC#\FromWhereSelect\FromWhereSelect\obj\Debug\net8.0\ref\FromWhereSelect.dll

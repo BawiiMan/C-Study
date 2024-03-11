@@ -1,0 +1,14 @@
+C:\ReC#\VariableScope\VariableScope\bin\Debug\net8.0\VariableScope.exe
+C:\ReC#\VariableScope\VariableScope\bin\Debug\net8.0\VariableScope.deps.json
+C:\ReC#\VariableScope\VariableScope\bin\Debug\net8.0\VariableScope.runtimeconfig.json
+C:\ReC#\VariableScope\VariableScope\bin\Debug\net8.0\VariableScope.dll
+C:\ReC#\VariableScope\VariableScope\bin\Debug\net8.0\VariableScope.pdb
+C:\ReC#\VariableScope\VariableScope\obj\Debug\net8.0\VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\VariableScope\VariableScope\obj\Debug\net8.0\VariableScope.AssemblyInfoInputs.cache
+C:\ReC#\VariableScope\VariableScope\obj\Debug\net8.0\VariableScope.AssemblyInfo.cs
+C:\ReC#\VariableScope\VariableScope\obj\Debug\net8.0\VariableScope.csproj.CoreCompileInputs.cache
+C:\ReC#\VariableScope\VariableScope\obj\Debug\net8.0\VariableScope.dll
+C:\ReC#\VariableScope\VariableScope\obj\Debug\net8.0\refint\VariableScope.dll
+C:\ReC#\VariableScope\VariableScope\obj\Debug\net8.0\VariableScope.pdb
+C:\ReC#\VariableScope\VariableScope\obj\Debug\net8.0\VariableScope.genruntimeconfig.cache
+C:\ReC#\VariableScope\VariableScope\obj\Debug\net8.0\ref\VariableScope.dll

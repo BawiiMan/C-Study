@@ -1,0 +1,14 @@
+C:\ReC#\EnumAnimal\EnumAnimal\bin\Debug\net8.0\EnumAnimal.exe
+C:\ReC#\EnumAnimal\EnumAnimal\bin\Debug\net8.0\EnumAnimal.deps.json
+C:\ReC#\EnumAnimal\EnumAnimal\bin\Debug\net8.0\EnumAnimal.runtimeconfig.json
+C:\ReC#\EnumAnimal\EnumAnimal\bin\Debug\net8.0\EnumAnimal.dll
+C:\ReC#\EnumAnimal\EnumAnimal\bin\Debug\net8.0\EnumAnimal.pdb
+C:\ReC#\EnumAnimal\EnumAnimal\obj\Debug\net8.0\EnumAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\EnumAnimal\EnumAnimal\obj\Debug\net8.0\EnumAnimal.AssemblyInfoInputs.cache
+C:\ReC#\EnumAnimal\EnumAnimal\obj\Debug\net8.0\EnumAnimal.AssemblyInfo.cs
+C:\ReC#\EnumAnimal\EnumAnimal\obj\Debug\net8.0\EnumAnimal.csproj.CoreCompileInputs.cache
+C:\ReC#\EnumAnimal\EnumAnimal\obj\Debug\net8.0\EnumAnimal.dll
+C:\ReC#\EnumAnimal\EnumAnimal\obj\Debug\net8.0\refint\EnumAnimal.dll
+C:\ReC#\EnumAnimal\EnumAnimal\obj\Debug\net8.0\EnumAnimal.pdb
+C:\ReC#\EnumAnimal\EnumAnimal\obj\Debug\net8.0\EnumAnimal.genruntimeconfig.cache
+C:\ReC#\EnumAnimal\EnumAnimal\obj\Debug\net8.0\ref\EnumAnimal.dll

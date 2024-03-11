@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKYQsrlSFhAeu7lipoq8jl9/ftDNUtp/Tmc6S/Uc58Cy1hSafekmSfTqH1hHnHWQ7r/7Jdn6F7yk+Ozr97WnYQ==",
+  "success": true,
+  "projectFilePath": "C:\\ReC#\\JsonConvertDemo\\JsonConvertDemo\\JsonConvertDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RockyMan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

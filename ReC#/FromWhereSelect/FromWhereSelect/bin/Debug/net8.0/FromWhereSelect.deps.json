@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FromWhereSelect/1.0.0": {
+        "runtime": {
+          "FromWhereSelect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FromWhereSelect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\bin\Debug\net8.0\ConstructorInheritance.exe
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\bin\Debug\net8.0\ConstructorInheritance.deps.json
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\bin\Debug\net8.0\ConstructorInheritance.runtimeconfig.json
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\bin\Debug\net8.0\ConstructorInheritance.dll
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\bin\Debug\net8.0\ConstructorInheritance.pdb
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.AssemblyInfoInputs.cache
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.AssemblyInfo.cs
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.csproj.CoreCompileInputs.cache
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.dll
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\obj\Debug\net8.0\refint\ConstructorInheritance.dll
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.pdb
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.genruntimeconfig.cache
+C:\ReC#\ConstructorInheritance\ConstructorInheritance\obj\Debug\net8.0\ref\ConstructorInheritance.dll

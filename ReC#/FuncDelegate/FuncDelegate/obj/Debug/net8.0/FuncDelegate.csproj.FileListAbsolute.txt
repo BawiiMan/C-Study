@@ -1,0 +1,14 @@
+C:\ReC#\FuncDelegate\FuncDelegate\bin\Debug\net8.0\FuncDelegate.exe
+C:\ReC#\FuncDelegate\FuncDelegate\bin\Debug\net8.0\FuncDelegate.deps.json
+C:\ReC#\FuncDelegate\FuncDelegate\bin\Debug\net8.0\FuncDelegate.runtimeconfig.json
+C:\ReC#\FuncDelegate\FuncDelegate\bin\Debug\net8.0\FuncDelegate.dll
+C:\ReC#\FuncDelegate\FuncDelegate\bin\Debug\net8.0\FuncDelegate.pdb
+C:\ReC#\FuncDelegate\FuncDelegate\obj\Debug\net8.0\FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\FuncDelegate\FuncDelegate\obj\Debug\net8.0\FuncDelegate.AssemblyInfoInputs.cache
+C:\ReC#\FuncDelegate\FuncDelegate\obj\Debug\net8.0\FuncDelegate.AssemblyInfo.cs
+C:\ReC#\FuncDelegate\FuncDelegate\obj\Debug\net8.0\FuncDelegate.csproj.CoreCompileInputs.cache
+C:\ReC#\FuncDelegate\FuncDelegate\obj\Debug\net8.0\FuncDelegate.dll
+C:\ReC#\FuncDelegate\FuncDelegate\obj\Debug\net8.0\refint\FuncDelegate.dll
+C:\ReC#\FuncDelegate\FuncDelegate\obj\Debug\net8.0\FuncDelegate.pdb
+C:\ReC#\FuncDelegate\FuncDelegate\obj\Debug\net8.0\FuncDelegate.genruntimeconfig.cache
+C:\ReC#\FuncDelegate\FuncDelegate\obj\Debug\net8.0\ref\FuncDelegate.dll

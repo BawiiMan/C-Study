@@ -1,0 +1,14 @@
+C:\ReC#\DoubleDemo\DoubleDemo\bin\Debug\net8.0\DoubleDemo.exe
+C:\ReC#\DoubleDemo\DoubleDemo\bin\Debug\net8.0\DoubleDemo.deps.json
+C:\ReC#\DoubleDemo\DoubleDemo\bin\Debug\net8.0\DoubleDemo.runtimeconfig.json
+C:\ReC#\DoubleDemo\DoubleDemo\bin\Debug\net8.0\DoubleDemo.dll
+C:\ReC#\DoubleDemo\DoubleDemo\bin\Debug\net8.0\DoubleDemo.pdb
+C:\ReC#\DoubleDemo\DoubleDemo\obj\Debug\net8.0\DoubleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DoubleDemo\DoubleDemo\obj\Debug\net8.0\DoubleDemo.AssemblyInfoInputs.cache
+C:\ReC#\DoubleDemo\DoubleDemo\obj\Debug\net8.0\DoubleDemo.AssemblyInfo.cs
+C:\ReC#\DoubleDemo\DoubleDemo\obj\Debug\net8.0\DoubleDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\DoubleDemo\DoubleDemo\obj\Debug\net8.0\DoubleDemo.dll
+C:\ReC#\DoubleDemo\DoubleDemo\obj\Debug\net8.0\refint\DoubleDemo.dll
+C:\ReC#\DoubleDemo\DoubleDemo\obj\Debug\net8.0\DoubleDemo.pdb
+C:\ReC#\DoubleDemo\DoubleDemo\obj\Debug\net8.0\DoubleDemo.genruntimeconfig.cache
+C:\ReC#\DoubleDemo\DoubleDemo\obj\Debug\net8.0\ref\DoubleDemo.dll

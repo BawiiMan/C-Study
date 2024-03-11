@@ -1,0 +1,14 @@
+C:\ReC#\StringConverterDemo\StringConverterDemo\bin\Debug\net8.0\StringConverterDemo.exe
+C:\ReC#\StringConverterDemo\StringConverterDemo\bin\Debug\net8.0\StringConverterDemo.deps.json
+C:\ReC#\StringConverterDemo\StringConverterDemo\bin\Debug\net8.0\StringConverterDemo.runtimeconfig.json
+C:\ReC#\StringConverterDemo\StringConverterDemo\bin\Debug\net8.0\StringConverterDemo.dll
+C:\ReC#\StringConverterDemo\StringConverterDemo\bin\Debug\net8.0\StringConverterDemo.pdb
+C:\ReC#\StringConverterDemo\StringConverterDemo\obj\Debug\net8.0\StringConverterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\StringConverterDemo\StringConverterDemo\obj\Debug\net8.0\StringConverterDemo.AssemblyInfoInputs.cache
+C:\ReC#\StringConverterDemo\StringConverterDemo\obj\Debug\net8.0\StringConverterDemo.AssemblyInfo.cs
+C:\ReC#\StringConverterDemo\StringConverterDemo\obj\Debug\net8.0\StringConverterDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\StringConverterDemo\StringConverterDemo\obj\Debug\net8.0\StringConverterDemo.dll
+C:\ReC#\StringConverterDemo\StringConverterDemo\obj\Debug\net8.0\refint\StringConverterDemo.dll
+C:\ReC#\StringConverterDemo\StringConverterDemo\obj\Debug\net8.0\StringConverterDemo.pdb
+C:\ReC#\StringConverterDemo\StringConverterDemo\obj\Debug\net8.0\StringConverterDemo.genruntimeconfig.cache
+C:\ReC#\StringConverterDemo\StringConverterDemo\obj\Debug\net8.0\ref\StringConverterDemo.dll

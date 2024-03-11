@@ -1,0 +1,14 @@
+C:\ReC#\NearAlgorithm\NearAlgorithm\bin\Debug\net8.0\NearAlgorithm.exe
+C:\ReC#\NearAlgorithm\NearAlgorithm\bin\Debug\net8.0\NearAlgorithm.deps.json
+C:\ReC#\NearAlgorithm\NearAlgorithm\bin\Debug\net8.0\NearAlgorithm.runtimeconfig.json
+C:\ReC#\NearAlgorithm\NearAlgorithm\bin\Debug\net8.0\NearAlgorithm.dll
+C:\ReC#\NearAlgorithm\NearAlgorithm\bin\Debug\net8.0\NearAlgorithm.pdb
+C:\ReC#\NearAlgorithm\NearAlgorithm\obj\Debug\net8.0\NearAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\NearAlgorithm\NearAlgorithm\obj\Debug\net8.0\NearAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\NearAlgorithm\NearAlgorithm\obj\Debug\net8.0\NearAlgorithm.AssemblyInfo.cs
+C:\ReC#\NearAlgorithm\NearAlgorithm\obj\Debug\net8.0\NearAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\NearAlgorithm\NearAlgorithm\obj\Debug\net8.0\NearAlgorithm.dll
+C:\ReC#\NearAlgorithm\NearAlgorithm\obj\Debug\net8.0\refint\NearAlgorithm.dll
+C:\ReC#\NearAlgorithm\NearAlgorithm\obj\Debug\net8.0\NearAlgorithm.pdb
+C:\ReC#\NearAlgorithm\NearAlgorithm\obj\Debug\net8.0\NearAlgorithm.genruntimeconfig.cache
+C:\ReC#\NearAlgorithm\NearAlgorithm\obj\Debug\net8.0\ref\NearAlgorithm.dll

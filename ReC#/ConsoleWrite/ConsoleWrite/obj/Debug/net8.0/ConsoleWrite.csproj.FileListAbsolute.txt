@@ -1,0 +1,14 @@
+C:\ReC#\ConsoleWrite\ConsoleWrite\bin\Debug\net8.0\ConsoleWrite.exe
+C:\ReC#\ConsoleWrite\ConsoleWrite\bin\Debug\net8.0\ConsoleWrite.deps.json
+C:\ReC#\ConsoleWrite\ConsoleWrite\bin\Debug\net8.0\ConsoleWrite.runtimeconfig.json
+C:\ReC#\ConsoleWrite\ConsoleWrite\bin\Debug\net8.0\ConsoleWrite.dll
+C:\ReC#\ConsoleWrite\ConsoleWrite\bin\Debug\net8.0\ConsoleWrite.pdb
+C:\ReC#\ConsoleWrite\ConsoleWrite\obj\Debug\net8.0\ConsoleWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ConsoleWrite\ConsoleWrite\obj\Debug\net8.0\ConsoleWrite.AssemblyInfoInputs.cache
+C:\ReC#\ConsoleWrite\ConsoleWrite\obj\Debug\net8.0\ConsoleWrite.AssemblyInfo.cs
+C:\ReC#\ConsoleWrite\ConsoleWrite\obj\Debug\net8.0\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\ReC#\ConsoleWrite\ConsoleWrite\obj\Debug\net8.0\ConsoleWrite.dll
+C:\ReC#\ConsoleWrite\ConsoleWrite\obj\Debug\net8.0\refint\ConsoleWrite.dll
+C:\ReC#\ConsoleWrite\ConsoleWrite\obj\Debug\net8.0\ConsoleWrite.pdb
+C:\ReC#\ConsoleWrite\ConsoleWrite\obj\Debug\net8.0\ConsoleWrite.genruntimeconfig.cache
+C:\ReC#\ConsoleWrite\ConsoleWrite\obj\Debug\net8.0\ref\ConsoleWrite.dll

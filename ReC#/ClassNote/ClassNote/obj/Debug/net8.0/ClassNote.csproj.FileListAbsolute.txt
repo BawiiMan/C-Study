@@ -1,0 +1,14 @@
+C:\ReC#\ClassNote\ClassNote\bin\Debug\net8.0\ClassNote.exe
+C:\ReC#\ClassNote\ClassNote\bin\Debug\net8.0\ClassNote.deps.json
+C:\ReC#\ClassNote\ClassNote\bin\Debug\net8.0\ClassNote.runtimeconfig.json
+C:\ReC#\ClassNote\ClassNote\bin\Debug\net8.0\ClassNote.dll
+C:\ReC#\ClassNote\ClassNote\bin\Debug\net8.0\ClassNote.pdb
+C:\ReC#\ClassNote\ClassNote\obj\Debug\net8.0\ClassNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ClassNote\ClassNote\obj\Debug\net8.0\ClassNote.AssemblyInfoInputs.cache
+C:\ReC#\ClassNote\ClassNote\obj\Debug\net8.0\ClassNote.AssemblyInfo.cs
+C:\ReC#\ClassNote\ClassNote\obj\Debug\net8.0\ClassNote.csproj.CoreCompileInputs.cache
+C:\ReC#\ClassNote\ClassNote\obj\Debug\net8.0\ClassNote.dll
+C:\ReC#\ClassNote\ClassNote\obj\Debug\net8.0\refint\ClassNote.dll
+C:\ReC#\ClassNote\ClassNote\obj\Debug\net8.0\ClassNote.pdb
+C:\ReC#\ClassNote\ClassNote\obj\Debug\net8.0\ClassNote.genruntimeconfig.cache
+C:\ReC#\ClassNote\ClassNote\obj\Debug\net8.0\ref\ClassNote.dll

@@ -1,0 +1,14 @@
+C:\ReC#\EnumSwitch\EnumSwitch\bin\Debug\net8.0\EnumSwitch.exe
+C:\ReC#\EnumSwitch\EnumSwitch\bin\Debug\net8.0\EnumSwitch.deps.json
+C:\ReC#\EnumSwitch\EnumSwitch\bin\Debug\net8.0\EnumSwitch.runtimeconfig.json
+C:\ReC#\EnumSwitch\EnumSwitch\bin\Debug\net8.0\EnumSwitch.dll
+C:\ReC#\EnumSwitch\EnumSwitch\bin\Debug\net8.0\EnumSwitch.pdb
+C:\ReC#\EnumSwitch\EnumSwitch\obj\Debug\net8.0\EnumSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\EnumSwitch\EnumSwitch\obj\Debug\net8.0\EnumSwitch.AssemblyInfoInputs.cache
+C:\ReC#\EnumSwitch\EnumSwitch\obj\Debug\net8.0\EnumSwitch.AssemblyInfo.cs
+C:\ReC#\EnumSwitch\EnumSwitch\obj\Debug\net8.0\EnumSwitch.csproj.CoreCompileInputs.cache
+C:\ReC#\EnumSwitch\EnumSwitch\obj\Debug\net8.0\EnumSwitch.dll
+C:\ReC#\EnumSwitch\EnumSwitch\obj\Debug\net8.0\refint\EnumSwitch.dll
+C:\ReC#\EnumSwitch\EnumSwitch\obj\Debug\net8.0\EnumSwitch.pdb
+C:\ReC#\EnumSwitch\EnumSwitch\obj\Debug\net8.0\EnumSwitch.genruntimeconfig.cache
+C:\ReC#\EnumSwitch\EnumSwitch\obj\Debug\net8.0\ref\EnumSwitch.dll

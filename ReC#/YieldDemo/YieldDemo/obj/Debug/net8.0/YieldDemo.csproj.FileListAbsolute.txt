@@ -1,0 +1,14 @@
+C:\ReC#\YieldDemo\YieldDemo\bin\Debug\net8.0\YieldDemo.exe
+C:\ReC#\YieldDemo\YieldDemo\bin\Debug\net8.0\YieldDemo.deps.json
+C:\ReC#\YieldDemo\YieldDemo\bin\Debug\net8.0\YieldDemo.runtimeconfig.json
+C:\ReC#\YieldDemo\YieldDemo\bin\Debug\net8.0\YieldDemo.dll
+C:\ReC#\YieldDemo\YieldDemo\bin\Debug\net8.0\YieldDemo.pdb
+C:\ReC#\YieldDemo\YieldDemo\obj\Debug\net8.0\YieldDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\YieldDemo\YieldDemo\obj\Debug\net8.0\YieldDemo.AssemblyInfoInputs.cache
+C:\ReC#\YieldDemo\YieldDemo\obj\Debug\net8.0\YieldDemo.AssemblyInfo.cs
+C:\ReC#\YieldDemo\YieldDemo\obj\Debug\net8.0\YieldDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\YieldDemo\YieldDemo\obj\Debug\net8.0\YieldDemo.dll
+C:\ReC#\YieldDemo\YieldDemo\obj\Debug\net8.0\refint\YieldDemo.dll
+C:\ReC#\YieldDemo\YieldDemo\obj\Debug\net8.0\YieldDemo.pdb
+C:\ReC#\YieldDemo\YieldDemo\obj\Debug\net8.0\YieldDemo.genruntimeconfig.cache
+C:\ReC#\YieldDemo\YieldDemo\obj\Debug\net8.0\ref\YieldDemo.dll

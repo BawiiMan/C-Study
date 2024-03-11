@@ -1,0 +1,14 @@
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\bin\Debug\net8.0\TypeDefinitionWithUsing.exe
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\bin\Debug\net8.0\TypeDefinitionWithUsing.deps.json
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\bin\Debug\net8.0\TypeDefinitionWithUsing.runtimeconfig.json
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\bin\Debug\net8.0\TypeDefinitionWithUsing.dll
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\bin\Debug\net8.0\TypeDefinitionWithUsing.pdb
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\obj\Debug\net8.0\TypeDefinitionWithUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\obj\Debug\net8.0\TypeDefinitionWithUsing.AssemblyInfoInputs.cache
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\obj\Debug\net8.0\TypeDefinitionWithUsing.AssemblyInfo.cs
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\obj\Debug\net8.0\TypeDefinitionWithUsing.csproj.CoreCompileInputs.cache
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\obj\Debug\net8.0\TypeDefinitionWithUsing.dll
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\obj\Debug\net8.0\refint\TypeDefinitionWithUsing.dll
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\obj\Debug\net8.0\TypeDefinitionWithUsing.pdb
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\obj\Debug\net8.0\TypeDefinitionWithUsing.genruntimeconfig.cache
+C:\ReC#\TypeDefinitionWithUsing\TypeDefinitionWithUsing\obj\Debug\net8.0\ref\TypeDefinitionWithUsing.dll

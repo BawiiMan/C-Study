@@ -1,0 +1,14 @@
+C:\ReC#\SumAlgorithm\SumAlgorithm\bin\Debug\net8.0\SumAlgorithm.exe
+C:\ReC#\SumAlgorithm\SumAlgorithm\bin\Debug\net8.0\SumAlgorithm.deps.json
+C:\ReC#\SumAlgorithm\SumAlgorithm\bin\Debug\net8.0\SumAlgorithm.runtimeconfig.json
+C:\ReC#\SumAlgorithm\SumAlgorithm\bin\Debug\net8.0\SumAlgorithm.dll
+C:\ReC#\SumAlgorithm\SumAlgorithm\bin\Debug\net8.0\SumAlgorithm.pdb
+C:\ReC#\SumAlgorithm\SumAlgorithm\obj\Debug\net8.0\SumAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\SumAlgorithm\SumAlgorithm\obj\Debug\net8.0\SumAlgorithm.AssemblyInfoInputs.cache
+C:\ReC#\SumAlgorithm\SumAlgorithm\obj\Debug\net8.0\SumAlgorithm.AssemblyInfo.cs
+C:\ReC#\SumAlgorithm\SumAlgorithm\obj\Debug\net8.0\SumAlgorithm.csproj.CoreCompileInputs.cache
+C:\ReC#\SumAlgorithm\SumAlgorithm\obj\Debug\net8.0\SumAlgorithm.dll
+C:\ReC#\SumAlgorithm\SumAlgorithm\obj\Debug\net8.0\refint\SumAlgorithm.dll
+C:\ReC#\SumAlgorithm\SumAlgorithm\obj\Debug\net8.0\SumAlgorithm.pdb
+C:\ReC#\SumAlgorithm\SumAlgorithm\obj\Debug\net8.0\SumAlgorithm.genruntimeconfig.cache
+C:\ReC#\SumAlgorithm\SumAlgorithm\obj\Debug\net8.0\ref\SumAlgorithm.dll

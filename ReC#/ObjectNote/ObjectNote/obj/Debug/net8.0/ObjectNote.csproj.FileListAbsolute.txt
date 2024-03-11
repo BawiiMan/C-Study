@@ -1,0 +1,14 @@
+C:\ReC#\ObjectNote\ObjectNote\bin\Debug\net8.0\ObjectNote.exe
+C:\ReC#\ObjectNote\ObjectNote\bin\Debug\net8.0\ObjectNote.deps.json
+C:\ReC#\ObjectNote\ObjectNote\bin\Debug\net8.0\ObjectNote.runtimeconfig.json
+C:\ReC#\ObjectNote\ObjectNote\bin\Debug\net8.0\ObjectNote.dll
+C:\ReC#\ObjectNote\ObjectNote\bin\Debug\net8.0\ObjectNote.pdb
+C:\ReC#\ObjectNote\ObjectNote\obj\Debug\net8.0\ObjectNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ObjectNote\ObjectNote\obj\Debug\net8.0\ObjectNote.AssemblyInfoInputs.cache
+C:\ReC#\ObjectNote\ObjectNote\obj\Debug\net8.0\ObjectNote.AssemblyInfo.cs
+C:\ReC#\ObjectNote\ObjectNote\obj\Debug\net8.0\ObjectNote.csproj.CoreCompileInputs.cache
+C:\ReC#\ObjectNote\ObjectNote\obj\Debug\net8.0\ObjectNote.dll
+C:\ReC#\ObjectNote\ObjectNote\obj\Debug\net8.0\refint\ObjectNote.dll
+C:\ReC#\ObjectNote\ObjectNote\obj\Debug\net8.0\ObjectNote.pdb
+C:\ReC#\ObjectNote\ObjectNote\obj\Debug\net8.0\ObjectNote.genruntimeconfig.cache
+C:\ReC#\ObjectNote\ObjectNote\obj\Debug\net8.0\ref\ObjectNote.dll

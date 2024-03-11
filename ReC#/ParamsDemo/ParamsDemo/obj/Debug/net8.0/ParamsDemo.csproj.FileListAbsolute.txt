@@ -1,0 +1,14 @@
+C:\ReC#\ParamsDemo\ParamsDemo\bin\Debug\net8.0\ParamsDemo.exe
+C:\ReC#\ParamsDemo\ParamsDemo\bin\Debug\net8.0\ParamsDemo.deps.json
+C:\ReC#\ParamsDemo\ParamsDemo\bin\Debug\net8.0\ParamsDemo.runtimeconfig.json
+C:\ReC#\ParamsDemo\ParamsDemo\bin\Debug\net8.0\ParamsDemo.dll
+C:\ReC#\ParamsDemo\ParamsDemo\bin\Debug\net8.0\ParamsDemo.pdb
+C:\ReC#\ParamsDemo\ParamsDemo\obj\Debug\net8.0\ParamsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ParamsDemo\ParamsDemo\obj\Debug\net8.0\ParamsDemo.AssemblyInfoInputs.cache
+C:\ReC#\ParamsDemo\ParamsDemo\obj\Debug\net8.0\ParamsDemo.AssemblyInfo.cs
+C:\ReC#\ParamsDemo\ParamsDemo\obj\Debug\net8.0\ParamsDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\ParamsDemo\ParamsDemo\obj\Debug\net8.0\ParamsDemo.dll
+C:\ReC#\ParamsDemo\ParamsDemo\obj\Debug\net8.0\refint\ParamsDemo.dll
+C:\ReC#\ParamsDemo\ParamsDemo\obj\Debug\net8.0\ParamsDemo.pdb
+C:\ReC#\ParamsDemo\ParamsDemo\obj\Debug\net8.0\ParamsDemo.genruntimeconfig.cache
+C:\ReC#\ParamsDemo\ParamsDemo\obj\Debug\net8.0\ref\ParamsDemo.dll

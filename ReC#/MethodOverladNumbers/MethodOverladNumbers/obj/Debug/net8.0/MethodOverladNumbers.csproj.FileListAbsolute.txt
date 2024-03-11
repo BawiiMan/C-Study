@@ -1,0 +1,14 @@
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\bin\Debug\net8.0\MethodOverladNumbers.exe
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\bin\Debug\net8.0\MethodOverladNumbers.deps.json
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\bin\Debug\net8.0\MethodOverladNumbers.runtimeconfig.json
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\bin\Debug\net8.0\MethodOverladNumbers.dll
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\bin\Debug\net8.0\MethodOverladNumbers.pdb
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\obj\Debug\net8.0\MethodOverladNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\obj\Debug\net8.0\MethodOverladNumbers.AssemblyInfoInputs.cache
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\obj\Debug\net8.0\MethodOverladNumbers.AssemblyInfo.cs
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\obj\Debug\net8.0\MethodOverladNumbers.csproj.CoreCompileInputs.cache
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\obj\Debug\net8.0\MethodOverladNumbers.dll
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\obj\Debug\net8.0\refint\MethodOverladNumbers.dll
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\obj\Debug\net8.0\MethodOverladNumbers.pdb
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\obj\Debug\net8.0\MethodOverladNumbers.genruntimeconfig.cache
+C:\ReC#\MethodOverladNumbers\MethodOverladNumbers\obj\Debug\net8.0\ref\MethodOverladNumbers.dll

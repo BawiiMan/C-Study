@@ -1,0 +1,14 @@
+C:\ReC#\LinqSum\LinqSum\bin\Debug\net8.0\LinqSum.exe
+C:\ReC#\LinqSum\LinqSum\bin\Debug\net8.0\LinqSum.deps.json
+C:\ReC#\LinqSum\LinqSum\bin\Debug\net8.0\LinqSum.runtimeconfig.json
+C:\ReC#\LinqSum\LinqSum\bin\Debug\net8.0\LinqSum.dll
+C:\ReC#\LinqSum\LinqSum\bin\Debug\net8.0\LinqSum.pdb
+C:\ReC#\LinqSum\LinqSum\obj\Debug\net8.0\LinqSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LinqSum\LinqSum\obj\Debug\net8.0\LinqSum.AssemblyInfoInputs.cache
+C:\ReC#\LinqSum\LinqSum\obj\Debug\net8.0\LinqSum.AssemblyInfo.cs
+C:\ReC#\LinqSum\LinqSum\obj\Debug\net8.0\LinqSum.csproj.CoreCompileInputs.cache
+C:\ReC#\LinqSum\LinqSum\obj\Debug\net8.0\LinqSum.dll
+C:\ReC#\LinqSum\LinqSum\obj\Debug\net8.0\refint\LinqSum.dll
+C:\ReC#\LinqSum\LinqSum\obj\Debug\net8.0\LinqSum.pdb
+C:\ReC#\LinqSum\LinqSum\obj\Debug\net8.0\LinqSum.genruntimeconfig.cache
+C:\ReC#\LinqSum\LinqSum\obj\Debug\net8.0\ref\LinqSum.dll

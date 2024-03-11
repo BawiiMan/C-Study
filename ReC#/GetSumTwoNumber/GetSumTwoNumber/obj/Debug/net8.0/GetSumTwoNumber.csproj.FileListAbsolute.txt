@@ -1,0 +1,14 @@
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\bin\Debug\net8.0\GetSumTwoNumber.exe
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\bin\Debug\net8.0\GetSumTwoNumber.deps.json
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\bin\Debug\net8.0\GetSumTwoNumber.runtimeconfig.json
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\bin\Debug\net8.0\GetSumTwoNumber.dll
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\bin\Debug\net8.0\GetSumTwoNumber.pdb
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\obj\Debug\net8.0\GetSumTwoNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\obj\Debug\net8.0\GetSumTwoNumber.AssemblyInfoInputs.cache
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\obj\Debug\net8.0\GetSumTwoNumber.AssemblyInfo.cs
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\obj\Debug\net8.0\GetSumTwoNumber.csproj.CoreCompileInputs.cache
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\obj\Debug\net8.0\GetSumTwoNumber.dll
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\obj\Debug\net8.0\refint\GetSumTwoNumber.dll
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\obj\Debug\net8.0\GetSumTwoNumber.pdb
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\obj\Debug\net8.0\GetSumTwoNumber.genruntimeconfig.cache
+C:\ReC#\GetSumTwoNumber\GetSumTwoNumber\obj\Debug\net8.0\ref\GetSumTwoNumber.dll

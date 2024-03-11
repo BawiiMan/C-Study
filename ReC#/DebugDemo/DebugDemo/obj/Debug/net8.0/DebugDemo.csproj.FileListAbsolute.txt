@@ -1,0 +1,14 @@
+C:\ReC#\DebugDemo\DebugDemo\bin\Debug\net8.0\DebugDemo.exe
+C:\ReC#\DebugDemo\DebugDemo\bin\Debug\net8.0\DebugDemo.deps.json
+C:\ReC#\DebugDemo\DebugDemo\bin\Debug\net8.0\DebugDemo.runtimeconfig.json
+C:\ReC#\DebugDemo\DebugDemo\bin\Debug\net8.0\DebugDemo.dll
+C:\ReC#\DebugDemo\DebugDemo\bin\Debug\net8.0\DebugDemo.pdb
+C:\ReC#\DebugDemo\DebugDemo\obj\Debug\net8.0\DebugDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\DebugDemo\DebugDemo\obj\Debug\net8.0\DebugDemo.AssemblyInfoInputs.cache
+C:\ReC#\DebugDemo\DebugDemo\obj\Debug\net8.0\DebugDemo.AssemblyInfo.cs
+C:\ReC#\DebugDemo\DebugDemo\obj\Debug\net8.0\DebugDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\DebugDemo\DebugDemo\obj\Debug\net8.0\DebugDemo.dll
+C:\ReC#\DebugDemo\DebugDemo\obj\Debug\net8.0\refint\DebugDemo.dll
+C:\ReC#\DebugDemo\DebugDemo\obj\Debug\net8.0\DebugDemo.pdb
+C:\ReC#\DebugDemo\DebugDemo\obj\Debug\net8.0\DebugDemo.genruntimeconfig.cache
+C:\ReC#\DebugDemo\DebugDemo\obj\Debug\net8.0\ref\DebugDemo.dll

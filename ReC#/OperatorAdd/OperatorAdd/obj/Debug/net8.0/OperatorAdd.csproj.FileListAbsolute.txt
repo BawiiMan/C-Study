@@ -1,0 +1,14 @@
+C:\ReC#\OperatorAdd\OperatorAdd\bin\Debug\net8.0\OperatorAdd.exe
+C:\ReC#\OperatorAdd\OperatorAdd\bin\Debug\net8.0\OperatorAdd.deps.json
+C:\ReC#\OperatorAdd\OperatorAdd\bin\Debug\net8.0\OperatorAdd.runtimeconfig.json
+C:\ReC#\OperatorAdd\OperatorAdd\bin\Debug\net8.0\OperatorAdd.dll
+C:\ReC#\OperatorAdd\OperatorAdd\bin\Debug\net8.0\OperatorAdd.pdb
+C:\ReC#\OperatorAdd\OperatorAdd\obj\Debug\net8.0\OperatorAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\OperatorAdd\OperatorAdd\obj\Debug\net8.0\OperatorAdd.AssemblyInfoInputs.cache
+C:\ReC#\OperatorAdd\OperatorAdd\obj\Debug\net8.0\OperatorAdd.AssemblyInfo.cs
+C:\ReC#\OperatorAdd\OperatorAdd\obj\Debug\net8.0\OperatorAdd.csproj.CoreCompileInputs.cache
+C:\ReC#\OperatorAdd\OperatorAdd\obj\Debug\net8.0\OperatorAdd.dll
+C:\ReC#\OperatorAdd\OperatorAdd\obj\Debug\net8.0\refint\OperatorAdd.dll
+C:\ReC#\OperatorAdd\OperatorAdd\obj\Debug\net8.0\OperatorAdd.pdb
+C:\ReC#\OperatorAdd\OperatorAdd\obj\Debug\net8.0\OperatorAdd.genruntimeconfig.cache
+C:\ReC#\OperatorAdd\OperatorAdd\obj\Debug\net8.0\ref\OperatorAdd.dll

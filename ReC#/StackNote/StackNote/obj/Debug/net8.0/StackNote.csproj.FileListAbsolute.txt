@@ -1,0 +1,14 @@
+C:\ReC#\StackNote\StackNote\bin\Debug\net8.0\StackNote.exe
+C:\ReC#\StackNote\StackNote\bin\Debug\net8.0\StackNote.deps.json
+C:\ReC#\StackNote\StackNote\bin\Debug\net8.0\StackNote.runtimeconfig.json
+C:\ReC#\StackNote\StackNote\bin\Debug\net8.0\StackNote.dll
+C:\ReC#\StackNote\StackNote\bin\Debug\net8.0\StackNote.pdb
+C:\ReC#\StackNote\StackNote\obj\Debug\net8.0\StackNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\StackNote\StackNote\obj\Debug\net8.0\StackNote.AssemblyInfoInputs.cache
+C:\ReC#\StackNote\StackNote\obj\Debug\net8.0\StackNote.AssemblyInfo.cs
+C:\ReC#\StackNote\StackNote\obj\Debug\net8.0\StackNote.csproj.CoreCompileInputs.cache
+C:\ReC#\StackNote\StackNote\obj\Debug\net8.0\StackNote.dll
+C:\ReC#\StackNote\StackNote\obj\Debug\net8.0\refint\StackNote.dll
+C:\ReC#\StackNote\StackNote\obj\Debug\net8.0\StackNote.pdb
+C:\ReC#\StackNote\StackNote\obj\Debug\net8.0\StackNote.genruntimeconfig.cache
+C:\ReC#\StackNote\StackNote\obj\Debug\net8.0\ref\StackNote.dll

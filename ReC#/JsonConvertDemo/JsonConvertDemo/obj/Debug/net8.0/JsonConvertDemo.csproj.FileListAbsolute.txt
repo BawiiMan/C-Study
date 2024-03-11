@@ -1,0 +1,17 @@
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\bin\Debug\net8.0\JsonConvertDemo.exe
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\bin\Debug\net8.0\JsonConvertDemo.deps.json
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\bin\Debug\net8.0\JsonConvertDemo.runtimeconfig.json
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\bin\Debug\net8.0\JsonConvertDemo.dll
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\bin\Debug\net8.0\JsonConvertDemo.pdb
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\JsonConvertDemo.csproj.AssemblyReference.cache
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\JsonConvertDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\JsonConvertDemo.AssemblyInfoInputs.cache
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\JsonConvertDemo.AssemblyInfo.cs
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\JsonConvertDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\JsonConvertDemo.csproj.CopyComplete
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\JsonConvertDemo.dll
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\refint\JsonConvertDemo.dll
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\JsonConvertDemo.pdb
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\JsonConvertDemo.genruntimeconfig.cache
+C:\ReC#\JsonConvertDemo\JsonConvertDemo\obj\Debug\net8.0\ref\JsonConvertDemo.dll

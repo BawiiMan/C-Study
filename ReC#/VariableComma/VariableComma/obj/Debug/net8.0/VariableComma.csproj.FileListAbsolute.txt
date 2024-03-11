@@ -1,0 +1,14 @@
+C:\ReC#\VariableComma\VariableComma\bin\Debug\net8.0\VariableComma.exe
+C:\ReC#\VariableComma\VariableComma\bin\Debug\net8.0\VariableComma.deps.json
+C:\ReC#\VariableComma\VariableComma\bin\Debug\net8.0\VariableComma.runtimeconfig.json
+C:\ReC#\VariableComma\VariableComma\bin\Debug\net8.0\VariableComma.dll
+C:\ReC#\VariableComma\VariableComma\bin\Debug\net8.0\VariableComma.pdb
+C:\ReC#\VariableComma\VariableComma\obj\Debug\net8.0\VariableComma.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\VariableComma\VariableComma\obj\Debug\net8.0\VariableComma.AssemblyInfoInputs.cache
+C:\ReC#\VariableComma\VariableComma\obj\Debug\net8.0\VariableComma.AssemblyInfo.cs
+C:\ReC#\VariableComma\VariableComma\obj\Debug\net8.0\VariableComma.csproj.CoreCompileInputs.cache
+C:\ReC#\VariableComma\VariableComma\obj\Debug\net8.0\VariableComma.dll
+C:\ReC#\VariableComma\VariableComma\obj\Debug\net8.0\refint\VariableComma.dll
+C:\ReC#\VariableComma\VariableComma\obj\Debug\net8.0\VariableComma.pdb
+C:\ReC#\VariableComma\VariableComma\obj\Debug\net8.0\VariableComma.genruntimeconfig.cache
+C:\ReC#\VariableComma\VariableComma\obj\Debug\net8.0\ref\VariableComma.dll

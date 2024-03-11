@@ -1,0 +1,14 @@
+C:\ReC#\ReadLineInteger\ReadLineInteger\bin\Debug\net8.0\ReadLineInteger.exe
+C:\ReC#\ReadLineInteger\ReadLineInteger\bin\Debug\net8.0\ReadLineInteger.deps.json
+C:\ReC#\ReadLineInteger\ReadLineInteger\bin\Debug\net8.0\ReadLineInteger.runtimeconfig.json
+C:\ReC#\ReadLineInteger\ReadLineInteger\bin\Debug\net8.0\ReadLineInteger.dll
+C:\ReC#\ReadLineInteger\ReadLineInteger\bin\Debug\net8.0\ReadLineInteger.pdb
+C:\ReC#\ReadLineInteger\ReadLineInteger\obj\Debug\net8.0\ReadLineInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ReadLineInteger\ReadLineInteger\obj\Debug\net8.0\ReadLineInteger.AssemblyInfoInputs.cache
+C:\ReC#\ReadLineInteger\ReadLineInteger\obj\Debug\net8.0\ReadLineInteger.AssemblyInfo.cs
+C:\ReC#\ReadLineInteger\ReadLineInteger\obj\Debug\net8.0\ReadLineInteger.csproj.CoreCompileInputs.cache
+C:\ReC#\ReadLineInteger\ReadLineInteger\obj\Debug\net8.0\ReadLineInteger.dll
+C:\ReC#\ReadLineInteger\ReadLineInteger\obj\Debug\net8.0\refint\ReadLineInteger.dll
+C:\ReC#\ReadLineInteger\ReadLineInteger\obj\Debug\net8.0\ReadLineInteger.pdb
+C:\ReC#\ReadLineInteger\ReadLineInteger\obj\Debug\net8.0\ReadLineInteger.genruntimeconfig.cache
+C:\ReC#\ReadLineInteger\ReadLineInteger\obj\Debug\net8.0\ref\ReadLineInteger.dll

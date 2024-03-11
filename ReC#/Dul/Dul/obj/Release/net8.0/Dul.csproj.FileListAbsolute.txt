@@ -1,0 +1,11 @@
+C:\ReC#\Dul\Dul\bin\Release\net8.0\Dul.deps.json
+C:\ReC#\Dul\Dul\bin\Release\net8.0\Dul.dll
+C:\ReC#\Dul\Dul\bin\Release\net8.0\Dul.pdb
+C:\ReC#\Dul\Dul\obj\Release\net8.0\Dul.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\Dul\Dul\obj\Release\net8.0\Dul.AssemblyInfoInputs.cache
+C:\ReC#\Dul\Dul\obj\Release\net8.0\Dul.AssemblyInfo.cs
+C:\ReC#\Dul\Dul\obj\Release\net8.0\Dul.csproj.CoreCompileInputs.cache
+C:\ReC#\Dul\Dul\obj\Release\net8.0\Dul.dll
+C:\ReC#\Dul\Dul\obj\Release\net8.0\refint\Dul.dll
+C:\ReC#\Dul\Dul\obj\Release\net8.0\Dul.pdb
+C:\ReC#\Dul\Dul\obj\Release\net8.0\ref\Dul.dll

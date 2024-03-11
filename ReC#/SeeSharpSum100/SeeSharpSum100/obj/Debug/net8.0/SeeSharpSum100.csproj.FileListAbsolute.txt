@@ -1,0 +1,14 @@
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\bin\Debug\net8.0\SeeSharpSum100.exe
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\bin\Debug\net8.0\SeeSharpSum100.deps.json
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\bin\Debug\net8.0\SeeSharpSum100.runtimeconfig.json
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\bin\Debug\net8.0\SeeSharpSum100.dll
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\bin\Debug\net8.0\SeeSharpSum100.pdb
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\obj\Debug\net8.0\SeeSharpSum100.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\obj\Debug\net8.0\SeeSharpSum100.AssemblyInfoInputs.cache
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\obj\Debug\net8.0\SeeSharpSum100.AssemblyInfo.cs
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\obj\Debug\net8.0\SeeSharpSum100.csproj.CoreCompileInputs.cache
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\obj\Debug\net8.0\SeeSharpSum100.dll
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\obj\Debug\net8.0\refint\SeeSharpSum100.dll
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\obj\Debug\net8.0\SeeSharpSum100.pdb
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\obj\Debug\net8.0\SeeSharpSum100.genruntimeconfig.cache
+C:\ReC#\SeeSharpSum100\SeeSharpSum100\obj\Debug\net8.0\ref\SeeSharpSum100.dll

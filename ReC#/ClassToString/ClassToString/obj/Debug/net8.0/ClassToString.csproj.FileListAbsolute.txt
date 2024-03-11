@@ -1,0 +1,14 @@
+C:\ReC#\ClassToString\ClassToString\bin\Debug\net8.0\ClassToString.exe
+C:\ReC#\ClassToString\ClassToString\bin\Debug\net8.0\ClassToString.deps.json
+C:\ReC#\ClassToString\ClassToString\bin\Debug\net8.0\ClassToString.runtimeconfig.json
+C:\ReC#\ClassToString\ClassToString\bin\Debug\net8.0\ClassToString.dll
+C:\ReC#\ClassToString\ClassToString\bin\Debug\net8.0\ClassToString.pdb
+C:\ReC#\ClassToString\ClassToString\obj\Debug\net8.0\ClassToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ClassToString\ClassToString\obj\Debug\net8.0\ClassToString.AssemblyInfoInputs.cache
+C:\ReC#\ClassToString\ClassToString\obj\Debug\net8.0\ClassToString.AssemblyInfo.cs
+C:\ReC#\ClassToString\ClassToString\obj\Debug\net8.0\ClassToString.csproj.CoreCompileInputs.cache
+C:\ReC#\ClassToString\ClassToString\obj\Debug\net8.0\ClassToString.dll
+C:\ReC#\ClassToString\ClassToString\obj\Debug\net8.0\refint\ClassToString.dll
+C:\ReC#\ClassToString\ClassToString\obj\Debug\net8.0\ClassToString.pdb
+C:\ReC#\ClassToString\ClassToString\obj\Debug\net8.0\ClassToString.genruntimeconfig.cache
+C:\ReC#\ClassToString\ClassToString\obj\Debug\net8.0\ref\ClassToString.dll

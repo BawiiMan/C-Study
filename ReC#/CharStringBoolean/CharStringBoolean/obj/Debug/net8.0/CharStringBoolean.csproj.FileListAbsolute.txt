@@ -1,0 +1,14 @@
+C:\ReC#\CharStringBoolean\CharStringBoolean\bin\Debug\net8.0\CharStringBoolean.exe
+C:\ReC#\CharStringBoolean\CharStringBoolean\bin\Debug\net8.0\CharStringBoolean.deps.json
+C:\ReC#\CharStringBoolean\CharStringBoolean\bin\Debug\net8.0\CharStringBoolean.runtimeconfig.json
+C:\ReC#\CharStringBoolean\CharStringBoolean\bin\Debug\net8.0\CharStringBoolean.dll
+C:\ReC#\CharStringBoolean\CharStringBoolean\bin\Debug\net8.0\CharStringBoolean.pdb
+C:\ReC#\CharStringBoolean\CharStringBoolean\obj\Debug\net8.0\CharStringBoolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\CharStringBoolean\CharStringBoolean\obj\Debug\net8.0\CharStringBoolean.AssemblyInfoInputs.cache
+C:\ReC#\CharStringBoolean\CharStringBoolean\obj\Debug\net8.0\CharStringBoolean.AssemblyInfo.cs
+C:\ReC#\CharStringBoolean\CharStringBoolean\obj\Debug\net8.0\CharStringBoolean.csproj.CoreCompileInputs.cache
+C:\ReC#\CharStringBoolean\CharStringBoolean\obj\Debug\net8.0\CharStringBoolean.dll
+C:\ReC#\CharStringBoolean\CharStringBoolean\obj\Debug\net8.0\refint\CharStringBoolean.dll
+C:\ReC#\CharStringBoolean\CharStringBoolean\obj\Debug\net8.0\CharStringBoolean.pdb
+C:\ReC#\CharStringBoolean\CharStringBoolean\obj\Debug\net8.0\CharStringBoolean.genruntimeconfig.cache
+C:\ReC#\CharStringBoolean\CharStringBoolean\obj\Debug\net8.0\ref\CharStringBoolean.dll

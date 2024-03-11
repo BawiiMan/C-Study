@@ -1,0 +1,14 @@
+C:\ReC#\EnumIndexChange\EnumIndexChange\bin\Debug\net8.0\EnumIndexChange.exe
+C:\ReC#\EnumIndexChange\EnumIndexChange\bin\Debug\net8.0\EnumIndexChange.deps.json
+C:\ReC#\EnumIndexChange\EnumIndexChange\bin\Debug\net8.0\EnumIndexChange.runtimeconfig.json
+C:\ReC#\EnumIndexChange\EnumIndexChange\bin\Debug\net8.0\EnumIndexChange.dll
+C:\ReC#\EnumIndexChange\EnumIndexChange\bin\Debug\net8.0\EnumIndexChange.pdb
+C:\ReC#\EnumIndexChange\EnumIndexChange\obj\Debug\net8.0\EnumIndexChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\EnumIndexChange\EnumIndexChange\obj\Debug\net8.0\EnumIndexChange.AssemblyInfoInputs.cache
+C:\ReC#\EnumIndexChange\EnumIndexChange\obj\Debug\net8.0\EnumIndexChange.AssemblyInfo.cs
+C:\ReC#\EnumIndexChange\EnumIndexChange\obj\Debug\net8.0\EnumIndexChange.csproj.CoreCompileInputs.cache
+C:\ReC#\EnumIndexChange\EnumIndexChange\obj\Debug\net8.0\EnumIndexChange.dll
+C:\ReC#\EnumIndexChange\EnumIndexChange\obj\Debug\net8.0\refint\EnumIndexChange.dll
+C:\ReC#\EnumIndexChange\EnumIndexChange\obj\Debug\net8.0\EnumIndexChange.pdb
+C:\ReC#\EnumIndexChange\EnumIndexChange\obj\Debug\net8.0\EnumIndexChange.genruntimeconfig.cache
+C:\ReC#\EnumIndexChange\EnumIndexChange\obj\Debug\net8.0\ref\EnumIndexChange.dll

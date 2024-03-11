@@ -1,0 +1,14 @@
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\bin\Debug\net8.0\TimeSpanDemo.exe
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\bin\Debug\net8.0\TimeSpanDemo.deps.json
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\bin\Debug\net8.0\TimeSpanDemo.runtimeconfig.json
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\bin\Debug\net8.0\TimeSpanDemo.dll
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\bin\Debug\net8.0\TimeSpanDemo.pdb
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\obj\Debug\net8.0\TimeSpanDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\obj\Debug\net8.0\TimeSpanDemo.AssemblyInfoInputs.cache
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\obj\Debug\net8.0\TimeSpanDemo.AssemblyInfo.cs
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\obj\Debug\net8.0\TimeSpanDemo.csproj.CoreCompileInputs.cache
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\obj\Debug\net8.0\TimeSpanDemo.dll
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\obj\Debug\net8.0\refint\TimeSpanDemo.dll
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\obj\Debug\net8.0\TimeSpanDemo.pdb
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\obj\Debug\net8.0\TimeSpanDemo.genruntimeconfig.cache
+C:\ReC#\TimeSpanDemo\TimeSpanDemo\obj\Debug\net8.0\ref\TimeSpanDemo.dll

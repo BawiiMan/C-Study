@@ -1,0 +1,14 @@
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\bin\Debug\net8.0\TypeAndAcivator.exe
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\bin\Debug\net8.0\TypeAndAcivator.deps.json
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\bin\Debug\net8.0\TypeAndAcivator.runtimeconfig.json
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\bin\Debug\net8.0\TypeAndAcivator.dll
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\bin\Debug\net8.0\TypeAndAcivator.pdb
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\obj\Debug\net8.0\TypeAndAcivator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\obj\Debug\net8.0\TypeAndAcivator.AssemblyInfoInputs.cache
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\obj\Debug\net8.0\TypeAndAcivator.AssemblyInfo.cs
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\obj\Debug\net8.0\TypeAndAcivator.csproj.CoreCompileInputs.cache
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\obj\Debug\net8.0\TypeAndAcivator.dll
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\obj\Debug\net8.0\refint\TypeAndAcivator.dll
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\obj\Debug\net8.0\TypeAndAcivator.pdb
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\obj\Debug\net8.0\TypeAndAcivator.genruntimeconfig.cache
+C:\ReC#\TypeAndAcivator\TypeAndAcivator\obj\Debug\net8.0\ref\TypeAndAcivator.dll

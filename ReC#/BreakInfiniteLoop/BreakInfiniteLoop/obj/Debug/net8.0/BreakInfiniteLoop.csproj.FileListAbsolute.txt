@@ -1,0 +1,14 @@
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\bin\Debug\net8.0\BreakInfiniteLoop.exe
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\bin\Debug\net8.0\BreakInfiniteLoop.deps.json
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\bin\Debug\net8.0\BreakInfiniteLoop.runtimeconfig.json
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\bin\Debug\net8.0\BreakInfiniteLoop.dll
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\bin\Debug\net8.0\BreakInfiniteLoop.pdb
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\obj\Debug\net8.0\BreakInfiniteLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\obj\Debug\net8.0\BreakInfiniteLoop.AssemblyInfoInputs.cache
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\obj\Debug\net8.0\BreakInfiniteLoop.AssemblyInfo.cs
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\obj\Debug\net8.0\BreakInfiniteLoop.csproj.CoreCompileInputs.cache
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\obj\Debug\net8.0\BreakInfiniteLoop.dll
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\obj\Debug\net8.0\refint\BreakInfiniteLoop.dll
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\obj\Debug\net8.0\BreakInfiniteLoop.pdb
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\obj\Debug\net8.0\BreakInfiniteLoop.genruntimeconfig.cache
+C:\ReC#\BreakInfiniteLoop\BreakInfiniteLoop\obj\Debug\net8.0\ref\BreakInfiniteLoop.dll

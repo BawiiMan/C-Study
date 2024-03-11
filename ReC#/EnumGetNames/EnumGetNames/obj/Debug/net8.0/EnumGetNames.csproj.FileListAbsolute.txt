@@ -1,0 +1,14 @@
+C:\ReC#\EnumGetNames\EnumGetNames\bin\Debug\net8.0\EnumGetNames.exe
+C:\ReC#\EnumGetNames\EnumGetNames\bin\Debug\net8.0\EnumGetNames.deps.json
+C:\ReC#\EnumGetNames\EnumGetNames\bin\Debug\net8.0\EnumGetNames.runtimeconfig.json
+C:\ReC#\EnumGetNames\EnumGetNames\bin\Debug\net8.0\EnumGetNames.dll
+C:\ReC#\EnumGetNames\EnumGetNames\bin\Debug\net8.0\EnumGetNames.pdb
+C:\ReC#\EnumGetNames\EnumGetNames\obj\Debug\net8.0\EnumGetNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\EnumGetNames\EnumGetNames\obj\Debug\net8.0\EnumGetNames.AssemblyInfoInputs.cache
+C:\ReC#\EnumGetNames\EnumGetNames\obj\Debug\net8.0\EnumGetNames.AssemblyInfo.cs
+C:\ReC#\EnumGetNames\EnumGetNames\obj\Debug\net8.0\EnumGetNames.csproj.CoreCompileInputs.cache
+C:\ReC#\EnumGetNames\EnumGetNames\obj\Debug\net8.0\EnumGetNames.dll
+C:\ReC#\EnumGetNames\EnumGetNames\obj\Debug\net8.0\refint\EnumGetNames.dll
+C:\ReC#\EnumGetNames\EnumGetNames\obj\Debug\net8.0\EnumGetNames.pdb
+C:\ReC#\EnumGetNames\EnumGetNames\obj\Debug\net8.0\EnumGetNames.genruntimeconfig.cache
+C:\ReC#\EnumGetNames\EnumGetNames\obj\Debug\net8.0\ref\EnumGetNames.dll

@@ -1,0 +1,14 @@
+C:\ReC#\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.exe
+C:\ReC#\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.deps.json
+C:\ReC#\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.runtimeconfig.json
+C:\ReC#\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.dll
+C:\ReC#\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.pdb
+C:\ReC#\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.AssemblyInfoInputs.cache
+C:\ReC#\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.AssemblyInfo.cs
+C:\ReC#\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.csproj.CoreCompileInputs.cache
+C:\ReC#\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.dll
+C:\ReC#\NamedParameter\NamedParameter\obj\Debug\net8.0\refint\NamedParameter.dll
+C:\ReC#\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.pdb
+C:\ReC#\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.genruntimeconfig.cache
+C:\ReC#\NamedParameter\NamedParameter\obj\Debug\net8.0\ref\NamedParameter.dll

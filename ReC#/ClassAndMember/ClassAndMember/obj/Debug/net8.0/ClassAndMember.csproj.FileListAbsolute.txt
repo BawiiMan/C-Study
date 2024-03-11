@@ -1,0 +1,14 @@
+C:\ReC#\ClassAndMember\ClassAndMember\bin\Debug\net8.0\ClassAndMember.exe
+C:\ReC#\ClassAndMember\ClassAndMember\bin\Debug\net8.0\ClassAndMember.deps.json
+C:\ReC#\ClassAndMember\ClassAndMember\bin\Debug\net8.0\ClassAndMember.runtimeconfig.json
+C:\ReC#\ClassAndMember\ClassAndMember\bin\Debug\net8.0\ClassAndMember.dll
+C:\ReC#\ClassAndMember\ClassAndMember\bin\Debug\net8.0\ClassAndMember.pdb
+C:\ReC#\ClassAndMember\ClassAndMember\obj\Debug\net8.0\ClassAndMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ClassAndMember\ClassAndMember\obj\Debug\net8.0\ClassAndMember.AssemblyInfoInputs.cache
+C:\ReC#\ClassAndMember\ClassAndMember\obj\Debug\net8.0\ClassAndMember.AssemblyInfo.cs
+C:\ReC#\ClassAndMember\ClassAndMember\obj\Debug\net8.0\ClassAndMember.csproj.CoreCompileInputs.cache
+C:\ReC#\ClassAndMember\ClassAndMember\obj\Debug\net8.0\ClassAndMember.dll
+C:\ReC#\ClassAndMember\ClassAndMember\obj\Debug\net8.0\refint\ClassAndMember.dll
+C:\ReC#\ClassAndMember\ClassAndMember\obj\Debug\net8.0\ClassAndMember.pdb
+C:\ReC#\ClassAndMember\ClassAndMember\obj\Debug\net8.0\ClassAndMember.genruntimeconfig.cache
+C:\ReC#\ClassAndMember\ClassAndMember\obj\Debug\net8.0\ref\ClassAndMember.dll

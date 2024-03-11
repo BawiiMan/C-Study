@@ -1,0 +1,14 @@
+C:\ReC#\ClassSimple\ClassSimple\bin\Debug\net8.0\ClassSimple.exe
+C:\ReC#\ClassSimple\ClassSimple\bin\Debug\net8.0\ClassSimple.deps.json
+C:\ReC#\ClassSimple\ClassSimple\bin\Debug\net8.0\ClassSimple.runtimeconfig.json
+C:\ReC#\ClassSimple\ClassSimple\bin\Debug\net8.0\ClassSimple.dll
+C:\ReC#\ClassSimple\ClassSimple\bin\Debug\net8.0\ClassSimple.pdb
+C:\ReC#\ClassSimple\ClassSimple\obj\Debug\net8.0\ClassSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ClassSimple\ClassSimple\obj\Debug\net8.0\ClassSimple.AssemblyInfoInputs.cache
+C:\ReC#\ClassSimple\ClassSimple\obj\Debug\net8.0\ClassSimple.AssemblyInfo.cs
+C:\ReC#\ClassSimple\ClassSimple\obj\Debug\net8.0\ClassSimple.csproj.CoreCompileInputs.cache
+C:\ReC#\ClassSimple\ClassSimple\obj\Debug\net8.0\ClassSimple.dll
+C:\ReC#\ClassSimple\ClassSimple\obj\Debug\net8.0\refint\ClassSimple.dll
+C:\ReC#\ClassSimple\ClassSimple\obj\Debug\net8.0\ClassSimple.pdb
+C:\ReC#\ClassSimple\ClassSimple\obj\Debug\net8.0\ClassSimple.genruntimeconfig.cache
+C:\ReC#\ClassSimple\ClassSimple\obj\Debug\net8.0\ref\ClassSimple.dll

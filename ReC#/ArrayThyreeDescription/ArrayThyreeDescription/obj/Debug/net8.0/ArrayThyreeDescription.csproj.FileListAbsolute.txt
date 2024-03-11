@@ -1,0 +1,14 @@
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\bin\Debug\net8.0\ArrayThyreeDescription.exe
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\bin\Debug\net8.0\ArrayThyreeDescription.deps.json
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\bin\Debug\net8.0\ArrayThyreeDescription.runtimeconfig.json
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\bin\Debug\net8.0\ArrayThyreeDescription.dll
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\bin\Debug\net8.0\ArrayThyreeDescription.pdb
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\obj\Debug\net8.0\ArrayThyreeDescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\obj\Debug\net8.0\ArrayThyreeDescription.AssemblyInfoInputs.cache
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\obj\Debug\net8.0\ArrayThyreeDescription.AssemblyInfo.cs
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\obj\Debug\net8.0\ArrayThyreeDescription.csproj.CoreCompileInputs.cache
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\obj\Debug\net8.0\ArrayThyreeDescription.dll
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\obj\Debug\net8.0\refint\ArrayThyreeDescription.dll
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\obj\Debug\net8.0\ArrayThyreeDescription.pdb
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\obj\Debug\net8.0\ArrayThyreeDescription.genruntimeconfig.cache
+C:\ReC#\ArrayThyreeDescription\ArrayThyreeDescription\obj\Debug\net8.0\ref\ArrayThyreeDescription.dll

@@ -1,0 +1,14 @@
+C:\ReC#\TimesTable\TimesTable\bin\Debug\net8.0\TimesTable.exe
+C:\ReC#\TimesTable\TimesTable\bin\Debug\net8.0\TimesTable.deps.json
+C:\ReC#\TimesTable\TimesTable\bin\Debug\net8.0\TimesTable.runtimeconfig.json
+C:\ReC#\TimesTable\TimesTable\bin\Debug\net8.0\TimesTable.dll
+C:\ReC#\TimesTable\TimesTable\bin\Debug\net8.0\TimesTable.pdb
+C:\ReC#\TimesTable\TimesTable\obj\Debug\net8.0\TimesTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\TimesTable\TimesTable\obj\Debug\net8.0\TimesTable.AssemblyInfoInputs.cache
+C:\ReC#\TimesTable\TimesTable\obj\Debug\net8.0\TimesTable.AssemblyInfo.cs
+C:\ReC#\TimesTable\TimesTable\obj\Debug\net8.0\TimesTable.csproj.CoreCompileInputs.cache
+C:\ReC#\TimesTable\TimesTable\obj\Debug\net8.0\TimesTable.dll
+C:\ReC#\TimesTable\TimesTable\obj\Debug\net8.0\refint\TimesTable.dll
+C:\ReC#\TimesTable\TimesTable\obj\Debug\net8.0\TimesTable.pdb
+C:\ReC#\TimesTable\TimesTable\obj\Debug\net8.0\TimesTable.genruntimeconfig.cache
+C:\ReC#\TimesTable\TimesTable\obj\Debug\net8.0\ref\TimesTable.dll

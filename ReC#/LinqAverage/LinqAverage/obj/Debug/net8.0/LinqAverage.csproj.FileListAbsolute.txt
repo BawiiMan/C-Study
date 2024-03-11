@@ -1,0 +1,14 @@
+C:\ReC#\LinqAverage\LinqAverage\bin\Debug\net8.0\LinqAverage.exe
+C:\ReC#\LinqAverage\LinqAverage\bin\Debug\net8.0\LinqAverage.deps.json
+C:\ReC#\LinqAverage\LinqAverage\bin\Debug\net8.0\LinqAverage.runtimeconfig.json
+C:\ReC#\LinqAverage\LinqAverage\bin\Debug\net8.0\LinqAverage.dll
+C:\ReC#\LinqAverage\LinqAverage\bin\Debug\net8.0\LinqAverage.pdb
+C:\ReC#\LinqAverage\LinqAverage\obj\Debug\net8.0\LinqAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LinqAverage\LinqAverage\obj\Debug\net8.0\LinqAverage.AssemblyInfoInputs.cache
+C:\ReC#\LinqAverage\LinqAverage\obj\Debug\net8.0\LinqAverage.AssemblyInfo.cs
+C:\ReC#\LinqAverage\LinqAverage\obj\Debug\net8.0\LinqAverage.csproj.CoreCompileInputs.cache
+C:\ReC#\LinqAverage\LinqAverage\obj\Debug\net8.0\LinqAverage.dll
+C:\ReC#\LinqAverage\LinqAverage\obj\Debug\net8.0\refint\LinqAverage.dll
+C:\ReC#\LinqAverage\LinqAverage\obj\Debug\net8.0\LinqAverage.pdb
+C:\ReC#\LinqAverage\LinqAverage\obj\Debug\net8.0\LinqAverage.genruntimeconfig.cache
+C:\ReC#\LinqAverage\LinqAverage\obj\Debug\net8.0\ref\LinqAverage.dll

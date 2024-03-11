@@ -1,0 +1,14 @@
+C:\ReC#\Fordescription\Fordescription\bin\Debug\net8.0\Fordescription.exe
+C:\ReC#\Fordescription\Fordescription\bin\Debug\net8.0\Fordescription.deps.json
+C:\ReC#\Fordescription\Fordescription\bin\Debug\net8.0\Fordescription.runtimeconfig.json
+C:\ReC#\Fordescription\Fordescription\bin\Debug\net8.0\Fordescription.dll
+C:\ReC#\Fordescription\Fordescription\bin\Debug\net8.0\Fordescription.pdb
+C:\ReC#\Fordescription\Fordescription\obj\Debug\net8.0\Fordescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\Fordescription\Fordescription\obj\Debug\net8.0\Fordescription.AssemblyInfoInputs.cache
+C:\ReC#\Fordescription\Fordescription\obj\Debug\net8.0\Fordescription.AssemblyInfo.cs
+C:\ReC#\Fordescription\Fordescription\obj\Debug\net8.0\Fordescription.csproj.CoreCompileInputs.cache
+C:\ReC#\Fordescription\Fordescription\obj\Debug\net8.0\Fordescription.dll
+C:\ReC#\Fordescription\Fordescription\obj\Debug\net8.0\refint\Fordescription.dll
+C:\ReC#\Fordescription\Fordescription\obj\Debug\net8.0\Fordescription.pdb
+C:\ReC#\Fordescription\Fordescription\obj\Debug\net8.0\Fordescription.genruntimeconfig.cache
+C:\ReC#\Fordescription\Fordescription\obj\Debug\net8.0\ref\Fordescription.dll

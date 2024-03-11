@@ -1,0 +1,14 @@
+C:\ReC#\AnonymousClass\AnonymousClass\bin\Debug\net8.0\AnonymousClass.exe
+C:\ReC#\AnonymousClass\AnonymousClass\bin\Debug\net8.0\AnonymousClass.deps.json
+C:\ReC#\AnonymousClass\AnonymousClass\bin\Debug\net8.0\AnonymousClass.runtimeconfig.json
+C:\ReC#\AnonymousClass\AnonymousClass\bin\Debug\net8.0\AnonymousClass.dll
+C:\ReC#\AnonymousClass\AnonymousClass\bin\Debug\net8.0\AnonymousClass.pdb
+C:\ReC#\AnonymousClass\AnonymousClass\obj\Debug\net8.0\AnonymousClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\AnonymousClass\AnonymousClass\obj\Debug\net8.0\AnonymousClass.AssemblyInfoInputs.cache
+C:\ReC#\AnonymousClass\AnonymousClass\obj\Debug\net8.0\AnonymousClass.AssemblyInfo.cs
+C:\ReC#\AnonymousClass\AnonymousClass\obj\Debug\net8.0\AnonymousClass.csproj.CoreCompileInputs.cache
+C:\ReC#\AnonymousClass\AnonymousClass\obj\Debug\net8.0\AnonymousClass.dll
+C:\ReC#\AnonymousClass\AnonymousClass\obj\Debug\net8.0\refint\AnonymousClass.dll
+C:\ReC#\AnonymousClass\AnonymousClass\obj\Debug\net8.0\AnonymousClass.pdb
+C:\ReC#\AnonymousClass\AnonymousClass\obj\Debug\net8.0\AnonymousClass.genruntimeconfig.cache
+C:\ReC#\AnonymousClass\AnonymousClass\obj\Debug\net8.0\ref\AnonymousClass.dll

@@ -1,0 +1,14 @@
+C:\ReC#\BinaryString\BinaryString\bin\Debug\net8.0\BinaryString.exe
+C:\ReC#\BinaryString\BinaryString\bin\Debug\net8.0\BinaryString.deps.json
+C:\ReC#\BinaryString\BinaryString\bin\Debug\net8.0\BinaryString.runtimeconfig.json
+C:\ReC#\BinaryString\BinaryString\bin\Debug\net8.0\BinaryString.dll
+C:\ReC#\BinaryString\BinaryString\bin\Debug\net8.0\BinaryString.pdb
+C:\ReC#\BinaryString\BinaryString\obj\Debug\net8.0\BinaryString.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\BinaryString\BinaryString\obj\Debug\net8.0\BinaryString.AssemblyInfoInputs.cache
+C:\ReC#\BinaryString\BinaryString\obj\Debug\net8.0\BinaryString.AssemblyInfo.cs
+C:\ReC#\BinaryString\BinaryString\obj\Debug\net8.0\BinaryString.csproj.CoreCompileInputs.cache
+C:\ReC#\BinaryString\BinaryString\obj\Debug\net8.0\BinaryString.dll
+C:\ReC#\BinaryString\BinaryString\obj\Debug\net8.0\refint\BinaryString.dll
+C:\ReC#\BinaryString\BinaryString\obj\Debug\net8.0\BinaryString.pdb
+C:\ReC#\BinaryString\BinaryString\obj\Debug\net8.0\BinaryString.genruntimeconfig.cache
+C:\ReC#\BinaryString\BinaryString\obj\Debug\net8.0\ref\BinaryString.dll

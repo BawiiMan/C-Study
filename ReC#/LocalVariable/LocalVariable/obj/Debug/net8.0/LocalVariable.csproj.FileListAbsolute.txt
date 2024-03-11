@@ -1,0 +1,14 @@
+C:\ReC#\LocalVariable\LocalVariable\bin\Debug\net8.0\LocalVariable.exe
+C:\ReC#\LocalVariable\LocalVariable\bin\Debug\net8.0\LocalVariable.deps.json
+C:\ReC#\LocalVariable\LocalVariable\bin\Debug\net8.0\LocalVariable.runtimeconfig.json
+C:\ReC#\LocalVariable\LocalVariable\bin\Debug\net8.0\LocalVariable.dll
+C:\ReC#\LocalVariable\LocalVariable\bin\Debug\net8.0\LocalVariable.pdb
+C:\ReC#\LocalVariable\LocalVariable\obj\Debug\net8.0\LocalVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\LocalVariable\LocalVariable\obj\Debug\net8.0\LocalVariable.AssemblyInfoInputs.cache
+C:\ReC#\LocalVariable\LocalVariable\obj\Debug\net8.0\LocalVariable.AssemblyInfo.cs
+C:\ReC#\LocalVariable\LocalVariable\obj\Debug\net8.0\LocalVariable.csproj.CoreCompileInputs.cache
+C:\ReC#\LocalVariable\LocalVariable\obj\Debug\net8.0\LocalVariable.dll
+C:\ReC#\LocalVariable\LocalVariable\obj\Debug\net8.0\refint\LocalVariable.dll
+C:\ReC#\LocalVariable\LocalVariable\obj\Debug\net8.0\LocalVariable.pdb
+C:\ReC#\LocalVariable\LocalVariable\obj\Debug\net8.0\LocalVariable.genruntimeconfig.cache
+C:\ReC#\LocalVariable\LocalVariable\obj\Debug\net8.0\ref\LocalVariable.dll

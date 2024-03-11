@@ -1,0 +1,14 @@
+C:\ReC#\GreetingPage\GreetingPage\bin\Debug\net8.0\GreetingPage.exe
+C:\ReC#\GreetingPage\GreetingPage\bin\Debug\net8.0\GreetingPage.deps.json
+C:\ReC#\GreetingPage\GreetingPage\bin\Debug\net8.0\GreetingPage.runtimeconfig.json
+C:\ReC#\GreetingPage\GreetingPage\bin\Debug\net8.0\GreetingPage.dll
+C:\ReC#\GreetingPage\GreetingPage\bin\Debug\net8.0\GreetingPage.pdb
+C:\ReC#\GreetingPage\GreetingPage\obj\Debug\net8.0\GreetingPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\GreetingPage\GreetingPage\obj\Debug\net8.0\GreetingPage.AssemblyInfoInputs.cache
+C:\ReC#\GreetingPage\GreetingPage\obj\Debug\net8.0\GreetingPage.AssemblyInfo.cs
+C:\ReC#\GreetingPage\GreetingPage\obj\Debug\net8.0\GreetingPage.csproj.CoreCompileInputs.cache
+C:\ReC#\GreetingPage\GreetingPage\obj\Debug\net8.0\GreetingPage.dll
+C:\ReC#\GreetingPage\GreetingPage\obj\Debug\net8.0\refint\GreetingPage.dll
+C:\ReC#\GreetingPage\GreetingPage\obj\Debug\net8.0\GreetingPage.pdb
+C:\ReC#\GreetingPage\GreetingPage\obj\Debug\net8.0\GreetingPage.genruntimeconfig.cache
+C:\ReC#\GreetingPage\GreetingPage\obj\Debug\net8.0\ref\GreetingPage.dll

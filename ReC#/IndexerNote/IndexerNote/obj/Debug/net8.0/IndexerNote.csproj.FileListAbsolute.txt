@@ -1,0 +1,14 @@
+C:\ReC#\IndexerNote\IndexerNote\bin\Debug\net8.0\IndexerNote.exe
+C:\ReC#\IndexerNote\IndexerNote\bin\Debug\net8.0\IndexerNote.deps.json
+C:\ReC#\IndexerNote\IndexerNote\bin\Debug\net8.0\IndexerNote.runtimeconfig.json
+C:\ReC#\IndexerNote\IndexerNote\bin\Debug\net8.0\IndexerNote.dll
+C:\ReC#\IndexerNote\IndexerNote\bin\Debug\net8.0\IndexerNote.pdb
+C:\ReC#\IndexerNote\IndexerNote\obj\Debug\net8.0\IndexerNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\IndexerNote\IndexerNote\obj\Debug\net8.0\IndexerNote.AssemblyInfoInputs.cache
+C:\ReC#\IndexerNote\IndexerNote\obj\Debug\net8.0\IndexerNote.AssemblyInfo.cs
+C:\ReC#\IndexerNote\IndexerNote\obj\Debug\net8.0\IndexerNote.csproj.CoreCompileInputs.cache
+C:\ReC#\IndexerNote\IndexerNote\obj\Debug\net8.0\IndexerNote.dll
+C:\ReC#\IndexerNote\IndexerNote\obj\Debug\net8.0\refint\IndexerNote.dll
+C:\ReC#\IndexerNote\IndexerNote\obj\Debug\net8.0\IndexerNote.pdb
+C:\ReC#\IndexerNote\IndexerNote\obj\Debug\net8.0\IndexerNote.genruntimeconfig.cache
+C:\ReC#\IndexerNote\IndexerNote\obj\Debug\net8.0\ref\IndexerNote.dll

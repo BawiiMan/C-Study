@@ -1,0 +1,14 @@
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\bin\Debug\net8.0\ReflectionGetMembers.exe
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\bin\Debug\net8.0\ReflectionGetMembers.deps.json
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\bin\Debug\net8.0\ReflectionGetMembers.runtimeconfig.json
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\bin\Debug\net8.0\ReflectionGetMembers.dll
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\bin\Debug\net8.0\ReflectionGetMembers.pdb
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\obj\Debug\net8.0\ReflectionGetMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\obj\Debug\net8.0\ReflectionGetMembers.AssemblyInfoInputs.cache
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\obj\Debug\net8.0\ReflectionGetMembers.AssemblyInfo.cs
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\obj\Debug\net8.0\ReflectionGetMembers.csproj.CoreCompileInputs.cache
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\obj\Debug\net8.0\ReflectionGetMembers.dll
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\obj\Debug\net8.0\refint\ReflectionGetMembers.dll
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\obj\Debug\net8.0\ReflectionGetMembers.pdb
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\obj\Debug\net8.0\ReflectionGetMembers.genruntimeconfig.cache
+C:\ReC#\ReflectionGetMembers\ReflectionGetMembers\obj\Debug\net8.0\ref\ReflectionGetMembers.dll

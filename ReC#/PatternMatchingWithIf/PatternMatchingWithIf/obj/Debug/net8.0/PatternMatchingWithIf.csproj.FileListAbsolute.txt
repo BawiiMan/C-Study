@@ -1,0 +1,14 @@
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\bin\Debug\net8.0\PatternMatchingWithIf.exe
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\bin\Debug\net8.0\PatternMatchingWithIf.deps.json
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\bin\Debug\net8.0\PatternMatchingWithIf.runtimeconfig.json
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\bin\Debug\net8.0\PatternMatchingWithIf.dll
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\bin\Debug\net8.0\PatternMatchingWithIf.pdb
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\obj\Debug\net8.0\PatternMatchingWithIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\obj\Debug\net8.0\PatternMatchingWithIf.AssemblyInfoInputs.cache
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\obj\Debug\net8.0\PatternMatchingWithIf.AssemblyInfo.cs
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\obj\Debug\net8.0\PatternMatchingWithIf.csproj.CoreCompileInputs.cache
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\obj\Debug\net8.0\PatternMatchingWithIf.dll
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\obj\Debug\net8.0\refint\PatternMatchingWithIf.dll
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\obj\Debug\net8.0\PatternMatchingWithIf.pdb
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\obj\Debug\net8.0\PatternMatchingWithIf.genruntimeconfig.cache
+C:\ReC#\PatternMatchingWithIf\PatternMatchingWithIf\obj\Debug\net8.0\ref\PatternMatchingWithIf.dll

@@ -1,0 +1,14 @@
+C:\ReC#\Whitespace\Whitespace\bin\Debug\net8.0\Whitespace.exe
+C:\ReC#\Whitespace\Whitespace\bin\Debug\net8.0\Whitespace.deps.json
+C:\ReC#\Whitespace\Whitespace\bin\Debug\net8.0\Whitespace.runtimeconfig.json
+C:\ReC#\Whitespace\Whitespace\bin\Debug\net8.0\Whitespace.dll
+C:\ReC#\Whitespace\Whitespace\bin\Debug\net8.0\Whitespace.pdb
+C:\ReC#\Whitespace\Whitespace\obj\Debug\net8.0\Whitespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\Whitespace\Whitespace\obj\Debug\net8.0\Whitespace.AssemblyInfoInputs.cache
+C:\ReC#\Whitespace\Whitespace\obj\Debug\net8.0\Whitespace.AssemblyInfo.cs
+C:\ReC#\Whitespace\Whitespace\obj\Debug\net8.0\Whitespace.csproj.CoreCompileInputs.cache
+C:\ReC#\Whitespace\Whitespace\obj\Debug\net8.0\Whitespace.dll
+C:\ReC#\Whitespace\Whitespace\obj\Debug\net8.0\refint\Whitespace.dll
+C:\ReC#\Whitespace\Whitespace\obj\Debug\net8.0\Whitespace.pdb
+C:\ReC#\Whitespace\Whitespace\obj\Debug\net8.0\Whitespace.genruntimeconfig.cache
+C:\ReC#\Whitespace\Whitespace\obj\Debug\net8.0\ref\Whitespace.dll

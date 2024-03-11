@@ -1,0 +1,14 @@
+C:\ReC#\EnvironmentExit\EnvironmentExit\bin\Debug\net8.0\EnvironmentExit.exe
+C:\ReC#\EnvironmentExit\EnvironmentExit\bin\Debug\net8.0\EnvironmentExit.deps.json
+C:\ReC#\EnvironmentExit\EnvironmentExit\bin\Debug\net8.0\EnvironmentExit.runtimeconfig.json
+C:\ReC#\EnvironmentExit\EnvironmentExit\bin\Debug\net8.0\EnvironmentExit.dll
+C:\ReC#\EnvironmentExit\EnvironmentExit\bin\Debug\net8.0\EnvironmentExit.pdb
+C:\ReC#\EnvironmentExit\EnvironmentExit\obj\Debug\net8.0\EnvironmentExit.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReC#\EnvironmentExit\EnvironmentExit\obj\Debug\net8.0\EnvironmentExit.AssemblyInfoInputs.cache
+C:\ReC#\EnvironmentExit\EnvironmentExit\obj\Debug\net8.0\EnvironmentExit.AssemblyInfo.cs
+C:\ReC#\EnvironmentExit\EnvironmentExit\obj\Debug\net8.0\EnvironmentExit.csproj.CoreCompileInputs.cache
+C:\ReC#\EnvironmentExit\EnvironmentExit\obj\Debug\net8.0\EnvironmentExit.dll
+C:\ReC#\EnvironmentExit\EnvironmentExit\obj\Debug\net8.0\refint\EnvironmentExit.dll
+C:\ReC#\EnvironmentExit\EnvironmentExit\obj\Debug\net8.0\EnvironmentExit.pdb
+C:\ReC#\EnvironmentExit\EnvironmentExit\obj\Debug\net8.0\EnvironmentExit.genruntimeconfig.cache
+C:\ReC#\EnvironmentExit\EnvironmentExit\obj\Debug\net8.0\ref\EnvironmentExit.dll
